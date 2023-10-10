@@ -1,0 +1,2958 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.rkd.nl/exhibit/10423> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/431> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh and Gauguin : the Studio of the South" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2001-09-22T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2002-01-13T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/343> .
+
+<https://data.rkd.nl/exhibit/105230> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/145624> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : timeless country : modern city" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2010-10-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2011-02-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/193> .
+
+<https://data.rkd.nl/exhibit/107501> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8347> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : up close" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-02-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-05-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2102> .
+
+<https://data.rkd.nl/exhibit/108397> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10568> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Gedroomde landschappen : symbolisme van Van Gogh tot Kandinsky" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-02-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-06-17T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/108398> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9328> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh to Kandinsky : symbolist landscapes in Europe 1880-1910" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-07-14T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-10-14T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/344> .
+
+<https://data.rkd.nl/exhibit/108399> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10559> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh to Kandinsky : symbolist landscapes in Europe 1880-1910" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-11-16T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-02-17T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/5671> .
+
+<https://data.rkd.nl/exhibit/109407> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7133> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Catalogus der schilderijen, teekeningen en beeldhouwwerken tentoongesteld in het museum Boymans te Rotterdam" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1927-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1928-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/110580> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/2021> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Becoming Van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-10-21T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2013-01-20T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1615> .
+
+<https://data.rkd.nl/exhibit/112127> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7805> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Loan Collection of Pictures illustrating the Evolution ...." ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1925-10-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1925-11-21T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3018> .
+
+<https://data.rkd.nl/exhibit/113338> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7177> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh und die Moderne 1890-1914" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1990-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1990-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3254> .
+
+<https://data.rkd.nl/exhibit/113683> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/11125> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Een keuze uit de collectie Hannema-de Stuers" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1977-12-17T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1978-02-05T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/225> .
+
+<https://data.rkd.nl/exhibit/113969> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5235> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh en Belgique" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1980-10-03T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1980-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2608> .
+
+<https://data.rkd.nl/exhibit/114194> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7132> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Nederlandse tekeningen uit de negentiende eeuw 2 1850-1900. Keuze uit de verzameling van het prentenkabinet" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1995-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1995-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/117176> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/166991> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Happy Birthday Dear Academie" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2013-09-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-01-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/223> .
+
+<https://data.rkd.nl/exhibit/11751> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4132> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh en Den Haag" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1990-09-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1990-11-18T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3> .
+
+<https://data.rkd.nl/exhibit/118053> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7410> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Die Wahrheit steht auf dem Papier : Meisterblätter aus der Graphischen Sammlung im Museum Wiesbaden 1450-1900" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-03-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-10-07T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/4377> .
+
+<https://data.rkd.nl/exhibit/118122> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7410> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Horizont Jawlensky : Alexej Jawlensky im Spiegel seiner künstlerischen Begegnungen 1900-1914" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2014-02-14T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-10-19T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/4377> .
+
+<https://data.rkd.nl/exhibit/118165> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8357> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : repetitions" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2013-10-12T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-01-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30411> .
+
+<https://data.rkd.nl/exhibit/118166> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1725> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : repetitions" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2014-03-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-05-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2281> .
+
+<https://data.rkd.nl/exhibit/118178> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9193> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Esprit Montmartre : Bohemian life in Paris around 1900" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2014-02-07T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-06-01T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1349> .
+
+<https://data.rkd.nl/exhibit/118320> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6720> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh / Artaud : le suicidé de la société" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2014-03-11T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-07-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/119925> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/54834> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh, Gauguin, Bernard : dramaet i Arles" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2014-02-07T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-06-22T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/41540> .
+
+<https://data.rkd.nl/exhibit/120751> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/179701> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh and nature" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2015-06-14T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2015-09-13T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/31588> .
+
+<https://data.rkd.nl/exhibit/121806> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/127796> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Liebermann und Van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2015-04-26T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2015-08-10T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/490> .
+
+<https://data.rkd.nl/exhibit/122483> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/194669> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Wilhelm Morgner und die Moderne" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2015-11-13T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2016-03-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/494> .
+
+<https://data.rkd.nl/exhibit/123952> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/213766> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Inspiring impressionism : Daubigny, Monet, Van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2016-06-25T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2016-10-02T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/344> .
+
+<https://data.rkd.nl/exhibit/123973> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/180008> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Ways of pointillism : Seurat, Signac, Van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2016-09-16T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2017-01-08T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/304> .
+
+<https://data.rkd.nl/exhibit/124874> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7177> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Bilder einer Metropole : die Impressionisten in Paris" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2010-10-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2011-01-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3254> .
+
+<https://data.rkd.nl/exhibit/125016> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/192320> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Calme et exaltation : Van Gogh dans la collection Buhrle = Calm and exaltation : Van Gogh in the Bührle Collection" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2017-03-04T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2017-09-17T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1996> .
+
+<https://data.rkd.nl/exhibit/126363> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9021> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Francis Bacon and the art of the past" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2015-04-17T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2015-07-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3018> .
+
+<https://data.rkd.nl/exhibit/126874> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10206> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "The EY exhibition : Van Gogh and Britain" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-03-27T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2019-08-11T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/127255> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10568> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh aan het werk : hoogtepunten" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2013-05-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-01-12T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/127427> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/103875> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Making Van Gogh : a German love story" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-10-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-02-16T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1349> .
+
+<https://data.rkd.nl/exhibit/127455> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/2180> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Barbizon van het Noorden : de ontdekking van het Drentse landschap 1850-1950" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-11-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-03-22T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2277> .
+
+<https://data.rkd.nl/exhibit/127496> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/83215> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : under the spell of the Hague School and Impressionism" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-10-11T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-01-13T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/286> .
+
+<https://data.rkd.nl/exhibit/127497> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/223573> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : under the spell of the Hague School and Impressionism" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2020-01-25T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-03-29T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/40240> .
+
+<https://data.rkd.nl/exhibit/127671> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10568> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh als graficus" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1995-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1995-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/127683> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8830> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Nieuw in Enschede : particuliere verzamelaars en Rijksmuseum Twenthe" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2011-07-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2011-08-28T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/90> .
+
+<https://data.rkd.nl/exhibit/127712> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5541> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Der flaneur : vom Impressionismus bis zur Gegenwart / The flâneur : from impressionism to the present" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2018-09-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2019-01-13T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/4401> .
+
+<https://data.rkd.nl/exhibit/127713> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/223573> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "The highlights of Vincent van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2020-01-25T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-03-29T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/21047> .
+
+<https://data.rkd.nl/exhibit/127734> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7132> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh & Roulin" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2011-04-16T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2011-11-04T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/127735> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7132> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "De Collectie Verrijkt" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2011-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2011-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/127736> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7132> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "De collectie als tijdmachine" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2017-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "rkdexhibit_linked-art.xslt - enddateconverter: conversion error (wrong database value?)"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/127737> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/52184> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Boijmans bij de Buren - Meesterlijk!" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-12-07T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-06-01T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/127738> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/668> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh. Between Wheat and Sky" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2017-10-07T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2018-04-08T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1014> .
+
+<https://data.rkd.nl/exhibit/127760> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/232385> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent en Jan" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1990-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2056> .
+
+<https://data.rkd.nl/exhibit/128803> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1127> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "The César Mange de Hauke bequest" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1968-06-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1968-06-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/128804> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1127> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Master drawings and watercolours in the British Museum" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1984-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1985-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/128805> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1127> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "French drawings in the British Museum" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1996-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1997-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/128806> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10833> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Art in the age of steam" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2008-04-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-08-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1763> .
+
+<https://data.rkd.nl/exhibit/128892> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/239374> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "[Van Gogh]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1896-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1897-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/128933> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10568> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Voor het eerst te zien : Studie voor ‘Worn Out’ = On view for the first time : Study for ‘Worn Out’" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2021-09-16T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-01-02T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/129082> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1931> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh and the olive groves" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2021-10-17T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-02-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/11842> .
+
+<https://data.rkd.nl/exhibit/129083> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10568> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh and the olive groves" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2022-03-11T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-06-12T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/129088> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9647> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Unsere Moderne" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2011-04-29T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2011-07-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2606> .
+
+<https://data.rkd.nl/exhibit/129089> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9692> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "250 Meisterwerke" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1984-10-04T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1985-01-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/684> .
+
+<https://data.rkd.nl/exhibit/129090> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5537> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Orte des Impressionismus : Gemälde und Fotografien" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-04-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2003-07-13T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/485> .
+
+<https://data.rkd.nl/exhibit/129091> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/54018> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh in Budapest" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2006-12-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2007-03-20T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129092> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5537> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Cézanne bis Richter : Meisterwerke aus dem Kunstmuseum Basel" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2015-02-14T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2016-02-21T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/485> .
+
+<https://data.rkd.nl/exhibit/129093> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/80680> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Œuvres choisies du XIXe siècle" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1950-05-22T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1950-07-05T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/129094> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6480> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Toulouse-Lautrec : ses amis et ses maîtres" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1951-08-11T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1951-10-28T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1079> .
+
+<https://data.rkd.nl/exhibit/129297> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240299> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : i colori della vitta" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2020-10-10T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2021-04-11T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1498> .
+
+<https://data.rkd.nl/exhibit/129349> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/938> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "French impressionism: treasures from the Midlands" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1991-06-07T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1991-08-18T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2637> .
+
+<https://data.rkd.nl/exhibit/129416> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7481> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh, Millet and the Barbizon artists [Nagoya, 2004]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2004-04-17T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2004-06-13T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/40114> .
+
+<https://data.rkd.nl/exhibit/129417> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4389> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh, Millet and the Barbizon artists [Hiroshima, 2004]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2004-08-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2004-10-17T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/957> .
+
+<https://data.rkd.nl/exhibit/129418> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5109> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Songs in praise of rural life : the nature and man relationship in modern art [Kitakyushu, 2008]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2008-01-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-02-17T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/53769> .
+
+<https://data.rkd.nl/exhibit/129419> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4389> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Songs in praise of rural life : the nature and man relationship in modern art [Hiroshima, 2008]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2008-02-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-04-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/957> .
+
+<https://data.rkd.nl/exhibit/129422> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240786> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Camille Pissarro : patriarche de la modernité [Ustunomiya, 2012]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-03-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-05-27T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/77236> .
+
+<https://data.rkd.nl/exhibit/129423> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/223573> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Camille Pissarro : patriarche de la modernité [Kobe, 2012]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-06-06T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-08-19T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/21047> .
+
+<https://data.rkd.nl/exhibit/129424> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/212179> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Salvador Dali and masters of modern French paintings : from the collection of Morohashi Museum of Modern Art" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2014-02-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-03-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/60549> .
+
+<https://data.rkd.nl/exhibit/129425> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionist and 21 masters" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2002-07-04T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2002-12-01T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129426> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "5th anniversary : surrealism exhibition from the Okazaki city museum collection" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-04-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2003-06-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129427> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionists and 23 masters" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-07-04T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2003-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129428> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism and 20th century masters [Fukushima, 2004]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2004-07-04T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2004-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129429> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "The exhibition from Morohashi collection : impressionism to surrealism" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2005-06-09T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2005-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129430> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism and 20th century masters : permanent exhibition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2006-04-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2006-09-18T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129431> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Fleur de Paris Marie Laurencin exposition : special exhibition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2007-04-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2007-06-01T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129432> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism and 20th century masters [Fukushima, 2007]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2007-06-13T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2007-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129433> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Two Spanish masters : Dalí and Picasso" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2008-04-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-06-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129434> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism and 20th century masters : permanent exhibition [Fukushima, 2008]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2008-06-13T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129435> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism and 20th century masters : permanent exhibition [Fukushima, 2009]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2009-04-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2009-06-28T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129436> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Pablo Picasso : the painter IV : impressionists and 20th century masters : new collection" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2009-07-04T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2009-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129437> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "A travelogue of paintings : from the outskirts of Paris to Montparnasse : thematic exhibition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2010-07-03T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2010-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129448> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism and 20th century masters : collection exhibition [Fukushima, 2011]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2011-06-25T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2011-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129449> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism and 20th century masters : permanent exhibition [Fukushima, 2013]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2013-07-06T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2013-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129450> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism and 20th century masters : permanent exhibition [Fukushima, 2014]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2014-07-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129451> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Collection exhibition [Fukushima, 2015]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2015-07-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2015-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129452> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionists and the great masters of the Western modern art : collection exhibition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2016-09-11T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2016-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129453> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "The masters who decorated the Salon d'Automne : collection exhibition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2017-04-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2017-09-03T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129454> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Collection exhibition [Fukushima, 2018]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2018-04-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2018-06-24T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129455> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/240787> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Looking for the 4th dimension with works of Salvador Dalí and contemporary art : 20th anniversary vol. 2" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-07-13T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2019-11-24T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/34462> .
+
+<https://data.rkd.nl/exhibit/129598> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/180008> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh, Cézanne, Matisse, Hodler : Die Sammlung Hahnloser" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2020-02-21T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-11-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/304> .
+
+<https://data.rkd.nl/exhibit/129599> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7527> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Roderic O'Conor and the Moderns : between Paris and Pont-Aven" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2018-07-18T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2018-10-28T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2032> .
+
+<https://data.rkd.nl/exhibit/129600> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/2547> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Laura Owens" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2021-06-19T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2021-10-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1996> .
+
+<https://data.rkd.nl/exhibit/129601> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5555> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Expressionismus in der Schweiz" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2021-07-10T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-01-16T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/354> .
+
+<https://data.rkd.nl/exhibit/129603> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10344> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "From Impressionism to modern art : masterpieces from the collection of Kunstmuseum Winterthur" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2010-06-13T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2010-07-25T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/77236> .
+
+<https://data.rkd.nl/exhibit/129604> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8147> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "The anxious creation" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-09-12T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2004-01-11T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1127> .
+
+<https://data.rkd.nl/exhibit/129605> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4372> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism : paintings collected by European museums" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1999-01-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1999-05-16T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/13413> .
+
+<https://data.rkd.nl/exhibit/129647> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/192319> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Soleil chaud, soleil tardif : les modernes indomptés" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2018-04-21T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2018-10-28T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1996> .
+
+<https://data.rkd.nl/exhibit/129648> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/118280> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Chefs-d’œuvre du Musée Angladon - Collection Jacques Doucet" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2016-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2017-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1595> .
+
+<https://data.rkd.nl/exhibit/129772> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8271> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "X. Jahrgang. 1907/1908. VII. Ausstellung. [Kollektion Vincent van Gogh]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1908-03-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1908-03-22T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/490> .
+
+<https://data.rkd.nl/exhibit/129773> a crm:E7_Activity ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Degas to Dalí : from the National Galleries of Scotland" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2013-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/exhibit/129775> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7529> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism & Scotland [Edinburgh]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2008-07-19T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-10-12T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/344> .
+
+<https://data.rkd.nl/exhibit/129776> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/94419> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionism & Scotland [Glasgow]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2008-10-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2009-02-01T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/541> .
+
+<https://data.rkd.nl/exhibit/129777> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/102850> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "[Van Gogh exhibition]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1911-11-10T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1912-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/698> .
+
+<https://data.rkd.nl/exhibit/129778> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/3931> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh, 1853-1890 [Glasgow, 1948]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1948-02-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1948-03-14T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/541> .
+
+<https://data.rkd.nl/exhibit/129779> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1313> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "L'Impressionismo e l'età di Van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2002-11-09T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2003-03-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3170> .
+
+<https://data.rkd.nl/exhibit/129780> a crm:E7_Activity ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Degas to Dalí : from the National Galleries of Scotland" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2013-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/exhibit/129781> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7553> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Colour and light : fifty impressionist and post-impressionist works at the National Museum of Wales" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2005-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2006-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1648> .
+
+<https://data.rkd.nl/exhibit/129782> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7517> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Gauguin's vision" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2005-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2006-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/344> .
+
+<https://data.rkd.nl/exhibit/129945> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/101410> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Graphik des Impressionismus" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2001-03-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2001-06-17T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/20244> .
+
+<https://data.rkd.nl/exhibit/129946> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6786> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "La gravure impressionniste : De l'école de Barbizon aux nabis" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2001-09-13T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2001-12-12T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1587> .
+
+<https://data.rkd.nl/exhibit/129948> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6614> ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-11-15T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2004-01-25T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/10854> .
+
+<https://data.rkd.nl/exhibit/129949> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/51864> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "In depot / uit depot. De modernen in het koninklijk museum" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1993-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1994-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/223> .
+
+<https://data.rkd.nl/exhibit/129950> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/51864> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vrouwenrechten geweld aangedaan" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2005-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2005-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/223> .
+
+<https://data.rkd.nl/exhibit/129951> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/51854> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "De Modernen. Topstukken uit het Koninklijk Museum" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2011-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/223> .
+
+<https://data.rkd.nl/exhibit/129952> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/51854> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "De Modernen. Kunst uit Nederland" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2012-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2012-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/223> .
+
+<https://data.rkd.nl/exhibit/129953> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/171153> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Nabeeld. Koen Broucke. Jan Cockx. Vincent van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2014-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2014-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/8300> .
+
+<https://data.rkd.nl/exhibit/129954> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/224006> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh in de Borinage. De geboorte van een kunstenaar" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2015-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2015-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2608> .
+
+<https://data.rkd.nl/exhibit/129955> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1127> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "NACF exhibition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2004-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/129956> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1127> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "50th anniversary of the Harold Wright Scholarship" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-11-12T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-01-12T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/129957> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/242427> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Bedlam: the asylum and beyond" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2016-09-15T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2017-01-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/129958> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1127> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "French impressions: prints from Manet to Cézanne" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2020-02-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-08-09T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/129959> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6422> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "A köztulajdonba vett műkincsek első kiállítása" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1919-06-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1919-06-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129960> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Modern rajzok. Dr. Majovszky Pál gyűjteménye. A Grafikai Osztály kiállításai XLIII" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1921-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "rkdexhibit_linked-art.xslt - enddateconverter: conversion error (wrong database value?)"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129961> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Német rajzok, 1650-1914" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1932-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "rkdexhibit_linked-art.xslt - enddateconverter: conversion error (wrong database value?)"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129962> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "A Majovszky-gyűjtemény" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1935-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "rkdexhibit_linked-art.xslt - enddateconverter: conversion error (wrong database value?)"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129963> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "A Grafikai Osztály legszebb külföldi rajzai" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1936-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "rkdexhibit_linked-art.xslt - enddateconverter: conversion error (wrong database value?)"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129964> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/102839> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Szedevrij riszunka Muzej Izobrazityelnih Iszkussztvo v Budapeste" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1970-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "rkdexhibit_linked-art.xslt - enddateconverter: conversion error (wrong database value?)"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/411> .
+
+<https://data.rkd.nl/exhibit/129965> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/179357> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "From Raphael to Schiele. Masterpieces from the Museum of Fine Arts in Budapest" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2015-09-17T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2016-02-07T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/245> .
+
+<https://data.rkd.nl/exhibit/129966> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7533> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh and the Seasons" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2017-04-28T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2017-07-09T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/5080> .
+
+<https://data.rkd.nl/exhibit/129967> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "The Paper Side of Art" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2021-06-04T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2021-08-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129971> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Monet and friends" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-12-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2004-03-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129975> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Hetvenöt éves a Szépművészeti Múzeum" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1981-11-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1981-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129976> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Rajzok. 19-20. század" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1986-07-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1986-07-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/129977> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6735> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Chefs-d’œuvre de Budapest – Dürer, Greco, Tiepolo, Manet, Rippl-Rónai" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2016-03-09T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2016-07-10T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/130095> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/224006> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Anto-Carte" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2022-03-18T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-08-28T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2608> .
+
+<https://data.rkd.nl/exhibit/13100> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/2036> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : face to face : the portraits" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2000-03-12T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2000-06-04T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1582> .
+
+<https://data.rkd.nl/exhibit/13170> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10948> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Voorjaarstentoonstelling : Haagse School, Nederlandse impressionisten, nieuwe aanwinsten" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1971-04-17T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1971-05-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2623> .
+
+<https://data.rkd.nl/exhibit/15527> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10698> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh (1853-1890) : Leben und Schaffen : Dokumentation Gemälde, Zeichnungen" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1957-10-16T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1957-12-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3254> .
+
+<https://data.rkd.nl/exhibit/15765> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4802> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh in Nero : la grafica" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1997-10-11T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1997-12-14T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/221> .
+
+<https://data.rkd.nl/exhibit/17997> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4183> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Zeichnen ist Sehen : Meisterwerke von Ingres bis Cézanne aus dem Museum der bildenden Künste Budapest und aus Schweizer Sammlungen" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1996-07-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1996-09-08T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/698> .
+
+<https://data.rkd.nl/exhibit/20005> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9648> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Die französischen Zeichnungen 1570-1930 : kritischer und erläuternder Katalog" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1983-09-10T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1983-11-20T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2606> .
+
+<https://data.rkd.nl/exhibit/20566> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9828> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Internationale Kunstausstellung des Sonderbundes Westdeutscher Kunstfreunde und Künstler zu Cöln 1912 : illustr. Katalog" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1912-05-25T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1912-09-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/52> .
+
+<https://data.rkd.nl/exhibit/22782> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/651> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh in England : portrait of the artist as a young man" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1992-02-27T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1992-05-04T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/25753> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/2541> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh [Martigny, 2000]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2000-06-21T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2000-11-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/57299> .
+
+<https://data.rkd.nl/exhibit/2631> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9944> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Tentoonstelling van schilderijen en teekeningen door Vincent van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1905-07-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1905-08-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/27911> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6259> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh in Saint-Remy and Auvers" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1986-11-25T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1987-03-22T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/392> .
+
+<https://data.rkd.nl/exhibit/27974> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6259> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Un ami de Cézanne et van Gogh : le docteur Gachet" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1999-05-17T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1999-08-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/392> .
+
+<https://data.rkd.nl/exhibit/29357> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5290> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : tekeningen [Otterlo, 1990]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1990-03-30T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1990-07-21T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/13026> .
+
+<https://data.rkd.nl/exhibit/30186> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4021> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Un ami de Cézanne et van Gogh : le docteur Gachet" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1999-01-28T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1999-04-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/30488> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6720> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh à Paris" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1988-02-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1988-05-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/30539> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6720> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Millet / Van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1998-09-14T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1999-01-03T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/31071> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8347> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : face to face : the portraits" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2000-10-22T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2001-01-14T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2102> .
+
+<https://data.rkd.nl/exhibit/31253> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7488> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Evropská Kresba 19. a 20. století ze sbírek Muzea krásnych umení v Budapestí" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1978-11-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1978-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/387> .
+
+<https://data.rkd.nl/exhibit/33745> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9477> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Eeuwwisseling" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2000-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2001-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/77089> .
+
+<https://data.rkd.nl/exhibit/34756> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/72856> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh Exhibition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1985-10-12T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1985-12-08T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/286> .
+
+<https://data.rkd.nl/exhibit/3493> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10568> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Un ami de Cézanne et van Gogh : le docteur Gachet" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1999-09-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1999-12-05T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/36407> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7521> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Leonardo to Van Gogh : master drawings from Budapest" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1985-05-12T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1985-07-14T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30411> .
+
+<https://data.rkd.nl/exhibit/36681> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/639> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh und die Haager Schule" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1996-02-28T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1996-05-27T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/304> .
+
+<https://data.rkd.nl/exhibit/38610> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7134> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Impressionisme : een schone kijk : de stroming en de aanloop" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1992-09-19T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1992-11-29T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/4017> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/51864> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "In dienst van de kunst : Antwerps mecenaat rond 'Kunst van Heden' (1905-1959) : retrospectieve tentoonstelling" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1991-02-17T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1991-04-21T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/223> .
+
+<https://data.rkd.nl/exhibit/40886> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5418> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : fields : the field with poppies and the artists dispute" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2002-10-19T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2003-01-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1993> .
+
+<https://data.rkd.nl/exhibit/41873> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6142> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "XIX and XX century European masters : paintings, drawings, sculpture [1959]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1959-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1960-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/42714> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5825> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "XIX and XX century French paintings and drawings [1963]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1963-11-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1963-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/42771> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7133> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Kersttentoonstelling in het Museum Boymans [Rotterdam, 1927]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1927-12-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1928-01-16T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/43110> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7133> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Drie en zestig schilderijen uit de verzameling Willem van der Vorm" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1950-12-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1951-01-29T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/45222> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/73744> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Französische Kunst des XIX. u. XX. Jahrhunderts" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1917-10-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1917-11-14T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/659> .
+
+<https://data.rkd.nl/exhibit/4845> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/2180> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "De Haagse School in Drenthe" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1997-02-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1997-05-04T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2277> .
+
+<https://data.rkd.nl/exhibit/49685> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/77086> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Cinquante ans de peinture française, 1875-1925 [Parijs, 1925]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1925-05-28T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1925-07-12T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/49783> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/49989> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Trente ans d'art indépendant, 1884-1914 [Parijs, 1926]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1926-02-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1926-03-21T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/52118> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5506> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "La peinture française du XIXe siècle en Suisse [Parijs, 1938]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1938-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1939-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/659> .
+
+<https://data.rkd.nl/exhibit/55180> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/9944> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : herdenkingstentoonstelling" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1953-07-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1953-09-20T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/55368> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5506> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : Zeichnungen und Aquarelle [Zürich, 1967]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1967-04-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1967-06-04T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/659> .
+
+<https://data.rkd.nl/exhibit/55384> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8051> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : dessins/aquarelles [Lille, 1967]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1967-01-14T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1967-03-13T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/805> .
+
+<https://data.rkd.nl/exhibit/55473> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/77859> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Exhibition of the paintings Vincent van Gogh [Arts and Crafts, 1898]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1898-11-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1898-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3> .
+
+<https://data.rkd.nl/exhibit/55481> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/84331> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Een Van Gogh-tentoonstelling in Groningen [1904]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1904-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1905-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/35> .
+
+<https://data.rkd.nl/exhibit/55483> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7889> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Tentoonstelling van werken door Vincent van Gogh [Oldenzeel, 1904]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1904-11-10T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1904-12-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/30> .
+
+<https://data.rkd.nl/exhibit/55485> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10713> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Société des Artistes Indépendants : 21me exposition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1905-03-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1905-04-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/55499> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/810> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Cent tableaux de Vincent van Gogh [Bernheim-Jeune, 1908]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1908-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1908-02-28T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/55530> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/1339> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "III. Ausstellung, XIII. Jahrgang : Vincent van Gogh, 1853-1890 [Berlijn, 1910]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1910-10-25T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1910-11-20T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/490> .
+
+<https://data.rkd.nl/exhibit/55574> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/84359> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : exhibition [New York, 1920]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1920-10-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1920-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/392> .
+
+<https://data.rkd.nl/exhibit/55576> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/52600> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Catalogue of an exhibition of works by Vincent van Gogh (1853-1890) [Londen, 1923]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1923-12-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1924-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/55581> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5414> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh [Basel, 1924]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1924-03-27T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1924-04-21T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/485> .
+
+<https://data.rkd.nl/exhibit/55585> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/809> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Exposition rétrospective d'oeuvres de Vincent van Gogh (1853-1890) [Bernheim, 1925]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1925-01-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1925-01-24T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/55719> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/45143> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh, 1853-1890 [Londen, 1947]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1947-12-09T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1948-01-14T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/55728> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8824> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Eeuwfeest Vincent van Gogh, zomer 1953 [Otterlo, 1953]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1953-05-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1953-07-19T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/13026> .
+
+<https://data.rkd.nl/exhibit/55736> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6783> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh, 1853-1890 [Parijs, 1960]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1960-02-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1960-03-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/55762> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6605> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh [Lyon, 1951]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1951-02-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1951-03-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/714> .
+
+<https://data.rkd.nl/exhibit/55764> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/179357> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : dipinti e disegni [Milaan, 1952]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1952-02-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1952-04-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/245> .
+
+<https://data.rkd.nl/exhibit/55780> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/48143> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh, 1853-1890 : quelques oeuvres de l'époque 1881-1886 provenant de collections particulières Néerlandaises [Van Wisselingh, 1956]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1956-02-20T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1956-03-17T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/55814> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/84518> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Exposition Vincent van Gogh : oeuvres originales et la collection complète des reproductions d'oeuvres de Vincent [Cuesmes, 1960]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1960-10-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1960-10-20T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/10855> .
+
+<https://data.rkd.nl/exhibit/55822> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/48142> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh, 1853-1890 : aquarelles & dessins de l'époque 1881-1885, provenant de collections particulières Néerlandaises [Van Wisselingh, 1961]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1961-04-19T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1961-05-18T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/55839> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/2620> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : Zeichnungen und Aquarelle [Frankfurt am Main, 1970]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1970-04-30T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1970-06-21T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1349> .
+
+<https://data.rkd.nl/exhibit/55881> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7481> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh Exhibition" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1985-12-19T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1986-02-02T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1591> .
+
+<https://data.rkd.nl/exhibit/55888> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6259> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh in Arles [New York, 1984]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1984-10-18T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1984-12-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/392> .
+
+<https://data.rkd.nl/exhibit/55921> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/73213> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh's postman : the portraits of Joseph Roulin [New York, 2001]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2001-02-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2001-05-15T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/392> .
+
+<https://data.rkd.nl/exhibit/56002> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8833> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh in zijn Hollandse jaren : kijk op stad en land door Van Gogh en zijn tijdgenoten, 1870-1890  [Amsterdam, 1980]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1980-12-13T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1981-03-22T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/5753> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5537> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Zwei Ausstellungen aus Privatbesitz in der Schweiz : Meisterwerke Holländischer Malerei des 16. bis 18. Jahrhunderts im Kunstmuseum : 25 Werke von Vincent van Gogh in der Galerie M. Schulthess" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1945-06-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1945-08-19T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/485> .
+
+<https://data.rkd.nl/exhibit/57979> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/48572> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Seventy master drawings" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1948-11-27T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1949-01-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1293> .
+
+<https://data.rkd.nl/exhibit/58436> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4035> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Meisterzeichnungen aus dem Museum der Schönen Künste in Budapest" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1967-05-22T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1967-07-09T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/304> .
+
+<https://data.rkd.nl/exhibit/59562> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/59203> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Drawing : technique & purpose" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1981-01-28T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1981-04-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/60434> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7932> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Maurice Denis [Parijs, 1970]" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1970-06-03T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1970-08-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/129> .
+
+<https://data.rkd.nl/exhibit/61545> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/3855> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Haagse School en de jonge Van Gogh" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2005-02-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2005-05-16T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/3> .
+
+<https://data.rkd.nl/exhibit/68523> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10568> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh tekenaar : de meesterwerken" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2005-07-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2005-09-18T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/29> .
+
+<https://data.rkd.nl/exhibit/68524> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/6259> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh tekenaar : de meesterwerken" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2005-10-11T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2005-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/392> .
+
+<https://data.rkd.nl/exhibit/7072> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5540> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Zeichnen ist Sehen : Meisterwerke von Ingres bis Cézanne aus dem Museum der bildenden Künste Budapest und aus Schweizer Sammlungen" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1996-03-29T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1996-06-02T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/355> .
+
+<https://data.rkd.nl/exhibit/72357> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/88328> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh and Britain : pioneer collectors" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2006-03-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2006-06-18T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/25271> .
+
+<https://data.rkd.nl/exhibit/72358> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/100617> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh and Britain : pioneer collectors" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2006-07-07T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2006-09-24T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/344> .
+
+<https://data.rkd.nl/exhibit/74028> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/102234> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Gauguin / Van Gogh : l'avventura del colore nuovo" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2005-10-22T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2006-03-19T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/28594> .
+
+<https://data.rkd.nl/exhibit/7789> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/7291> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : face to face : the portraits" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2000-07-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2000-09-24T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/2431> .
+
+<https://data.rkd.nl/exhibit/80281> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/67290> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "The mirror and the mask : portraiture in the age of Picasso" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2007-02-06T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2007-05-20T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/877> .
+
+<https://data.rkd.nl/exhibit/81719> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/115631> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "La dignité des humbles : Jean-François Millet et le naturalisme en Europe" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-04-10T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2003-07-13T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/286> .
+
+<https://data.rkd.nl/exhibit/81720> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/2672> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "La dignité des humbles : Jean-François Millet et le naturalisme en Europe" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2003-07-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2003-09-26T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/31746> .
+
+<https://data.rkd.nl/exhibit/8206> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5418> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "150 Jahre Kunstverein in Bremen : Jubiläums-Stiftung 1973 : Gemälde, Skulpturen, Handzeichnungen und druckgraphische Blätter, die dem Kunstverein anlässlich seines 150jährigen Bestehens von seinen Freunden und Förderern geschenkt wurden" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1973-11-16T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1974-01-20T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/1993> .
+
+<https://data.rkd.nl/exhibit/83155> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/111365> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : painted with words : the letters to Émile Bernard" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2007-09-28T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-01-06T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/392> .
+
+<https://data.rkd.nl/exhibit/87315> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/4035> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Van Gogh : heartfelt lines" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2008-09-05T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2008-12-08T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/304> .
+
+<https://data.rkd.nl/exhibit/90818> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/130104> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : the park of the hosptal Saint-Paul" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2009-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2010-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/9198> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8210> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Oeuvres d'art acquises par l'etat en 1958 = Kunstwerken verworven door de staat in 1958" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1959-01-10T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1959-01-25T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/195> .
+
+<https://data.rkd.nl/exhibit/92307> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5537> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Vincent van Gogh : between earth and heaven : the landscapes" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2009-04-26T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2009-09-27T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/485> .
+
+<https://data.rkd.nl/exhibit/95364> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/5348> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Gipfeltreffen der Moderne : das Kunstmueum Winterthur" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2009-04-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2009-08-23T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/4401> .
+
+<https://data.rkd.nl/exhibit/95397> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/8934> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "real Van Gogh : the artist and his letters" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2010-01-23T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2010-04-18T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/236> .
+
+<https://data.rkd.nl/exhibit/9600> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/10172> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Emlékkiállitás a Magyar tanácsköztársaság : 40. évforddulója alkalmából : a Majovszky gyüjtemény" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1959-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1960-12-31T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/520> .
+
+<https://data.rkd.nl/exhibit/98005> a crm:E7_Activity ;
+    crm:P14_carried_out_by <https://data.rkd.nl/venue/51864> ;
+    crm:P1_is_identified_by [ a crm:E33_E41_Linguistic_Appellation ;
+            crm:P190_has_symbolic_content "Closing time : Jan Vanriet" ] ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2010-04-24T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2010-10-03T23:59:59"^^xsd:dateTime ] ;
+    crm:P7_took_place_at <https://data.rkd.nl/thesau/223> .
+
+<https://data.rkd.nl/thesau/1014> a crm:E53_Place ;
+    rdfs:label "Vicenza (city)Vicenza (stad)" .
+
+<https://data.rkd.nl/thesau/1079> a crm:E53_Place ;
+    rdfs:label "AlbiAlbi" .
+
+<https://data.rkd.nl/thesau/10854> a crm:E53_Place ;
+    rdfs:label "PontoisePontoise" .
+
+<https://data.rkd.nl/thesau/10855> a crm:E53_Place ;
+    rdfs:label "CuesmesCuesmes" .
+
+<https://data.rkd.nl/thesau/1127> a crm:E53_Place ;
+    rdfs:label "Verona (city)Verona (stad)" .
+
+<https://data.rkd.nl/thesau/11842> a crm:E53_Place ;
+    rdfs:label "Dallas (Texas)Dallas (Texas)" .
+
+<https://data.rkd.nl/thesau/1293> a crm:E53_Place ;
+    rdfs:label "Cambridge (Massachusetts)Cambridge (Massachusetts)" .
+
+<https://data.rkd.nl/thesau/13413> a crm:E53_Place ;
+    rdfs:label "Atlanta (Georgia)Atlanta (Georgia)" .
+
+<https://data.rkd.nl/thesau/1498> a crm:E53_Place ;
+    rdfs:label "PaduaPadua" .
+
+<https://data.rkd.nl/thesau/1582> a crm:E53_Place ;
+    rdfs:label "Detroit (Michigan)Detroit (Michigan)" .
+
+<https://data.rkd.nl/thesau/1587> a crm:E53_Place ;
+    rdfs:label "Vevey (Switzerland)Vevey (Zwitserland)" .
+
+<https://data.rkd.nl/thesau/1591> a crm:E53_Place ;
+    rdfs:label "NagoyaNagoya" .
+
+<https://data.rkd.nl/thesau/1595> a crm:E53_Place ;
+    rdfs:label "AvignonAvignon" .
+
+<https://data.rkd.nl/thesau/1615> a crm:E53_Place ;
+    rdfs:label "Denver (Colorado)Denver (Colorado)" .
+
+<https://data.rkd.nl/thesau/1648> a crm:E53_Place ;
+    rdfs:label "Cardiff (Wales)Cardiff (Wales)" .
+
+<https://data.rkd.nl/thesau/1763> a crm:E53_Place ;
+    rdfs:label "Liverpool (England)Liverpool (Engeland)" .
+
+<https://data.rkd.nl/thesau/193> a crm:E53_Place ;
+    rdfs:label "RomeRome" .
+
+<https://data.rkd.nl/thesau/195> a crm:E53_Place ;
+    rdfs:label "BrusselsBrussel" .
+
+<https://data.rkd.nl/thesau/20244> a crm:E53_Place ;
+    rdfs:label "Baden (Aargau)Baden (Aargau)" .
+
+<https://data.rkd.nl/thesau/2032> a crm:E53_Place ;
+    rdfs:label "Dublin (city)Dublin (stad)" .
+
+<https://data.rkd.nl/thesau/2056> a crm:E53_Place ;
+    rdfs:label "Zundert (place)Zundert (plaats)" .
+
+<https://data.rkd.nl/thesau/221> a crm:E53_Place ;
+    rdfs:label "FlorenceFlorence" .
+
+<https://data.rkd.nl/thesau/225> a crm:E53_Place ;
+    rdfs:label "Amersfoort (place)Amersfoort (plaats)" .
+
+<https://data.rkd.nl/thesau/2281> a crm:E53_Place ;
+    rdfs:label "Cleveland (Ohio)Cleveland (Ohio)" .
+
+<https://data.rkd.nl/thesau/2431> a crm:E53_Place ;
+    rdfs:label "Boston (Massachusetts)Boston (Massachusetts)" .
+
+<https://data.rkd.nl/thesau/25271> a crm:E53_Place ;
+    rdfs:label "Warwickshire (county)Warwickshire (graafschap)" .
+
+<https://data.rkd.nl/thesau/2623> a crm:E53_Place ;
+    rdfs:label "Deurne (place, Noord-Brabant)Deurne (plaats, Noord-Brabant)" .
+
+<https://data.rkd.nl/thesau/2637> a crm:E53_Place ;
+    rdfs:label "Birmingham (Great Britain)Birmingham (Groot-Brittannië)" .
+
+<https://data.rkd.nl/thesau/28594> a crm:E53_Place ;
+    rdfs:label "Brescia (city)Brescia (stad)" .
+
+<https://data.rkd.nl/thesau/31588> a crm:E53_Place ;
+    rdfs:label "Williamstown (Massachusetts)Williamstown (Massachusetts)" .
+
+<https://data.rkd.nl/thesau/3170> a crm:E53_Place ;
+    rdfs:label "Treviso (place)Treviso (plaats)" .
+
+<https://data.rkd.nl/thesau/31746> a crm:E53_Place ;
+    rdfs:label "Fukuoka (city)Fukuoka (stad)" .
+
+<https://data.rkd.nl/thesau/343> a crm:E53_Place ;
+    rdfs:label "Chicago (Illinois)Chicago (Illinois)" .
+
+<https://data.rkd.nl/thesau/35> a crm:E53_Place ;
+    rdfs:label "Groningen (city)Groningen (stad)" .
+
+<https://data.rkd.nl/thesau/354> a crm:E53_Place ;
+    rdfs:label "Winterthur (Switzerland)Winterthur (Zwitserland)" .
+
+<https://data.rkd.nl/thesau/355> a crm:E53_Place ;
+    rdfs:label "Bern (city)Bern (stad)" .
+
+<https://data.rkd.nl/thesau/387> a crm:E53_Place ;
+    rdfs:label "PraguePraag" .
+
+<https://data.rkd.nl/thesau/40114> a crm:E53_Place ;
+    rdfs:label "Aichi (prefecture)Aichi (prefectuur)" .
+
+<https://data.rkd.nl/thesau/40240> a crm:E53_Place ;
+    rdfs:label "Hyogo (prefecture)Hyogo (prefectuur)" .
+
+<https://data.rkd.nl/thesau/411> a crm:E53_Place ;
+    rdfs:label "Sint-Petersburg (city)Sint-Petersburg (stad)" .
+
+<https://data.rkd.nl/thesau/41540> a crm:E53_Place ;
+    rdfs:label "CopenhagenKopenhagen" .
+
+<https://data.rkd.nl/thesau/494> a crm:E53_Place ;
+    rdfs:label "Münster (city, Germany)Münster (stad, Duitsland)" .
+
+<https://data.rkd.nl/thesau/5080> a crm:E53_Place ;
+    rdfs:label "MelbourneMelbourne" .
+
+<https://data.rkd.nl/thesau/52> a crm:E53_Place ;
+    rdfs:label "Keulen (city)Keulen (stad)" .
+
+<https://data.rkd.nl/thesau/53769> a crm:E53_Place ;
+    rdfs:label "KitakyushuKitakyushu" .
+
+<https://data.rkd.nl/thesau/5671> a crm:E53_Place ;
+    rdfs:label "HelsinkiHelsinki" .
+
+<https://data.rkd.nl/thesau/57299> a crm:E53_Place ;
+    rdfs:label "Martigny (Wallis)Martigny (Wallis)" .
+
+<https://data.rkd.nl/thesau/60549> a crm:E53_Place ;
+    rdfs:label "Otsu (Shiga)Otsu (Shiga)" .
+
+<https://data.rkd.nl/thesau/684> a crm:E53_Place ;
+    rdfs:label "Stuttgart (city)Stuttgart (stad)" .
+
+<https://data.rkd.nl/thesau/714> a crm:E53_Place ;
+    rdfs:label "LyonLyon" .
+
+<https://data.rkd.nl/thesau/77089> a crm:E53_Place ;
+    rdfs:label "[S.l.][S.l.]" .
+
+<https://data.rkd.nl/thesau/805> a crm:E53_Place ;
+    rdfs:label "Lille (France)Lille (Frankrijk)" .
+
+<https://data.rkd.nl/thesau/8300> a crm:E53_Place ;
+    rdfs:label "DrogenbosDrogenbos" .
+
+<https://data.rkd.nl/thesau/877> a crm:E53_Place ;
+    rdfs:label "Madrid (city, Spain)Madrid (stad, Spanje)" .
+
+<https://data.rkd.nl/thesau/90> a crm:E53_Place ;
+    rdfs:label "Enschede (city)Enschede (stad)" .
+
+<https://data.rkd.nl/venue/100617> a crm:E39_Actor ;
+    rdfs:label "Dean Gallery" .
+
+<https://data.rkd.nl/venue/101410> a crm:E39_Actor ;
+    rdfs:label "Museum Langmatt" .
+
+<https://data.rkd.nl/venue/10206> a crm:E39_Actor ;
+    rdfs:label "Tate Britain" .
+
+<https://data.rkd.nl/venue/102234> a crm:E39_Actor ;
+    rdfs:label "Santa Giulia, Museo di" .
+
+<https://data.rkd.nl/venue/102839> a crm:E39_Actor ;
+    rdfs:label "Hermitage [Leningrad]" .
+
+<https://data.rkd.nl/venue/102850> a crm:E39_Actor ;
+    rdfs:label "Galerie Commeter" .
+
+<https://data.rkd.nl/venue/10344> a crm:E39_Actor ;
+    rdfs:label "Tochigi Prefectural Museum of Fine Arts" .
+
+<https://data.rkd.nl/venue/103875> a crm:E39_Actor ;
+    rdfs:label "Städel Museum" .
+
+<https://data.rkd.nl/venue/10559> a crm:E39_Actor ;
+    rdfs:label "Valtion Taidemuseo" .
+
+<https://data.rkd.nl/venue/10698> a crm:E39_Actor ;
+    rdfs:label "Villa Hügel" .
+
+<https://data.rkd.nl/venue/10713> a crm:E39_Actor ;
+    rdfs:label "Ville de Paris" .
+
+<https://data.rkd.nl/venue/10833> a crm:E39_Actor ;
+    rdfs:label "Walker Art Gallery" .
+
+<https://data.rkd.nl/venue/10948> a crm:E39_Actor ;
+    rdfs:label "Wiegersma, Kunsthandel Tjerk" .
+
+<https://data.rkd.nl/venue/11125> a crm:E39_Actor ;
+    rdfs:label "Zonnehof" .
+
+<https://data.rkd.nl/venue/111365> a crm:E39_Actor ;
+    rdfs:label "Morgan Library and Museum" .
+
+<https://data.rkd.nl/venue/115631> a crm:E39_Actor ;
+    rdfs:label "Bunkamura Museum of Art" .
+
+<https://data.rkd.nl/venue/118280> a crm:E39_Actor ;
+    rdfs:label "Musée Angladon" .
+
+<https://data.rkd.nl/venue/127796> a crm:E39_Actor ;
+    rdfs:label "Liebermann-Villa am Wannsee" .
+
+<https://data.rkd.nl/venue/130104> a crm:E39_Actor ;
+    rdfs:label "Dickinson" .
+
+<https://data.rkd.nl/venue/1313> a crm:E39_Actor ;
+    rdfs:label "Casa dei Carraresi" .
+
+<https://data.rkd.nl/venue/1339> a crm:E39_Actor ;
+    rdfs:label "Cassirer, Paul" .
+
+<https://data.rkd.nl/venue/145624> a crm:E39_Actor ;
+    rdfs:label "Complesso Monumentale de Vittoriano" .
+
+<https://data.rkd.nl/venue/166991> a crm:E39_Actor ;
+    rdfs:label "MAS Museum aan de Stroom" .
+
+<https://data.rkd.nl/venue/171153> a crm:E39_Actor ;
+    rdfs:label "Felixart Museum" .
+
+<https://data.rkd.nl/venue/1725> a crm:E39_Actor ;
+    rdfs:label "Cleveland Museum of Art" .
+
+<https://data.rkd.nl/venue/179701> a crm:E39_Actor ;
+    rdfs:label "Clark Art Institute" .
+
+<https://data.rkd.nl/venue/192319> a crm:E39_Actor ;
+    rdfs:label "Fondation Vincent Van Gogh Arles" .
+
+<https://data.rkd.nl/venue/192320> a crm:E39_Actor ;
+    rdfs:label "Fondation Vincent van Gogh Arles" .
+
+<https://data.rkd.nl/venue/1931> a crm:E39_Actor ;
+    rdfs:label "Dallas Museum of Art" .
+
+<https://data.rkd.nl/venue/194669> a crm:E39_Actor ;
+    rdfs:label "LWL-Museum für Kunst und Kultur in Münster" .
+
+<https://data.rkd.nl/venue/2021> a crm:E39_Actor ;
+    rdfs:label "Denver Art Museum" .
+
+<https://data.rkd.nl/venue/2036> a crm:E39_Actor ;
+    rdfs:label "Detroit Institute of Arts" .
+
+<https://data.rkd.nl/venue/212179> a crm:E39_Actor ;
+    rdfs:label "Museum of Modern Art Shiga" .
+
+<https://data.rkd.nl/venue/213766> a crm:E39_Actor ;
+    rdfs:label "Scottish National Gallery" .
+
+<https://data.rkd.nl/venue/232385> a crm:E39_Actor ;
+    rdfs:label "Cultureel Centrum De Schroef" .
+
+<https://data.rkd.nl/venue/239374> a crm:E39_Actor ;
+    rdfs:label "Galerie Vollard" .
+
+<https://data.rkd.nl/venue/240299> a crm:E39_Actor ;
+    rdfs:label "Centro San Gaetano" .
+
+<https://data.rkd.nl/venue/240786> a crm:E39_Actor ;
+    rdfs:label "Utsunomiya Museum of Art" .
+
+<https://data.rkd.nl/venue/242427> a crm:E39_Actor ;
+    rdfs:label "Wellcome Collection" .
+
+<https://data.rkd.nl/venue/2541> a crm:E39_Actor ;
+    rdfs:label "Fondation Pierre Gianadda" .
+
+<https://data.rkd.nl/venue/2547> a crm:E39_Actor ;
+    rdfs:label "Fondation Vincent van Gogh" .
+
+<https://data.rkd.nl/venue/2620> a crm:E39_Actor ;
+    rdfs:label "Frankfurter Kunstverein" .
+
+<https://data.rkd.nl/venue/2672> a crm:E39_Actor ;
+    rdfs:label "Fukuoka Art Museum" .
+
+<https://data.rkd.nl/venue/3855> a crm:E39_Actor ;
+    rdfs:label "Gemeentemuseum Den Haag" .
+
+<https://data.rkd.nl/venue/3931> a crm:E39_Actor ;
+    rdfs:label "Glasgow Art Gallery and Museum" .
+
+<https://data.rkd.nl/venue/4021> a crm:E39_Actor ;
+    rdfs:label "Grand Palais [Parijs]" .
+
+<https://data.rkd.nl/venue/4132> a crm:E39_Actor ;
+    rdfs:label "Haags Historisch Museum" .
+
+<https://data.rkd.nl/venue/4183> a crm:E39_Actor ;
+    rdfs:label "Hamburger Kunsthalle" .
+
+<https://data.rkd.nl/venue/431> a crm:E39_Actor ;
+    rdfs:label "Art Institute of Chicago" .
+
+<https://data.rkd.nl/venue/4372> a crm:E39_Actor ;
+    rdfs:label "High Museum of Art" .
+
+<https://data.rkd.nl/venue/45143> a crm:E39_Actor ;
+    rdfs:label "Arts Council of Great Britain" .
+
+<https://data.rkd.nl/venue/4802> a crm:E39_Actor ;
+    rdfs:label "Istituto Universitario Olandese di Storia dell'Arte" .
+
+<https://data.rkd.nl/venue/48142> a crm:E39_Actor ;
+    rdfs:label "E.J. van Wisselingh" .
+
+<https://data.rkd.nl/venue/48143> a crm:E39_Actor ;
+    rdfs:label "E.J. van Wisselingh & Co" .
+
+<https://data.rkd.nl/venue/48572> a crm:E39_Actor ;
+    rdfs:label "Fogg Art Museum/Harvard University" .
+
+<https://data.rkd.nl/venue/49989> a crm:E39_Actor ;
+    rdfs:label "Grand Palais des Champs-Élysées" .
+
+<https://data.rkd.nl/venue/5109> a crm:E39_Actor ;
+    rdfs:label "Kitakyushu Municipal Museum of Art" .
+
+<https://data.rkd.nl/venue/52184> a crm:E39_Actor ;
+    rdfs:label "Kunsthal Rotterdam" .
+
+<https://data.rkd.nl/venue/5235> a crm:E39_Actor ;
+    rdfs:label "Koninklijke Musea voor Schone Kunsten van België" .
+
+<https://data.rkd.nl/venue/52600> a crm:E39_Actor ;
+    rdfs:label "Leicester Galleries" .
+
+<https://data.rkd.nl/venue/5290> a crm:E39_Actor ;
+    rdfs:label "Kröller-Müller Museum" .
+
+<https://data.rkd.nl/venue/5348> a crm:E39_Actor ;
+    rdfs:label "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland" .
+
+<https://data.rkd.nl/venue/54018> a crm:E39_Actor ;
+    rdfs:label "Museum of Fine Arts Budapest" .
+
+<https://data.rkd.nl/venue/5414> a crm:E39_Actor ;
+    rdfs:label "Kunsthalle Basel" .
+
+<https://data.rkd.nl/venue/54834> a crm:E39_Actor ;
+    rdfs:label "Ordrupgaard" .
+
+<https://data.rkd.nl/venue/5540> a crm:E39_Actor ;
+    rdfs:label "Kunstmuseum Bern" .
+
+<https://data.rkd.nl/venue/5541> a crm:E39_Actor ;
+    rdfs:label "Kunstmuseum Bonn" .
+
+<https://data.rkd.nl/venue/5555> a crm:E39_Actor ;
+    rdfs:label "Kunstmuseum Winterthur" .
+
+<https://data.rkd.nl/venue/5825> a crm:E39_Actor ;
+    rdfs:label "Lefevre Gallery" .
+
+<https://data.rkd.nl/venue/59203> a crm:E39_Actor ;
+    rdfs:label "Victoria and Albert Museum" .
+
+<https://data.rkd.nl/venue/6142> a crm:E39_Actor ;
+    rdfs:label "Marlborough Fine Art [Londen]" .
+
+<https://data.rkd.nl/venue/639> a crm:E39_Actor ;
+    rdfs:label "Bank Austria Kunstforum" .
+
+<https://data.rkd.nl/venue/6422> a crm:E39_Actor ;
+    rdfs:label "Mücsarnok" .
+
+<https://data.rkd.nl/venue/6480> a crm:E39_Actor ;
+    rdfs:label "Musée d'Albi" .
+
+<https://data.rkd.nl/venue/651> a crm:E39_Actor ;
+    rdfs:label "Barbican Art Gallery" .
+
+<https://data.rkd.nl/venue/6605> a crm:E39_Actor ;
+    rdfs:label "Musée de Lyon" .
+
+<https://data.rkd.nl/venue/6614> a crm:E39_Actor ;
+    rdfs:label "Musée de Pontoise" .
+
+<https://data.rkd.nl/venue/668> a crm:E39_Actor ;
+    rdfs:label "Basilica palladiana" .
+
+<https://data.rkd.nl/venue/67290> a crm:E39_Actor ;
+    rdfs:label "Museo Thyssen-Bornemisza" .
+
+<https://data.rkd.nl/venue/6735> a crm:E39_Actor ;
+    rdfs:label "Musée du Luxembourg [Parijs]" .
+
+<https://data.rkd.nl/venue/6783> a crm:E39_Actor ;
+    rdfs:label "Musée Jacquemart-André" .
+
+<https://data.rkd.nl/venue/6786> a crm:E39_Actor ;
+    rdfs:label "Musée Jenisch" .
+
+<https://data.rkd.nl/venue/7134> a crm:E39_Actor ;
+    rdfs:label "Museum Boymans-van Beuningen" .
+
+<https://data.rkd.nl/venue/72856> a crm:E39_Actor ;
+    rdfs:label "National Museum of Western Art [Tokyo]" .
+
+<https://data.rkd.nl/venue/7291> a crm:E39_Actor ;
+    rdfs:label "Museum of Fine Arts Boston" .
+
+<https://data.rkd.nl/venue/73213> a crm:E39_Actor ;
+    rdfs:label "Museum of Modern Art New York" .
+
+<https://data.rkd.nl/venue/73744> a crm:E39_Actor ;
+    rdfs:label "Zürcher Kunsthaus" .
+
+<https://data.rkd.nl/venue/7488> a crm:E39_Actor ;
+    rdfs:label "Národní Galerie v Praze" .
+
+<https://data.rkd.nl/venue/7517> a crm:E39_Actor ;
+    rdfs:label "National Galleries of Scotland" .
+
+<https://data.rkd.nl/venue/7521> a crm:E39_Actor ;
+    rdfs:label "National Gallery of Art [Washington]" .
+
+<https://data.rkd.nl/venue/7527> a crm:E39_Actor ;
+    rdfs:label "National Gallery of Ireland" .
+
+<https://data.rkd.nl/venue/7529> a crm:E39_Actor ;
+    rdfs:label "National Gallery of Scotland" .
+
+<https://data.rkd.nl/venue/7533> a crm:E39_Actor ;
+    rdfs:label "National Gallery of Victoria" .
+
+<https://data.rkd.nl/venue/7553> a crm:E39_Actor ;
+    rdfs:label "National Museum of Wales" .
+
+<https://data.rkd.nl/venue/77086> a crm:E39_Actor ;
+    rdfs:label "Musée des Arts Décoratifs [Parijs]" .
+
+<https://data.rkd.nl/venue/77859> a crm:E39_Actor ;
+    rdfs:label "Arts and Crafts" .
+
+<https://data.rkd.nl/venue/7805> a crm:E39_Actor ;
+    rdfs:label "Norwich Castle Museum" .
+
+<https://data.rkd.nl/venue/7889> a crm:E39_Actor ;
+    rdfs:label "Oldenzeel, Kunsthandel" .
+
+<https://data.rkd.nl/venue/7932> a crm:E39_Actor ;
+    rdfs:label "Orangerie des Tuileries" .
+
+<https://data.rkd.nl/venue/8051> a crm:E39_Actor ;
+    rdfs:label "Palais des Beaux-Arts de Lille" .
+
+<https://data.rkd.nl/venue/80680> a crm:E39_Actor ;
+    rdfs:label "Kaganovitch, Max" .
+
+<https://data.rkd.nl/venue/809> a crm:E39_Actor ;
+    rdfs:label "Bernheim, Galerie Marcel" .
+
+<https://data.rkd.nl/venue/810> a crm:E39_Actor ;
+    rdfs:label "Bernheim-Jeune" .
+
+<https://data.rkd.nl/venue/8147> a crm:E39_Actor ;
+    rdfs:label "Palazzo Forti" .
+
+<https://data.rkd.nl/venue/8210> a crm:E39_Actor ;
+    rdfs:label "Paleis voor Schone Kunsten" .
+
+<https://data.rkd.nl/venue/8271> a crm:E39_Actor ;
+    rdfs:label "Paul Cassirer" .
+
+<https://data.rkd.nl/venue/83215> a crm:E39_Actor ;
+    rdfs:label "Ueno Royal Museum" .
+
+<https://data.rkd.nl/venue/8357> a crm:E39_Actor ;
+    rdfs:label "Phillips Collection" .
+
+<https://data.rkd.nl/venue/84331> a crm:E39_Actor ;
+    rdfs:label "Scholtens, H.H." .
+
+<https://data.rkd.nl/venue/84359> a crm:E39_Actor ;
+    rdfs:label "Montross Gallery" .
+
+<https://data.rkd.nl/venue/84518> a crm:E39_Actor ;
+    rdfs:label "Ecoles Communales" .
+
+<https://data.rkd.nl/venue/8824> a crm:E39_Actor ;
+    rdfs:label "Rijksmuseum Kröller-Müller" .
+
+<https://data.rkd.nl/venue/8830> a crm:E39_Actor ;
+    rdfs:label "Rijksmuseum Twenthe" .
+
+<https://data.rkd.nl/venue/88328> a crm:E39_Actor ;
+    rdfs:label "Compton Verney" .
+
+<https://data.rkd.nl/venue/8833> a crm:E39_Actor ;
+    rdfs:label "Rijksmuseum Vincent van Gogh" .
+
+<https://data.rkd.nl/venue/8934> a crm:E39_Actor ;
+    rdfs:label "Royal Academy of Arts" .
+
+<https://data.rkd.nl/venue/9021> a crm:E39_Actor ;
+    rdfs:label "Sainsbury Centre for Visual Arts" .
+
+<https://data.rkd.nl/venue/9193> a crm:E39_Actor ;
+    rdfs:label "Schirn Kunsthalle" .
+
+<https://data.rkd.nl/venue/9328> a crm:E39_Actor ;
+    rdfs:label "Scottish National Gallery of Modern Art" .
+
+<https://data.rkd.nl/venue/938> a crm:E39_Actor ;
+    rdfs:label "Birmingham Museum and Art Gallery" .
+
+<https://data.rkd.nl/venue/94419> a crm:E39_Actor ;
+    rdfs:label "Kelvingrove Art Gallery and Museum" .
+
+<https://data.rkd.nl/venue/9477> a crm:E39_Actor ;
+    rdfs:label "[s.n.]" .
+
+<https://data.rkd.nl/venue/9647> a crm:E39_Actor ;
+    rdfs:label "Staatliche Kunsthalle Karlsruhe" .
+
+<https://data.rkd.nl/venue/9648> a crm:E39_Actor ;
+    rdfs:label "Staatliche Kunsthalle Karlsruhe/Kupferstichkabinett" .
+
+<https://data.rkd.nl/venue/9692> a crm:E39_Actor ;
+    rdfs:label "Staatsgalerie Stuttgart" .
+
+<https://data.rkd.nl/venue/9828> a crm:E39_Actor ;
+    rdfs:label "Städtische Ausstellungshalle am Aachener Tor" .
+
+<https://data.rkd.nl/thesau/13026> a crm:E53_Place ;
+    rdfs:label "OtterloOtterlo" .
+
+<https://data.rkd.nl/thesau/1993> a crm:E53_Place ;
+    rdfs:label "Bremen (city)Bremen (stad)" .
+
+<https://data.rkd.nl/thesau/2102> a crm:E53_Place ;
+    rdfs:label "Philadelphia (Pennsylvania)Philadelphia (Pennsylvania)" .
+
+<https://data.rkd.nl/thesau/21047> a crm:E53_Place ;
+    rdfs:label "Kobe (Japan)Kobe (Japan)" .
+
+<https://data.rkd.nl/thesau/2277> a crm:E53_Place ;
+    rdfs:label "Assen (place)Assen (plaats)" .
+
+<https://data.rkd.nl/thesau/245> a crm:E53_Place ;
+    rdfs:label "MilanMilaan" .
+
+<https://data.rkd.nl/thesau/2606> a crm:E53_Place ;
+    rdfs:label "Karlsruhe (city)Karlsruhe (stad)" .
+
+<https://data.rkd.nl/thesau/3018> a crm:E53_Place ;
+    rdfs:label "Norwich (Norfolk)Norwich (Norfolk)" .
+
+<https://data.rkd.nl/thesau/30411> a crm:E53_Place ;
+    rdfs:label "Washington (D.C.)Washington (D.C.)" .
+
+<https://data.rkd.nl/thesau/4377> a crm:E53_Place ;
+    rdfs:label "Wiesbaden (city)Wiesbaden (stad)" .
+
+<https://data.rkd.nl/thesau/4401> a crm:E53_Place ;
+    rdfs:label "BonnBonn" .
+
+<https://data.rkd.nl/thesau/541> a crm:E53_Place ;
+    rdfs:label "Glasgow (Scotland)Glasgow (Schotland)" .
+
+<https://data.rkd.nl/thesau/698> a crm:E53_Place ;
+    rdfs:label "Hamburg (city)Hamburg (stad)" .
+
+<https://data.rkd.nl/thesau/77236> a crm:E53_Place ;
+    rdfs:label "UtsunomiyaUtsunomiya" .
+
+<https://data.rkd.nl/thesau/957> a crm:E53_Place ;
+    rdfs:label "Hiroshima (city)Hiroshima (stad)" .
+
+<https://data.rkd.nl/venue/179357> a crm:E39_Actor ;
+    rdfs:label "Palazzo Reale (Milaan)" .
+
+<https://data.rkd.nl/venue/180008> a crm:E39_Actor ;
+    rdfs:label "Albertina (Wenen)" .
+
+<https://data.rkd.nl/venue/2180> a crm:E39_Actor ;
+    rdfs:label "Drents Museum" .
+
+<https://data.rkd.nl/venue/224006> a crm:E39_Actor ;
+    rdfs:label "Beaux-Arts Mons" .
+
+<https://data.rkd.nl/venue/4035> a crm:E39_Actor ;
+    rdfs:label "Graphische Sammlung Albertina" .
+
+<https://data.rkd.nl/venue/4389> a crm:E39_Actor ;
+    rdfs:label "Hiroshima Museum of Art" .
+
+<https://data.rkd.nl/venue/51854> a crm:E39_Actor ;
+    rdfs:label "Koningin Fabiolazaal" .
+
+<https://data.rkd.nl/venue/5418> a crm:E39_Actor ;
+    rdfs:label "Kunsthalle Bremen" .
+
+<https://data.rkd.nl/venue/5506> a crm:E39_Actor ;
+    rdfs:label "Kunsthaus Zürich" .
+
+<https://data.rkd.nl/venue/7177> a crm:E39_Actor ;
+    rdfs:label "Museum Folkwang" .
+
+<https://data.rkd.nl/venue/7410> a crm:E39_Actor ;
+    rdfs:label "Museum Wiesbaden" .
+
+<https://data.rkd.nl/venue/7481> a crm:E39_Actor ;
+    rdfs:label "Nagoya City Art Museum" .
+
+<https://data.rkd.nl/venue/8347> a crm:E39_Actor ;
+    rdfs:label "Philadelphia Museum of Art" .
+
+<https://data.rkd.nl/venue/9944> a crm:E39_Actor ;
+    rdfs:label "Stedelijk Museum Amsterdam" .
+
+<https://data.rkd.nl/thesau/1349> a crm:E53_Place ;
+    rdfs:label "Frankfurt am Main (city)Frankfurt am Main (stad)" .
+
+<https://data.rkd.nl/thesau/1996> a crm:E53_Place ;
+    rdfs:label "Arles (France)Arles (Frankrijk)" .
+
+<https://data.rkd.nl/thesau/2608> a crm:E53_Place ;
+    rdfs:label "Mons (Belgium)Mons (België)" .
+
+<https://data.rkd.nl/thesau/286> a crm:E53_Place ;
+    rdfs:label "Tokyo (city)Tokyo (stad)" .
+
+<https://data.rkd.nl/thesau/3> a crm:E53_Place ;
+    rdfs:label "The Hague (city)Den Haag (stad)" .
+
+<https://data.rkd.nl/thesau/3254> a crm:E53_Place ;
+    rdfs:label "Essen (North Rhine-Westphalia)Essen (Noordrijn-Westfalen)" .
+
+<https://data.rkd.nl/thesau/490> a crm:E53_Place ;
+    rdfs:label "Berlin (city)Berlijn (stad)" .
+
+<https://data.rkd.nl/thesau/659> a crm:E53_Place ;
+    rdfs:label "Zürich (city)Zürich (stad)" .
+
+<https://data.rkd.nl/venue/223573> a crm:E39_Actor ;
+    rdfs:label "Hyogo Prefectural Museum of Art" .
+
+<https://data.rkd.nl/venue/6720> a crm:E39_Actor ;
+    rdfs:label "Musée d'Orsay" .
+
+<https://data.rkd.nl/venue/7133> a crm:E39_Actor ;
+    rdfs:label "Museum Boymans" .
+
+<https://data.rkd.nl/venue/51864> a crm:E39_Actor ;
+    rdfs:label "Koninklijk Museum voor Schone Kunsten Antwerpen" .
+
+<https://data.rkd.nl/venue/5537> a crm:E39_Actor ;
+    rdfs:label "Kunstmuseum Basel" .
+
+<https://data.rkd.nl/venue/6259> a crm:E39_Actor ;
+    rdfs:label "Metropolitan Museum of Art" .
+
+<https://data.rkd.nl/venue/7132> a crm:E39_Actor ;
+    rdfs:label "Museum Boijmans Van Beuningen" .
+
+<https://data.rkd.nl/thesau/304> a crm:E53_Place ;
+    rdfs:label "Vienna (city)Wenen (stad)" .
+
+<https://data.rkd.nl/thesau/344> a crm:E53_Place ;
+    rdfs:label "EdinburghEdinburgh" .
+
+<https://data.rkd.nl/thesau/485> a crm:E53_Place ;
+    rdfs:label "Basel (Switzerland)Basel (Zwitserland)" .
+
+<https://data.rkd.nl/venue/1127> a crm:E39_Actor ;
+    rdfs:label "British Museum" .
+
+<https://data.rkd.nl/thesau/223> a crm:E53_Place ;
+    rdfs:label "Antwerp (city)Antwerpen (stad)" .
+
+<https://data.rkd.nl/thesau/392> a crm:E53_Place ;
+    rdfs:label "New York CityNew York City" .
+
+<https://data.rkd.nl/venue/10568> a crm:E39_Actor ;
+    rdfs:label "Van Gogh Museum" .
+
+<https://data.rkd.nl/venue/10172> a crm:E39_Actor ;
+    rdfs:label "Szépmüveszéti Múzeum" .
+
+<https://data.rkd.nl/thesau/30> a crm:E53_Place ;
+    rdfs:label "Rotterdam (city)Rotterdam (stad)" .
+
+<https://data.rkd.nl/thesau/520> a crm:E53_Place ;
+    rdfs:label "Budapest (city)Boedapest (stad)" .
+
+<https://data.rkd.nl/thesau/29> a crm:E53_Place ;
+    rdfs:label "Amsterdam (city)Amsterdam (stad)" .
+
+<https://data.rkd.nl/thesau/129> a crm:E53_Place ;
+    rdfs:label "ParisParijs" .
+
+<https://data.rkd.nl/thesau/236> a crm:E53_Place ;
+    rdfs:label "London (England)Londen (Engeland)" .
+
+<https://data.rkd.nl/thesau/34462> a crm:E53_Place ;
+    rdfs:label "Fukushima (prefecture)Fukushima (prefectuur)" .
+
+<https://data.rkd.nl/venue/240787> a crm:E39_Actor ;
+    rdfs:label "Morohashi Museum of Modern Art" .
+

@@ -1,0 +1,615 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.rkd.nl/technical/258> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/258/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/54070> .
+
+<https://data.rkd.nl/technical/5001263> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5001263/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/83578> .
+
+<https://data.rkd.nl/technical/5005863> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5005863/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/90922> .
+
+<https://data.rkd.nl/technical/5018290> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018290/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/90834> .
+
+<https://data.rkd.nl/technical/5018291> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018291/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018307> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018307/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018309> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018309/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018310> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018310/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018314> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018314/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018315> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018315/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018479> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018479/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018505> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018505/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/90834> .
+
+<https://data.rkd.nl/technical/5018529> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018529/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018530> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018530/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018531> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018531/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018532> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018532/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018533> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018533/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018534> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018534/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018535> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018535/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018536> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018536/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018537> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018537/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018538> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018538/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018539> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018539/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018540> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018540/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018541> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018541/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018542> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018542/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018543> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018543/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018544> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018544/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018545> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018545/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/90844> .
+
+<https://data.rkd.nl/technical/5018547> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018547/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/90944> .
+
+<https://data.rkd.nl/technical/5018548> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018548/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/90944> .
+
+<https://data.rkd.nl/technical/5018549> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018549/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018550> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018550/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018551> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018551/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018552> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018552/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018553> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018553/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018554> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018554/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018555> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018555/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018556> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018556/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/90834> .
+
+<https://data.rkd.nl/technical/5018557> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018557/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/90834> .
+
+<https://data.rkd.nl/technical/5018558> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018558/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/technical/5018559> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018559/production> .
+
+<https://data.rkd.nl/technical/5018560> a crm:E22_Human-Made_Object ;
+    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018560/production> ;
+    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
+
+<https://data.rkd.nl/artists/357446> a crm:E39_Actor ;
+    rdfs:label "Smit, Ingeborg" .
+
+<https://data.rkd.nl/artists/440500> a crm:E39_Actor ;
+    rdfs:label "Gerritsen, René" .
+
+<https://data.rkd.nl/artists/441404> a crm:E39_Actor ;
+    rdfs:label "Geldof, Muriel" .
+
+<https://data.rkd.nl/artists/443078> a crm:E39_Actor ;
+    rdfs:label "Werf, P. van der" .
+
+<https://data.rkd.nl/artists/487836> a crm:E39_Actor ;
+    rdfs:label "Eastaugh, Nicholas" .
+
+<https://data.rkd.nl/artists/501384> a crm:E39_Actor ;
+    rdfs:label "Mazue, Stéphane" .
+
+<https://data.rkd.nl/artists/502262> a crm:E39_Actor ;
+    rdfs:label "Bosc, Marion" .
+
+<https://data.rkd.nl/images/298357> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/301650> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/301764> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/301765> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/301766> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/301767> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/302398> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/302813> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/303013> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/303062> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/304256> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/technical/258/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/438557> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/52953> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90906> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "1991-01-18T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1991-01-18T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5001263/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/443078> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/52953> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90961> ;
+    crm:P9i_forms_part_of [ a crm:E7_Activity ;
+            rdfs:label "Bijvak Methoden en technieken van materieel onderzoek van kunstvoorwerpen" ;
+            crm:P2_has_type <https://data.rkd.nl/thesau/91063> ] .
+
+<https://data.rkd.nl/technical/5005863/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/438557> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/52953> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90907> .
+
+<https://data.rkd.nl/technical/5018290/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/440500> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/52947> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90913> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2016-01-19T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2016-01-19T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018291/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/52947> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-11-11T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2019-11-11T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018307/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/357446> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/298357> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90915> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-03-04T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2019-03-04T23:59:59"^^xsd:dateTime ] ;
+    crm:P9i_forms_part_of [ a crm:E7_Activity ;
+            rdfs:label "" ;
+            crm:P2_has_type <https://data.rkd.nl/thesau/91024> ] .
+
+<https://data.rkd.nl/technical/5018309/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/298462> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90915> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2009-12-22T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2009-12-22T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018310/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/298462> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90916> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2010-01-13T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2010-01-13T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018314/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/298462> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2010-01-12T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2010-01-14T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018315/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/298462> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2009-12-22T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2009-12-22T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018479/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/488677> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/302371> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018505/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/487836> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/302813> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90913> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2020-03-02T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-03-02T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018529/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/460252>,
+        <https://data.rkd.nl/artists/501384> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304126> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/54043> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2018-11-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2018-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P9i_forms_part_of [ a crm:E7_Activity ;
+            rdfs:label "" ;
+            crm:P2_has_type <https://data.rkd.nl/thesau/91064> ] .
+
+<https://data.rkd.nl/technical/5018530/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/460252> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304126> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90916> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2018-11-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2018-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P9i_forms_part_of [ a crm:E7_Activity ;
+            rdfs:label "" ;
+            crm:P2_has_type <https://data.rkd.nl/thesau/91064> ] .
+
+<https://data.rkd.nl/technical/5018531/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/301650> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018532/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/301767> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018533/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/301766> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018534/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/301764> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018535/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/301765> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018536/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/488677>,
+        <https://data.rkd.nl/artists/501469> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/302371> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2022-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018537/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/488677>,
+        <https://data.rkd.nl/artists/501469> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/302371> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90915> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2022-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018538/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/488677>,
+        <https://data.rkd.nl/artists/501469> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/302371> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90916> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2022-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018539/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/488677>,
+        <https://data.rkd.nl/artists/501469> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/302371> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90906> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2022-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018540/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/488677>,
+        <https://data.rkd.nl/artists/501469> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/302371> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/91114> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2022-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2022-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018541/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/303013> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018542/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/303062> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018543/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/302398> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018544/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304256> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018545/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/460252>,
+        <https://data.rkd.nl/artists/502262> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304126> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90909>,
+        <https://data.rkd.nl/thesau/90912>,
+        <https://data.rkd.nl/thesau/90913>,
+        <https://data.rkd.nl/thesau/90914>,
+        <https://data.rkd.nl/thesau/90915>,
+        <https://data.rkd.nl/thesau/90916>,
+        <https://data.rkd.nl/thesau/95570> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2018-11-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2018-11-30T23:59:59"^^xsd:dateTime ] ;
+    crm:P9i_forms_part_of [ a crm:E7_Activity ;
+            rdfs:label "" ;
+            crm:P2_has_type <https://data.rkd.nl/thesau/91064> ] .
+
+<https://data.rkd.nl/technical/5018547/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/110248> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304688> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90913> .
+
+<https://data.rkd.nl/technical/5018548/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/110248> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304688> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90913> .
+
+<https://data.rkd.nl/technical/5018549/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304688> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018550/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304688> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/54043> .
+
+<https://data.rkd.nl/technical/5018551/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304684> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018552/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304684> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/91026> .
+
+<https://data.rkd.nl/technical/5018553/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304684> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90916> .
+
+<https://data.rkd.nl/technical/5018554/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304689> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/technical/5018555/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304689> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90917> .
+
+<https://data.rkd.nl/technical/5018556/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/294658> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304689> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90913> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2019-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018557/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/294658> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304689> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90913> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2019-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2019-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018558/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304689> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/54043> .
+
+<https://data.rkd.nl/technical/5018559/production> a crm:E12_Production ;
+    crm:P14_carried_out_by <https://data.rkd.nl/artists/441404> ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304689> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90804>,
+        <https://data.rkd.nl/thesau/90822>,
+        <https://data.rkd.nl/thesau/90907> ;
+    crm:P4_has_time-span [ a crm:E52_Time-Span ;
+            crm:P82a_begin_of_the_begin "2020-07-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "2020-07-31T23:59:59"^^xsd:dateTime ] .
+
+<https://data.rkd.nl/technical/5018560/production> a crm:E12_Production ;
+    crm:P16_used_specific_object <https://data.rkd.nl/images/304126> ;
+    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
+
+<https://data.rkd.nl/thesau/54070> a crm:E55_Type ;
+    rdfs:label "negative" .
+
+<https://data.rkd.nl/thesau/83578> a crm:E55_Type ;
+    rdfs:label "report" .
+
+<https://data.rkd.nl/thesau/90804> a crm:E55_Type ;
+    rdfs:label "sample analysis" .
+
+<https://data.rkd.nl/thesau/90822> a crm:E55_Type ;
+    rdfs:label "sample analysis" .
+
+<https://data.rkd.nl/thesau/90844> a crm:E55_Type ;
+    rdfs:label "examination report" .
+
+<https://data.rkd.nl/thesau/90909> a crm:E55_Type ;
+    rdfs:label "normal light studies" .
+
+<https://data.rkd.nl/thesau/90914> a crm:E55_Type ;
+    rdfs:label "normal light studies" .
+
+<https://data.rkd.nl/thesau/90917> a crm:E55_Type ;
+    rdfs:label "ultraviolet fluorescence" .
+
+<https://data.rkd.nl/thesau/90922> a crm:E55_Type ;
+    rdfs:label "paint sample" .
+
+<https://data.rkd.nl/thesau/90961> a crm:E55_Type ;
+    rdfs:label "not specified" .
+
+<https://data.rkd.nl/thesau/91024> a crm:E55_Type ;
+    rdfs:label "condition check" .
+
+<https://data.rkd.nl/thesau/91026> a crm:E55_Type ;
+    rdfs:label "ultraviolet reflection studies" .
+
+<https://data.rkd.nl/thesau/91063> a crm:E55_Type ;
+    rdfs:label "study" .
+
+<https://data.rkd.nl/thesau/91114> a crm:E55_Type ;
+    rdfs:label "transmitted light" .
+
+<https://data.rkd.nl/thesau/95570> a crm:E55_Type ;
+    rdfs:label "normal light studies" .
+
+<https://data.rkd.nl/artists/110248> a crm:E39_Actor ;
+    rdfs:label "Wild, Martin de" .
+
+<https://data.rkd.nl/artists/294658> a crm:E39_Actor ;
+    rdfs:label "Johnson, Don H." .
+
+<https://data.rkd.nl/artists/438557> a crm:E39_Actor ;
+    rdfs:label "Asperen de Boer, J.R.J. van" .
+
+<https://data.rkd.nl/images/52947> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/thesau/90906> a crm:E55_Type ;
+    rdfs:label "infrared reflectography" .
+
+<https://data.rkd.nl/thesau/90907> a crm:E55_Type ;
+    rdfs:label "sample analysis" .
+
+<https://data.rkd.nl/thesau/90944> a crm:E55_Type ;
+    rdfs:label "X-radiograph film (print)" .
+
+<https://data.rkd.nl/artists/460252> a crm:E39_Actor ;
+    rdfs:label "Bosc, Marion" .
+
+<https://data.rkd.nl/images/304684> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/52953> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/thesau/54043> a crm:E55_Type ;
+    rdfs:label "infrared photography" .
+
+<https://data.rkd.nl/thesau/91064> a crm:E55_Type ;
+    rdfs:label "research project" .
+
+<https://data.rkd.nl/images/298462> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/304126> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/304688> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/thesau/90834> a crm:E55_Type ;
+    rdfs:label "X-radiograph (born digital)" .
+
+<https://data.rkd.nl/thesau/90915> a crm:E55_Type ;
+    rdfs:label "normal light studies",
+        "raking light studies" .
+
+<https://data.rkd.nl/artists/501469> a crm:E39_Actor ;
+    rdfs:label "Liedtke, Kristina" .
+
+<https://data.rkd.nl/thesau/90916> a crm:E55_Type ;
+    rdfs:label "normal light studies",
+        "ultraviolet light studies" .
+
+<https://data.rkd.nl/artists/488677> a crm:E39_Actor ;
+    rdfs:label "Staatliche Kunsthalle Karlsruhe" .
+
+<https://data.rkd.nl/images/302371> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/images/304689> a crm:E22_Human-Made_Object .
+
+<https://data.rkd.nl/thesau/90913> a crm:E55_Type ;
+    rdfs:label "normal light studies",
+        "x-radiography" .
+
+<https://data.rkd.nl/thesau/90912> a crm:E55_Type ;
+    rdfs:label "normal light studies" .
+
+<https://data.rkd.nl/thesau/91096> a crm:E55_Type ;
+    rdfs:label "capture (born digital)" .
+

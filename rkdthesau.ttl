@@ -1,0 +1,1758 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.rkd.nl/thesau/1014> a skos:Concept ;
+    skos:exactMatch <https://sws.geonames.org/3164419/> ;
+    skos:prefLabel "Vicenza (city)"@en-US,
+        "Vicenza (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/1079> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3038261/> ;
+    skos:prefLabel "Albi"@en-US,
+        "Albi"@nl-NL .
+
+<https://data.rkd.nl/thesau/10854> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2986140/> ;
+    skos:prefLabel "Pontoise"@en-US,
+        "Pontoise"@nl-NL .
+
+<https://data.rkd.nl/thesau/10855> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/1026382>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2799947/> ;
+    skos:prefLabel "Cuesmes"@en-US,
+        "Cuesmes"@nl-NL .
+
+<https://data.rkd.nl/thesau/1127> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7003262>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3164527/> ;
+    skos:prefLabel "Verona (city)"@en-US,
+        "Verona (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/11842> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013503>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4684888/> ;
+    skos:prefLabel "Dallas (Texas)"@en-US,
+        "Dallas (Texas)"@nl-NL .
+
+<https://data.rkd.nl/thesau/129> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008038>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2988507/> ;
+    skos:prefLabel "Paris"@en-US,
+        "Parijs"@nl-NL .
+
+<https://data.rkd.nl/thesau/1293> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013527>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4931972/> ;
+    skos:prefLabel "Cambridge (Massachusetts)"@en-US,
+        "Cambridge (Massachusetts)"@nl-NL .
+
+<https://data.rkd.nl/thesau/13026> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006900>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2749203/> ;
+    skos:prefLabel "Otterlo"@en-US,
+        "Otterlo"@nl-NL .
+
+<https://data.rkd.nl/thesau/13413> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013331>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4180439/> ;
+    skos:prefLabel "Atlanta (Georgia)"@en-US,
+        "Atlanta (Georgia)"@nl-NL .
+
+<https://data.rkd.nl/thesau/1349> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7005293>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2925533/> ;
+    skos:prefLabel "Frankfurt am Main (city)"@en-US,
+        "Frankfurt am Main (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/1498> a skos:Concept ;
+    skos:exactMatch <https://sws.geonames.org/3171728/> ;
+    skos:prefLabel "Padua"@en-US,
+        "Padua"@nl-NL .
+
+<https://data.rkd.nl/thesau/1582> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013547>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4990729/> ;
+    skos:prefLabel "Detroit (Michigan)"@en-US,
+        "Detroit (Michigan)"@nl-NL .
+
+<https://data.rkd.nl/thesau/1587> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2658145/> ;
+    skos:prefLabel "Vevey (Switzerland)"@en-US,
+        "Vevey (Zwitserland)"@nl-NL .
+
+<https://data.rkd.nl/thesau/1591> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004736>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/1856057/> ;
+    skos:prefLabel "Nagoya"@en-US,
+        "Nagoya"@nl-NL .
+
+<https://data.rkd.nl/thesau/1595> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008799>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3035681/> ;
+    skos:prefLabel "Avignon"@en-US,
+        "Avignon"@nl-NL .
+
+<https://data.rkd.nl/thesau/1615> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013545>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/5419384/> ;
+    skos:prefLabel "Denver (Colorado)"@en-US,
+        "Denver (Colorado)"@nl-NL .
+
+<https://data.rkd.nl/thesau/1648> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008742>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2653822/> ;
+    skos:prefLabel "Cardiff (Wales)"@en-US,
+        "Cardiff (Wales)"@nl-NL .
+
+<https://data.rkd.nl/thesau/1763> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7010597>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2644210/> ;
+    skos:prefLabel "Liverpool (England)"@en-US,
+        "Liverpool (Engeland)"@nl-NL .
+
+<https://data.rkd.nl/thesau/193> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7000874>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3169070/> ;
+    skos:prefLabel "Rome"@en-US,
+        "Rome"@nl-NL .
+
+<https://data.rkd.nl/thesau/195> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007868>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2800866/> ;
+    skos:prefLabel "Brussels"@en-US,
+        "Brussel"@nl-NL .
+
+<https://data.rkd.nl/thesau/1993> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7005286>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2944388/> ;
+    skos:prefLabel "Bremen (city)"@en-US,
+        "Bremen (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/1996> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008775>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3036938/> ;
+    skos:prefLabel "Arles (France)"@en-US,
+        "Arles (Frankrijk)"@nl-NL .
+
+<https://data.rkd.nl/thesau/20244> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007314>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2661646/> ;
+    skos:prefLabel "Baden (Aargau)"@en-US,
+        "Baden (Aargau)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2032> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7001306>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2964574/> ;
+    skos:prefLabel "Dublin (city)"@en-US,
+        "Dublin (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2056> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006823>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2743619/> ;
+    skos:prefLabel "Zundert (place)"@en-US,
+        "Zundert (plaats)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2102> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7014406>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4560349/> ;
+    skos:prefLabel "Philadelphia (Pennsylvania)"@en-US,
+        "Philadelphia (Pennsylvania)"@nl-NL .
+
+<https://data.rkd.nl/thesau/21047> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004560>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/1859171/> ;
+    skos:prefLabel "Kobe (Japan)"@en-US,
+        "Kobe (Japan)"@nl-NL .
+
+<https://data.rkd.nl/thesau/221> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7000457>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3176959/> ;
+    skos:prefLabel "Florence"@en-US,
+        "Florence"@nl-NL .
+
+<https://data.rkd.nl/thesau/223> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007856>,
+        <https://sws.geonames.org/2803138/> ;
+    skos:prefLabel "Antwerp (city)"@en-US,
+        "Antwerpen (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/225> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006922>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2759821/> ;
+    skos:prefLabel "Amersfoort (place)"@en-US,
+        "Amersfoort (plaats)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2277> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006973>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2759633/> ;
+    skos:prefLabel "Assen (place)"@en-US,
+        "Assen (plaats)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2281> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013608>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/5150529/> ;
+    skos:prefLabel "Cleveland (Ohio)"@en-US,
+        "Cleveland (Ohio)"@nl-NL .
+
+<https://data.rkd.nl/thesau/236> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7011781>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2643743/> ;
+    skos:prefLabel "London (England)"@en-US,
+        "Londen (Engeland)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2431> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013445>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4930956/> ;
+    skos:prefLabel "Boston (Massachusetts)"@en-US,
+        "Boston (Massachusetts)"@nl-NL .
+
+<https://data.rkd.nl/thesau/245> a skos:Concept ;
+    skos:exactMatch <https://sws.geonames.org/3173435/> ;
+    skos:prefLabel "Milan"@en-US,
+        "Milaan"@nl-NL .
+
+<https://data.rkd.nl/thesau/25271> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2634723/> ;
+    skos:prefLabel "Warwickshire (county)"@en-US,
+        "Warwickshire (graafschap)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2606> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004424>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2892794/> ;
+    skos:prefLabel "Karlsruhe (city)"@en-US,
+        "Karlsruhe (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2608> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007961>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2790869/> ;
+    skos:prefLabel "Mons (Belgium)"@en-US,
+        "Mons (België)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2620> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006835>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2749780/> ;
+    skos:prefLabel "Nuenen"@en-US,
+        "Nuenen"@nl-NL .
+
+<https://data.rkd.nl/thesau/2623> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006839>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2757009/> ;
+    skos:prefLabel "Deurne (place, Noord-Brabant)"@en-US,
+        "Deurne (plaats, Noord-Brabant)"@nl-NL .
+
+<https://data.rkd.nl/thesau/2637> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7010955>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2655603/> ;
+    skos:prefLabel "Birmingham (Great Britain)"@en-US,
+        "Birmingham (Groot-Brittannië)"@nl-NL .
+
+<https://data.rkd.nl/thesau/28594> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3181554/> ;
+    skos:prefLabel "Brescia (city)"@en-US,
+        "Brescia (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/286> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004472>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/1850147/> ;
+    skos:prefLabel "Tokyo (city)"@en-US,
+        "Tokyo (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/29> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006952>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2759794/> ;
+    skos:prefLabel "Amsterdam (city)"@en-US,
+        "Amsterdam (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/3> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006810>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2747373/> ;
+    skos:prefLabel "The Hague (city)"@en-US,
+        "Den Haag (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/30> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006792>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2747891/> ;
+    skos:prefLabel "Rotterdam (city)"@en-US,
+        "Rotterdam (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/3018> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7012005>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2641181/> ;
+    skos:prefLabel "Norwich (Norfolk)"@en-US,
+        "Norwich (Norfolk)"@nl-NL .
+
+<https://data.rkd.nl/thesau/304> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7003321>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2761369/> ;
+    skos:prefLabel "Vienna (city)"@en-US,
+        "Wenen (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/30411> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013962>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4140963/> ;
+    skos:prefLabel "Washington (D.C.)"@en-US,
+        "Washington (D.C.)"@nl-NL .
+
+<https://data.rkd.nl/thesau/31588> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4955786/> ;
+    skos:prefLabel "Williamstown (Massachusetts)"@en-US,
+        "Williamstown (Massachusetts)"@nl-NL .
+
+<https://data.rkd.nl/thesau/3170> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3165201/> ;
+    skos:prefLabel "Treviso (place)"@en-US,
+        "Treviso (plaats)"@nl-NL .
+
+<https://data.rkd.nl/thesau/31746> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004478>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/1863967/> ;
+    skos:prefLabel "Fukuoka (city)"@en-US,
+        "Fukuoka (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/3254> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004905>,
+        <https://sws.geonames.org/2928810/> ;
+    skos:prefLabel "Essen (North Rhine-Westphalia)"@en-US,
+        "Essen (Noordrijn-Westfalen)"@nl-NL .
+
+<https://data.rkd.nl/thesau/343> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013596>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/4887398/> ;
+    skos:prefLabel "Chicago (Illinois)"@en-US,
+        "Chicago (Illinois)"@nl-NL .
+
+<https://data.rkd.nl/thesau/344> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7009546>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2650225/> ;
+    skos:prefLabel "Edinburgh"@en-US,
+        "Edinburgh"@nl-NL .
+
+<https://data.rkd.nl/thesau/34462> a skos:Concept ;
+    skos:exactMatch <https://sws.geonames.org/2112922/> ;
+    skos:prefLabel "Fukushima (prefecture)"@en-US,
+        "Fukushima (prefectuur)"@nl-NL .
+
+<https://data.rkd.nl/thesau/35> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006984>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2755251/> ;
+    skos:prefLabel "Groningen (city)"@en-US,
+        "Groningen (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/354> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007301>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2657970/> ;
+    skos:prefLabel "Winterthur (Switzerland)"@en-US,
+        "Winterthur (Zwitserland)"@nl-NL .
+
+<https://data.rkd.nl/thesau/355> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007557>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2661552/> ;
+    skos:prefLabel "Bern (city)"@en-US,
+        "Bern (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/35981> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300006232> ;
+    skos:prefLabel "factory (structure)"@en-US,
+        "fabriek (gebouw)"@nl-NL ;
+    skos:scopeNote "Verwijst naar een gebouw of groep gebouwen bedoeld als behuizing van activiteiten of processen die leiden tot de fabricage of productie van goederen of andere zaken, vóór of na de Industriële Revolutie die halverwege de 19de eeuw plaatsvond." .
+
+<https://data.rkd.nl/thesau/37107> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015050> ;
+    skos:prefLabel "oil paint"@en-US,
+        "olieverf"@nl-NL ;
+    skos:scopeNote "Een verfstof waarin drogende olie als drager voor het pigment fungeert." .
+
+<https://data.rkd.nl/thesau/385> a skos:Concept ;
+    skos:exactMatch <https://sws.geonames.org/2750405/> ;
+    skos:prefLabel "Netherlands"@en-US,
+        "Nederland"@nl-NL .
+
+<https://data.rkd.nl/thesau/387> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006464>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3067696/> ;
+    skos:prefLabel "Prague"@en-US,
+        "Praag"@nl-NL .
+
+<https://data.rkd.nl/thesau/392> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007567>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/5128581/> ;
+    skos:prefLabel "New York City"@en-US,
+        "New York City"@nl-NL .
+
+<https://data.rkd.nl/thesau/40114> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7016579>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/1865694/> ;
+    skos:prefLabel "Aichi (prefecture)"@en-US,
+        "Aichi (prefectuur)"@nl-NL .
+
+<https://data.rkd.nl/thesau/40240> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7016675>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/1862047/> ;
+    skos:prefLabel "Hyogo (prefecture)"@en-US,
+        "Hyogo (prefectuur)"@nl-NL .
+
+<https://data.rkd.nl/thesau/411> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7010273>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/498817/> ;
+    skos:prefLabel "Sint-Petersburg (city)"@en-US,
+        "Sint-Petersburg (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/41540> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7003474>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2618425/> ;
+    skos:prefLabel "Copenhagen"@en-US,
+        "Kopenhagen"@nl-NL .
+
+<https://data.rkd.nl/thesau/42428> a skos:Concept ;
+    skos:prefLabel "summer landscape"@en-US,
+        "zomerlandschap"@nl-NL .
+
+<https://data.rkd.nl/thesau/4377> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004432>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2809346/> ;
+    skos:prefLabel "Wiesbaden (city)"@en-US,
+        "Wiesbaden (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/43916> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7009654>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2977214/> ;
+    skos:prefLabel "Saint-Rémy-de-Provence"@en-US,
+        "Saint-Rémy-de-Provence"@nl-NL .
+
+<https://data.rkd.nl/thesau/4401> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2946447/> ;
+    skos:prefLabel "Bonn"@en-US,
+        "Bonn"@nl-NL .
+
+<https://data.rkd.nl/thesau/44977> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015062> ;
+    skos:prefLabel "tempera"@en-US,
+        "tempera"@nl-NL ;
+    skos:scopeNote "Verf bestaand uit een emulsie van vettige en waterige bestanddelen. De standaardemulsie bestaat gewoonlijk uit eigeel en water; er worden ook varianten gebruikt met een heel ei, lijnzaadolie, caseïnelijm, gom of was." .
+
+<https://data.rkd.nl/thesau/45101> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022414> ;
+    skos:prefLabel "charcoal"@en-US,
+        "houtskool"@nl-NL ;
+    skos:scopeNote "Zwart krijt dat is gemaakt van verkoolde takjes, meestal van een wilg of een wijnstok, of van samengeperst houtskool." .
+
+<https://data.rkd.nl/thesau/47666> a skos:Concept ;
+    skos:prefLabel "aquarel paint (watercolor)"@en-US,
+        "aquarelverf (waterverf)"@nl-NL .
+
+<https://data.rkd.nl/thesau/485> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007269>,
+        <https://sws.geonames.org/2661604/> ;
+    skos:prefLabel "Basel (Switzerland)"@en-US,
+        "Basel (Zwitserland)"@nl-NL .
+
+<https://data.rkd.nl/thesau/490> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7003712>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2950159/> ;
+    skos:prefLabel "Berlin (city)"@en-US,
+        "Berlijn (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/4902> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008030>,
+        <https://sws.geonames.org/3035864/> ;
+    skos:prefLabel "Auvers-sur-Oise"@en-US,
+        "Auvers-sur-Oise"@nl-NL .
+
+<https://data.rkd.nl/thesau/494> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2867543/> ;
+    skos:prefLabel "Münster (city, Germany)"@en-US,
+        "Münster (stad, Duitsland)"@nl-NL .
+
+<https://data.rkd.nl/thesau/5080> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7001933>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2158177/> ;
+    skos:prefLabel "Melbourne"@en-US,
+        "Melbourne"@nl-NL .
+
+<https://data.rkd.nl/thesau/52> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004446>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2886242/> ;
+    skos:prefLabel "Keulen (city)"@en-US,
+        "Keulen (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/520> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006280>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/3054643/> ;
+    skos:prefLabel "Budapest (city)"@en-US,
+        "Boedapest (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/53769> a skos:Concept ;
+    skos:exactMatch <https://sws.geonames.org/1859307/> ;
+    skos:prefLabel "Kitakyushu"@en-US,
+        "Kitakyushu"@nl-NL .
+
+<https://data.rkd.nl/thesau/54043> a skos:Concept ;
+    skos:prefLabel "infrared photography"@en-US,
+        "infraroodfotografie"@nl-NL .
+
+<https://data.rkd.nl/thesau/54070> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300127173> ;
+    skos:prefLabel "negative"@en-US,
+        "negatief"@nl-NL ;
+    skos:scopeNote "Foto's, gewoonlijk op een transparante drager waarop de tonen en kleuren het tegenovergestelde zijn van hun natuurlijke verschijning. Gebruik 'negatiefdrukken' voor fotografische afdrukken waarop de tonen en kleuren het tegenovergestelde zijn van hun natuurlijke verschijning. Gebruik 'clichés-verre' voor fotografische afdrukken van een beschilderde of betekende glazen plaat." .
+
+<https://data.rkd.nl/thesau/541> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7017283>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2648579/> ;
+    skos:prefLabel "Glasgow (Scotland)"@en-US,
+        "Glasgow (Schotland)"@nl-NL .
+
+<https://data.rkd.nl/thesau/5671> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7009880>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/658225/> ;
+    skos:prefLabel "Helsinki"@en-US,
+        "Helsinki"@nl-NL .
+
+<https://data.rkd.nl/thesau/57299> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/8711450>,
+        <https://sws.geonames.org/7286444/> ;
+    skos:prefLabel "Martigny (Wallis)"@en-US,
+        "Martigny (Wallis)"@nl-NL .
+
+<https://data.rkd.nl/thesau/57363> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022439> ;
+    skos:prefLabel "pencil (drawing and writing equipment)"@en-US,
+        "potlood"@nl-NL ;
+    skos:scopeNote "Werktuigen met een markeerstof, ingesloten in hout, plastic of metaal, en gebruikt om mee te schrijven of tekenen. Materialen die veel in potloden worden gebruikt zijn grafiet, lood en gepigmenteerde was." .
+
+<https://data.rkd.nl/thesau/57691> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015012> ;
+    skos:prefLabel "ink"@en-US,
+        "inkt"@nl-NL ;
+    skos:scopeNote "Een vloeibare stof die wordt gebruikt voor tekeningenof overtrektekeningen. Een ondoorzichtig, doorgaans zwart pigment wordt vermengd met een oplosmiddel, zoals water, om een vloeistof te verkrijgen die met een pen of inkt kan worden aangebracht. Tot het eind van de 19de eeuw werd inkt droog aangeleverd, in de vorm van een tablet of staafje dat naar behoeven werd vermalen en opgelost in water. Aan het begin van de 20ste eeuw ging men over op bereide inkt." .
+
+<https://data.rkd.nl/thesau/57744> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022413> ;
+    skos:prefLabel "chalk (writing equipment)"@en-US,
+        "krijt (schrijfuitrusting)"@nl-NL ;
+    skos:scopeNote "Slanke, samengeperste cilinders van materiaal dat vaak gemaakt is van gips, dus calciumsulfaat in dihydraatvorm. Wordt meestal gebruikt om op een schoolbord te schrijven, maar ook voor veel andere markeerdoeleinden." .
+
+<https://data.rkd.nl/thesau/60549> a skos:Concept ;
+    skos:exactMatch <https://sws.geonames.org/1853574/> ;
+    skos:prefLabel "Otsu (Shiga)"@en-US,
+        "Otsu (Shiga)"@nl-NL .
+
+<https://data.rkd.nl/thesau/61108> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300011098> ;
+    skos:prefLabel "graphite"@en-US,
+        "grafiet"@nl-NL ;
+    skos:scopeNote "Een in de natuur voorkomende gekristalliseerde vorm van koolstof, dimorf met diamant. Grafiet heeft een gelaagde structuur die bestaat uit ringen met zes koolstofatomen die zijn gerangschikt in horizontale lagen die relatief ver van elkaar af liggen, en kristalliseert in het zesvlakkige systeem, anders dan diamant, waarbij koolstofatomen kristalliseren in het achtvlakkige of viervlakkige systeem. Hierdoor hebben diamant en grafiet zeer verschillende eigenschappen. Grafiet is ondoorzichtig en zacht, voelt vettig aan en is ijzerzwart tot staalgrijs van kleur; het komt voor als kristallen, vlokken, schilfers, aders, bodemlagen of verspreid in metamorfe gesteenten." .
+
+<https://data.rkd.nl/thesau/61120> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300080058> ;
+    skos:prefLabel "black chalk"@en-US,
+        "zwart krijt"@nl-NL ;
+    skos:scopeNote "Natuurlijk krijt dat koolstof of schalie bevat en wordt gebruikt om te tekenen, vooral sinds de Renaissance." .
+
+<https://data.rkd.nl/thesau/61121> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300182748> ;
+    skos:prefLabel "washed"@en-US,
+        "gewassen (techniek)"@nl-NL ;
+    skos:scopeNote "De applicatie van een brede dunne film van sterk verdunde pigment." .
+
+<https://data.rkd.nl/thesau/61126> a skos:Concept ;
+    skos:prefLabel "pen (technique)"@en-US,
+        "pen (techniek)"@nl-NL .
+
+<https://data.rkd.nl/thesau/61186> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053271> ;
+    skos:prefLabel "lithography (technique)"@en-US,
+        "lithografie (techniek)"@nl-NL ;
+    skos:scopeNote "Vlakdrukprocédé waarbij een ontwerp met een vettige substantie op de steen wordt aangebracht en het oppervlak chemisch wordt behandeld, zodat de inkt alleen op de vettige delen achterblijft." .
+
+<https://data.rkd.nl/thesau/61229> a skos:Concept ;
+    skos:prefLabel "body color"@en-US,
+        "witte gouache"@nl-NL .
+
+<https://data.rkd.nl/thesau/61234> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022464> ;
+    skos:prefLabel "reed pen"@en-US,
+        "rietpen"@nl-NL ;
+    skos:scopeNote "Pennen die zijn gemaakt van rietstengels." .
+
+<https://data.rkd.nl/thesau/61398> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053412> ;
+    skos:prefLabel "stumping"@en-US,
+        "doezelen"@nl-NL ;
+    skos:scopeNote "Een tekentechniek, waarbij gebruik wordt gemaakt van een sigaarvormig hulpstuk, doezelaar genaamd, om houtskool, zacht potlood, pastel, krijt of crayon te mengen of uit te wrijven." .
+
+<https://data.rkd.nl/thesau/61757> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300054094> ;
+    skos:prefLabel "brushwork"@en-US,
+        "penseelwerk"@nl-NL .
+
+<https://data.rkd.nl/thesau/61993> a skos:Concept ;
+    skos:prefLabel "signed and dated"@en-US,
+        "gesigneerd en gedateerd"@nl-NL ;
+    skos:scopeNote "d.w.z. eigenhandig" .
+
+<https://data.rkd.nl/thesau/62002> a skos:Concept ;
+    skos:prefLabel "dated"@en-US,
+        "gedateerd"@nl-NL ;
+    skos:scopeNote "D.w.z.: het kunstwerk is voorzien van een originele datum." .
+
+<https://data.rkd.nl/thesau/62018> a skos:Concept ;
+    skos:prefLabel "inscription"@en-US,
+        "opschrift"@nl-NL .
+
+<https://data.rkd.nl/thesau/62028> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300028702> ;
+    skos:prefLabel "inscription (document by form)"@en-US,
+        "inscriptie"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor gegraveerde of gebeitelde opschriften, met name met documentatie of herdenking als doel. Bij afdrukken wordt de term gebruikt voor de inhoud van de inscriptie, die meestal geen deel uitmaakt van een langere tekst. Wanneer de term wordt gebruikt in verband met materiaal uit de oudheid, dan kan deze van toepassing zijn op de meeste bewaard gebleven geschreven stukken, ongeacht de lengte, met uitzondering van papyrusrollen. Gebruik 'merktekens' voor gestandaardiseerde symbolen of opschriften die officiële informatie bevatten." .
+
+<https://data.rkd.nl/thesau/62033> a skos:Concept ;
+    skos:prefLabel "annotation"@en-US,
+        "annotatie"@nl-NL .
+
+<https://data.rkd.nl/thesau/62534> a skos:Concept ;
+    skos:prefLabel "canvas on board"@en-US,
+        "doek op board"@nl-NL .
+
+<https://data.rkd.nl/thesau/62537> a skos:Concept ;
+    skos:prefLabel "canvas on panel"@en-US,
+        "doek op paneel"@nl-NL .
+
+<https://data.rkd.nl/thesau/62542> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014078> ;
+    skos:prefLabel "canvas"@en-US,
+        "doek"@nl-NL ;
+    skos:scopeNote "Dichtgeweven stof in verschillende gewichten; wordt meestal gemaakt van vlas, hennep, jute of katoen en vooral gebruikt voor zeilen, dekkleden en stoffering en als ondergrond voor olieverfschilderijen. Het wordt ook gebruikt voor rasterachtig gaas dat van soortgelijke materialen is gemaakt en wordt gebruikt als ondergrond voor borduurwerk." .
+
+<https://data.rkd.nl/thesau/62578> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014187> ;
+    skos:prefLabel "wove paper"@en-US,
+        "velijnpapier"@nl-NL ;
+    skos:scopeNote "Papier gemaakt met een geweven of gelijkmatig patroon wanneer er licht doorheen valt; te onderscheiden van 'vergépapier' dat een patroon van dikke en dunne strepen vertoont." .
+
+<https://data.rkd.nl/thesau/62580> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014109> ;
+    skos:prefLabel "paper"@en-US,
+        "papier"@nl-NL ;
+    skos:scopeNote "Verwijst in het algemeen naar alle typen vervilte vellen of weefsels die bestaan uit vezels, die uit in water gedompelde pulp zijn gevormd en gedroogd op een fijn schepraam. De vezels kunnen dierlijk zijn, zoals haar, zijde of wol, of mineraal, bijvoorbeeld asbest. Ook kunstvezels zijn een mogelijkheid. Het meeste papier wordt echter gemaakt van plantenvezels van bijvoorbeeld houtpulp, gras, katoen, linnen en stro." .
+
+<https://data.rkd.nl/thesau/62666> a skos:Concept ;
+    skos:prefLabel "brownish paper"@en-US,
+        "bruinachtig papier"@nl-NL .
+
+<https://data.rkd.nl/thesau/62825> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015636> ;
+    skos:prefLabel "landscape (genre)"@en-US,
+        "landschap (genre)"@nl-NL ;
+    skos:scopeNote "Voorstelling waarvan het hoofdonderwerp de omgeving is. Gebruik stadsgezicht voor stadsgezichten." .
+
+<https://data.rkd.nl/thesau/62831> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300132360> ;
+    skos:prefLabel "plants (guide term)"@en-US,
+        "plant"@nl-NL ;
+    skos:scopeNote "Levende structuren die deel uitmaken van het plantenrijk; doorgaans zijn ze niet in staat tot voortbeweging en bezitten ze geen specifiek gevoels- of denkorgaan of spijsverteringskanaal, en kunnen ze zich volledig in leven houden op anorganische stoffen." .
+
+<https://data.rkd.nl/thesau/62836> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300265045> ;
+    skos:prefLabel "flower piece"@en-US,
+        "bloemstilleven"@nl-NL ;
+    skos:scopeNote "Stillevens met voornamelijk bloemen." .
+
+<https://data.rkd.nl/thesau/62837> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "blossom"@en-US,
+        "bloesem"@nl-NL ;
+    skos:scopeNote "bloem als datgene waar zich later een vrucht uit ontwikkelt; al de bloemen van een plant, m.n. van vruchtbomen" .
+
+<https://data.rkd.nl/thesau/62842> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300264247> ;
+    skos:prefLabel "flower (plant material)"@en-US,
+        "bloem (onderdeel van plant)"@nl-NL ;
+    skos:scopeNote "Het voor voortplanting bestemde deel van een plant uit de divisio Magnoliophyta (Angiospermae), algemene benaming voor bloeiende planten of angiospermae. In de volksmond wordt de term 'bloem' specifiek gebruikt wanneer de voortplantingsstructuur zich qua kleur en vorm geheel of gedeeltelijk duidelijk aftekent." .
+
+<https://data.rkd.nl/thesau/62843> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015638> ;
+    skos:prefLabel "still life"@en-US,
+        "stilleven"@nl-NL ;
+    skos:scopeNote "Voorstellingen waarin de nadruk ligt op de weergave van levenloze voorwerpen. De term wordt in het algemeen gebruikt voor voorstellingen van vruchten, bloemen, vlees of dode prooidieren, kruiken, eetgerei en andere voorwerpen, waaronder ook schedels, kandelaars en zandlopers, op bepaalde wijze gerangschikt." .
+
+<https://data.rkd.nl/thesau/62868> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300025928>,
+        <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "man"@en-US,
+        "man"@nl-NL ;
+    skos:scopeNote "Verwijst naar mannelijke personen vanaf jonge volwassenheid tot gevorderde leeftijd." .
+
+<https://data.rkd.nl/thesau/62879> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300007858> ;
+    skos:prefLabel "drawbridge"@en-US,
+        "ophaalbrug"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor verplaatsbare bruggen waarvan één of meer van de overspannende delen naar boven kan worden gedraaid met gebruik van kettingen, kabels of andere touwachtige middelen; gebruik 'basculebruggen' als de delen worden gedraaid met behulp van tegengewichten." .
+
+<https://data.rkd.nl/thesau/62882> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300007836> ;
+    skos:prefLabel "bridge (built work)"@en-US,
+        "brug"@nl-NL ;
+    skos:scopeNote "Bouwwerken die waterwegen, topografische laagtes, transportroutes of andere hindernissen van de voortgang overspannen en een weg eroverheen bieden." .
+
+<https://data.rkd.nl/thesau/62883> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015637> ;
+    skos:prefLabel "portrait"@en-US,
+        "portret"@nl-NL ;
+    skos:scopeNote "Voorstellingen van echte individuen die bedoeld zijn om een bekende of veronderstelde gelijkenis vast te leggen, meestal inclusief het gezicht van de persoon." .
+
+<https://data.rkd.nl/thesau/62917> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300047469> ;
+    skos:prefLabel "half-length"@en-US,
+        "ten halven lijve"@nl-NL ;
+    skos:scopeNote "Voorstellingen van menselijke figuren die slechts tot hun middel zijn afgebeeld." .
+
+<https://data.rkd.nl/thesau/62941> a skos:Concept ;
+    skos:prefLabel "hilly landscape"@en-US,
+        "heuvellandschap"@nl-NL .
+
+<https://data.rkd.nl/thesau/62948> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300224206> ;
+    skos:prefLabel "laundering"@en-US,
+        "wassen (textiel)"@nl-NL ;
+    skos:scopeNote "Te gebruiken voor het wassen van textielvoorwerpen." .
+
+<https://data.rkd.nl/thesau/62985> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300124520> ;
+    skos:prefLabel "interior view"@en-US,
+        "interieur"@nl-NL ;
+    skos:scopeNote "Voorstellingen van een gebouw, huis of vertrek van binnen. Gebruik \"kerkinterieur\" voor kerkinterieurs." .
+
+<https://data.rkd.nl/thesau/62997> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300004514> ;
+    skos:prefLabel "kitchen"@en-US,
+        "keuken"@nl-NL ;
+    skos:scopeNote "Ruimten bestemd voor de bereiding van voedsel." .
+
+<https://data.rkd.nl/thesau/63005> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300124534> ;
+    skos:prefLabel "self-portrait"@en-US,
+        "zelfportret"@nl-NL ;
+    skos:scopeNote "Kunstwerken waarin de kunstenaar een gelijkenis van zichzelf schept." .
+
+<https://data.rkd.nl/thesau/63006> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300438830> ;
+    skos:prefLabel "artist's portrait"@en-US,
+        "kunstenaarsportret"@nl-NL ;
+    skos:scopeNote "Werken waarin een kunstenaar afgebeeld wordt door een andere kunstenaar. Voor kunstwerken waarin de kunstenaar zichzelf afbeeldt, gebruik 'zelfportretten'." .
+
+<https://data.rkd.nl/thesau/63094> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008707> ;
+    skos:prefLabel "river"@en-US,
+        "rivier"@nl-NL ;
+    skos:scopeNote "Waterlichamen die in een directe loop stromen, of in een serie divergente of convergente beddingen." .
+
+<https://data.rkd.nl/thesau/63095> a skos:Concept ;
+    skos:prefLabel "river view (predominantly water)"@en-US,
+        "riviergezicht (genre)"@nl-NL ;
+    skos:scopeNote "Voorstelling van schepen op het water, met een minimale aanduiding van het omringend land, ter onderscheiding van \"rivierlandschap\", waarin het omringende land een aanzienlijk onderdeel van de voorstelling vormt. Voor voorstellingen van riviermondingen kan een combinatie van \"riviergezicht (overwegend water)\" met \"zeegezicht\" worden gebruiikt. (G.Krebber, augustus 2003)" .
+
+<https://data.rkd.nl/thesau/63118> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022452> ;
+    skos:prefLabel "pen"@en-US,
+        "pen"@nl-NL ;
+    skos:scopeNote "Werktuigen om met de hand mee te schrijven of tekenen met gekleurde vloeistof, zoals inkt. Een pen bevat gewoonlijk een handvat of houder en een punt waarmee de vloeistof op het oppervlak wordt aangebracht. De term kan ook verwijzen naar een werktuig voor schrijven of tekenen met inkt met behulp van een machine." .
+
+<https://data.rkd.nl/thesau/63136> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008217> ;
+    skos:prefLabel "road"@en-US,
+        "weg"@nl-NL ;
+    skos:scopeNote "Algemene term voor alle lange openluchtverbindingen, in het algemeen gemaakt door mensen, via welke mensen van de ene plaats naar de andere gaan. Gewoonlijk zijn ze breed genoeg voor voertuigen met wielen, paarden of reizigers te voet." .
+
+<https://data.rkd.nl/thesau/63140> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015571> ;
+    skos:prefLabel "cityscape"@en-US,
+        "stadsgezicht"@nl-NL ;
+    skos:scopeNote "Voorstelling waarvan het hoofdonderwerp een (deel van een) stad is.  Gebruik \"marine (als genre)\" voor havengezichten." .
+
+<https://data.rkd.nl/thesau/63141> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008247> ;
+    skos:prefLabel "street"@en-US,
+        "straat"@nl-NL ;
+    skos:scopeNote "Een weg in een stad of dorp, die gewoonlijk relatief breed is (vergeleken met een steeg) en in het algemeen tussen twee rijen huizen of andere gebouwen loopt." .
+
+<https://data.rkd.nl/thesau/63143> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300343592> ;
+    skos:prefLabel "full-length portrait"@en-US,
+        "ten voeten uit"@nl-NL ;
+    skos:scopeNote "Afbeeldingen waarbij het hele lichaam van de betreffende persoon is afgebeeld en bijvoorbeeld niet alleen diens gezicht en eventueel de buste of romp. Het model kan staan of zitten en wordt vaak levensgroot of nog groter afgebeeld." .
+
+<https://data.rkd.nl/thesau/63145> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008090> ;
+    skos:prefLabel "garden"@en-US,
+        "tuin"@nl-NL ;
+    skos:scopeNote "Terrein of open ruimte waar bloemen, struiken, bomen, groente of fruit worden verbouwd of gekweekt." .
+
+<https://data.rkd.nl/thesau/63173> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300025943>,
+        <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "woman"@en-US,
+        "vrouw"@nl-NL ;
+    skos:scopeNote "Verwijst naar vrouwelijke personen vanaf jonge volwassenheid tot gevorderde leeftijd." .
+
+<https://data.rkd.nl/thesau/63191> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300133101> ;
+    skos:prefLabel "winter"@en-US,
+        "winter"@nl-NL ;
+    skos:scopeNote "Meestal het koudste seizoen van het jaar, tussen herfst en lente." .
+
+<https://data.rkd.nl/thesau/63196> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300139140> ;
+    skos:prefLabel "genre"@en-US,
+        "genrevoorstelling"@nl-NL ;
+    skos:scopeNote "Voorstellingen van situaties of gebeurtenissen uit het (veronderstelde) dagelijks leven." .
+
+<https://data.rkd.nl/thesau/63200> a skos:Concept ;
+    skos:prefLabel "figure study (main subject)"@en-US,
+        "figuurstudie (hoofdonderwerp)"@nl-NL ;
+    skos:scopeNote "Voorstelling van de menselijke figuur of delen daarvan, waarbij zowel de menselijke anatomie als ook kleding en draperie het onderwerp vormen. De figuur of figuurdelen zijn niet in enige context geplaatst. Te gebruiken voor tekeningen en olieverfschetsen. (G.Krebber, juni 2003)" .
+
+<https://data.rkd.nl/thesau/63215> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015537> ;
+    skos:prefLabel "panorama"@en-US,
+        "panoramalandschap"@nl-NL ;
+    skos:scopeNote "Verwijst doorgaans naar geschilderde voorstellingen met een zeer breed horizontaal gezichtsveld. De term is ook specifiek van toepassing op foto's waarop een breed beeld te zien is, gemaakt met een panoramacamera of ontstaan door foto's samen te voegen." .
+
+<https://data.rkd.nl/thesau/63225> a skos:Concept ;
+    skos:prefLabel "village (in the background)"@en-US,
+        "dorp (in de achtergrond)"@nl-NL .
+
+<https://data.rkd.nl/thesau/63226> a skos:Concept ;
+    skos:prefLabel "in a landscape"@en-US,
+        "in een landschap"@nl-NL ;
+    skos:scopeNote "Voorstelling waarin de uitbeelding van de landelijke omgeving een ondergeschikt bestanddeel van de compositie is en de setting vormt van de hoofdvoorstelling - een genrevoorstelling, historiestuk of portret (R. van Leeuwen, 2007)" .
+
+<https://data.rkd.nl/thesau/63312> a skos:Concept ;
+    skos:prefLabel "farmhouse interior"@en-US,
+        "boerderijinterieur"@nl-NL .
+
+<https://data.rkd.nl/thesau/63352> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300005283> ;
+    skos:prefLabel "store (built work)"@en-US,
+        "winkel (bouwwerk)"@nl-NL ;
+    skos:scopeNote "Gebouwen waar handelswaar te koop wordt aangeboden, meestal detailhandel." .
+
+<https://data.rkd.nl/thesau/63373> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300239500> ;
+    skos:prefLabel "standing (position)"@en-US,
+        "staand (houding)"@nl-NL .
+
+<https://data.rkd.nl/thesau/63375> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "walking"@en-US,
+        "lopen"@nl-NL .
+
+<https://data.rkd.nl/thesau/63378> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300037772> ;
+    skos:prefLabel "chair"@en-US,
+        "stoel"@nl-NL ;
+    skos:scopeNote "Zitplaats voor één persoon met een rugleuning of een rug- en armleuning. Ze verschillen van 'krukken' die geen rug hebben." .
+
+<https://data.rkd.nl/thesau/63379> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300263970>,
+        <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "sitting"@en-US,
+        "zitten"@nl-NL ;
+    skos:scopeNote "De handeling waarbij men zich op een object of op de grond plaatst met het lichaamsgewicht op het zitvlak. In verbogen vorm verwijst de term naar een personage in een zittende houding." .
+
+<https://data.rkd.nl/thesau/63394> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300248067> ;
+    skos:prefLabel "pipe"@en-US,
+        "pijp"@nl-NL ;
+    skos:scopeNote "Rookgerei voor het genieten van tabak en andere roesmiddelen; bestaat meestal uit een steel met mondstuk en een kopje waarin het te roken product wordt verbrand." .
+
+<https://data.rkd.nl/thesau/63445> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300236227> ;
+    skos:prefLabel "townscape"@en-US,
+        "dorpsgezicht"@nl-NL ;
+    skos:scopeNote "Beeldende werken waarvan de hoofdvoorstelling een dorp is. Gebruik 'stadsgezichten' voor beeldende werken waarvan de hoofdvoorstelling een stad is." .
+
+<https://data.rkd.nl/thesau/63452> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300000206> ;
+    skos:prefLabel "farm"@en-US,
+        "boerderij"@nl-NL ;
+    skos:scopeNote "Complexen waar planten worden verbouwd of dieren gefokt voor levensonderhoud of handel." .
+
+<https://data.rkd.nl/thesau/63538> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300227856> ;
+    skos:prefLabel "horse-drawn vehicle"@en-US,
+        "voertuig getrokken door paarden"@nl-NL ;
+    skos:scopeNote "Te gebruiken voor landvoertuigen die door paarden worden getrokken." .
+
+<https://data.rkd.nl/thesau/63573> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300266506>,
+        <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "birds (guide term)"@en-US,
+        "vogels (guideterm)"@nl-NL ;
+    skos:scopeNote "aves" .
+
+<https://data.rkd.nl/thesau/63598> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300046159> ;
+    skos:prefLabel "dress (garment)"@en-US,
+        "japon"@nl-NL ;
+    skos:scopeNote "Eén- of meerdelige bovenkleding voor vrouwen en kinderen bestaande uit een lijfje en een rok." .
+
+<https://data.rkd.nl/thesau/63607> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300212298> ;
+    skos:prefLabel "mantle (outerwear)"@en-US,
+        "mantel (kleding)"@nl-NL ;
+    skos:scopeNote "Overkleding met enige vorm, in verschillende lengten." .
+
+<https://data.rkd.nl/thesau/63707> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300046113> ;
+    skos:prefLabel "top hat"@en-US,
+        "hoge hoed"@nl-NL ;
+    skos:scopeNote "Hoge cilindervormige hoeden met een harde rand die licht gebogen is aan de zijkanten die vooral bij officiële gelegenheden worden gedragen door mannen." .
+
+<https://data.rkd.nl/thesau/63712> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300046106> ;
+    skos:prefLabel "hat"@en-US,
+        "hoed"@nl-NL ;
+    skos:scopeNote "Voorgevormde hoofddeksels met een rand en een bol, of één van beide." .
+
+<https://data.rkd.nl/thesau/63730> a skos:Concept ;
+    skos:prefLabel "walker"@en-US,
+        "wandelaar"@nl-NL .
+
+<https://data.rkd.nl/thesau/63751> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300210063> ;
+    skos:prefLabel "muffler"@en-US,
+        "sjaal"@nl-NL ;
+    skos:scopeNote "Zware sjaals die om de hals worden gedragen, soms gemodelleerd en voorzien van een sluiting." .
+
+<https://data.rkd.nl/thesau/63782> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300404771> ;
+    skos:prefLabel "bust-length portrait"@en-US,
+        "borststuk"@nl-NL ;
+    skos:scopeNote "Portaits in any medium that focus on the head and face of the sitter, omitting all or most of the body." .
+
+<https://data.rkd.nl/thesau/63799> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300132443> ;
+    skos:prefLabel "field"@en-US,
+        "akker"@nl-NL ;
+    skos:scopeNote "Grond die wordt gebruikt om gewassen te verbouwen." .
+
+<https://data.rkd.nl/thesau/63839> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053658> ;
+    skos:prefLabel "sewing (needleworking technique)"@en-US,
+        "naaien (naaldwerkprocedé)"@nl-NL ;
+    skos:scopeNote "In het algemeen te gebruiken voor het samenvoegen van materialen met draad, touw of andere fijne draad met een naald of een priem. De betekenis overlapt met 'stikken'." .
+
+<https://data.rkd.nl/thesau/63840> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053634> ;
+    skos:prefLabel "knitting (process)"@en-US,
+        "breien"@nl-NL ;
+    skos:scopeNote "Het vormen en verbinden van lussen door middel van naalden of haakjes volgens een voorgeschreven manier of patroon, machinaal of met de hand; meestal gebruikt voor textiel en kleding." .
+
+<https://data.rkd.nl/thesau/63872> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300025886> ;
+    skos:prefLabel "worker"@en-US,
+        "arbeider"@nl-NL ;
+    skos:scopeNote "De personen die in een economie arbeid verrichten. Gebruik 'arbeid' voor de menselijke activiteit waardoor de goederen worden geproduceerd of diensten geleverd waarnaar in een economie vraag is." .
+
+<https://data.rkd.nl/thesau/63878> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008321> ;
+    skos:prefLabel "path"@en-US,
+        "pad (weg)"@nl-NL ;
+    skos:scopeNote "Smalle (loop)wegen, meestal niet aangelegd als weg, bedoeld voor voetgangers." .
+
+<https://data.rkd.nl/thesau/63891> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300154337> ;
+    skos:prefLabel "spouse"@en-US,
+        "eega"@nl-NL ;
+    skos:scopeNote "Partners in een huwelijksrelatie." .
+
+<https://data.rkd.nl/thesau/63943> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300005433> ;
+    skos:prefLabel "house"@en-US,
+        "huis"@nl-NL ;
+    skos:scopeNote "Individuele wooneenheden die zijn bedoeld om door één huurder of gezin te worden bewoond. Kan ook verwijzen naar een gebouw bedoeld als woonverblijf voor mensen, echter voor een ander doel dan gewone bewoning; in dat geval gaat er meestal een bepaling aan 'huis' vooraf (bijvoorbeeld 'bejaardenhuis', 'armenhuis')." .
+
+<https://data.rkd.nl/thesau/63946> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300005496> ;
+    skos:prefLabel "cabin"@en-US,
+        "hut"@nl-NL ;
+    skos:scopeNote "Eenvoudige behuizing, meestal bestaande uit één ruimte." .
+
+<https://data.rkd.nl/thesau/63949> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300003625> ;
+    skos:prefLabel "church tower"@en-US,
+        "kerktoren"@nl-NL ;
+    skos:scopeNote "Torens van kerken, doorgaans verbonden met het kerkgebouw, maar soms ook los hiervan staand." .
+
+<https://data.rkd.nl/thesau/63957> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300264626> ;
+    skos:prefLabel "mill"@en-US,
+        "molen"@nl-NL ;
+    skos:scopeNote "Verwijst naar gebouwen die zijn ontworpen voor en uitgerust met machines die bepaalde taken in de vervaardiging van producten verrichten, waaronder het malen van graan of het draaien van een weefgetouw voor het maken van textiel. Gebruik 'molens (machines)' voor de machines zelf, los van het gebouw." .
+
+<https://data.rkd.nl/thesau/63976> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015566> ;
+    skos:prefLabel "topography"@en-US,
+        "topografie"@nl-NL ;
+    skos:scopeNote "Tweedimensionale beeldende werken, die een bestaande locatie waarheidsgetrouw afbeelden, en die meer documentair dan kunstzinnig van aard zijn. Gebruik voor dergelijk voorstellingen die vooral een kunstzinnig karakter hebben 'landschappen (voorstellingen)', 'zeegezichten', 'marines (beeldmateriaal)', 'stadsgezichten' of 'dorpsgezichten'. Gebruik 'opmetingstekeningen', 'archieftekeningen' of revisietekeningen' voor getrouwe tekeningen van één enkel gebouw." .
+
+<https://data.rkd.nl/thesau/64011> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300212738> ;
+    skos:prefLabel "train"@en-US,
+        "trein"@nl-NL ;
+    skos:scopeNote "Twee of meer treinwagons die aan elkaar zijn bevestigd en als eenheid worden bestuurd." .
+
+<https://data.rkd.nl/thesau/64024> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300343635>,
+        <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "sunset"@en-US,
+        "zonsondergang"@nl-NL ;
+    skos:scopeNote "Het schijnbare zakken van de zon achter de horizon, wat het einde van de dag aangeeft." .
+
+<https://data.rkd.nl/thesau/64071> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053241>,
+        <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "etching (printing process)"@en-US,
+        "etsen (drukprocedé)"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor de diepdruktechniek waarbij een ontwerp wordt gemaakt met een zuurbestendige stof die de metalen drukplaat beschermt. De plaat wordt blootgesteld aan zuur, dat in de plaat inbijt, zodat de delen van de metalen plaat die aan het zuur blootstaan, worden geëtst.. Gebruik 'bijten' voor het inwerken zelf (van zuren op een drukplaat ten gevolge van blootstelling)." .
+
+<https://data.rkd.nl/thesau/64148> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300010898> ;
+    skos:prefLabel "glassware"@en-US,
+        "glaswerk"@nl-NL ;
+    skos:scopeNote "Objecten die zijn gemaakt van glas; vooral tafelgerei of glas dat wordt gebruikt voor het serveren van eten en drinken." .
+
+<https://data.rkd.nl/thesau/64197> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300132254> ;
+    skos:prefLabel "vase"@en-US,
+        "vaas"@nl-NL ;
+    skos:scopeNote "Houders om bloemen in te zetten of voor de sier; van verschillende vorm en grootte, meestal hoger dan breed, veelal cilindrisch." .
+
+<https://data.rkd.nl/thesau/64204> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300167846> ;
+    skos:prefLabel "machine (equipment)"@en-US,
+        "machine (uitrusting)"@nl-NL ;
+    skos:scopeNote "Toestellen die een aandrijfmechanisme bevatten waardoor ze handenarbeid vervangen of assisteren bij handenarbeid." .
+
+<https://data.rkd.nl/thesau/64207> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300312364> ;
+    skos:prefLabel "sack (generic container)"@en-US,
+        "zak (algemene houder)"@nl-NL ;
+    skos:scopeNote "Grote en flexibele houders van vlas, jute, een andere stof of plastic, gewoonlijk rechthoekig, open aan één kant en bedoeld voor het bewaren en vervoeren van bijvoorbeeld maïs, meel, fruit, aardappels, hout, kolen of andere producten. Gebruik 'tassen (algemene houders)' voor houders van leer, stof, papier waarvan de opening kan worden afgesloten." .
+
+<https://data.rkd.nl/thesau/64226> a skos:Concept ;
+    skos:prefLabel "potato"@en-US,
+        "aardappel"@nl-NL .
+
+<https://data.rkd.nl/thesau/64289> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300178749> ;
+    skos:prefLabel "boat"@en-US,
+        "boot"@nl-NL ;
+    skos:scopeNote "In het algemeen te gebruiken voor vaartuigen die kleiner en minder zeewaardig zijn dan schepen en meestal niet zijn ontworpen om grote open wateren over te steken." .
+
+<https://data.rkd.nl/thesau/64310> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300120023> ;
+    skos:prefLabel "sailboat"@en-US,
+        "zeilboot"@nl-NL ;
+    skos:scopeNote "Te gebruiken voor boten, meestal eenmasters, die hoofdzakelijk met behulp van zeilen worden voortbewogen." .
+
+<https://data.rkd.nl/thesau/64423> a skos:Concept ;
+    skos:prefLabel "strolling"@en-US,
+        "flaneren"@nl-NL .
+
+<https://data.rkd.nl/thesau/64455> a skos:Concept ;
+    skos:prefLabel "picking up"@en-US,
+        "oprapen"@nl-NL .
+
+<https://data.rkd.nl/thesau/64470> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300380156> ;
+    skos:prefLabel "smoking (activity)"@en-US,
+        "roken (handeling)"@nl-NL ;
+    skos:scopeNote "The action of inhaling and exhaling smoke, usually that of burning leaves of various forms of vegetation, from a cigarette, pipe, cigar, or other controlled implement for inhalation." .
+
+<https://data.rkd.nl/thesau/64489> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300228062> ;
+    skos:prefLabel "burning"@en-US,
+        "verbranden"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor het procédé waarbij iets wordt veranderd, beschadigd of verteerd door vuur of hitte. Gebruik 'branden' als iets geheel of gedeeltelijk wordt verteerd door vuur, hetzij opzettelijk, hetzij per ongeluk." .
+
+<https://data.rkd.nl/thesau/64502> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300248181> ;
+    skos:prefLabel "walking"@en-US,
+        "wandelen"@nl-NL ;
+    skos:scopeNote "Het reizen te voet in gematigd tempo, zich met stappen voortbewegend, waarbij de voeten om beurten worden verplaatst zodat er zich altijd één voet op de grond bevindt bij tweevoetige voortbeweging en twee of meerdere voeten bij viervoetige voortbeweging." .
+
+<https://data.rkd.nl/thesau/64756> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300194498> ;
+    skos:prefLabel "basket"@en-US,
+        "mand"@nl-NL ;
+    skos:scopeNote "Houders van samengevlochten, meest flexibel materiaal." .
+
+<https://data.rkd.nl/thesau/64758> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300052267> ;
+    skos:prefLabel "fireplace"@en-US,
+        "open haard"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor openingen of nissen in schoorstenen of muren waarin een vuur kan worden gemaakt, voor verwarming of om op te koken. Kan ook worden gebruikt als verwijzing naar lage vuurvaste constructies die buiten zijn opgericht om boven een open vuur te koken." .
+
+<https://data.rkd.nl/thesau/64817> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300055474>,
+        <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "family"@en-US,
+        "familie"@nl-NL ;
+    skos:scopeNote "Groepen van personen die zijn verbonden door bloed, huwelijk, adoptie of samenwoning." .
+
+<https://data.rkd.nl/thesau/64852> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300266061> ;
+    skos:prefLabel "vegetation"@en-US,
+        "vegetatie"@nl-NL ;
+    skos:scopeNote "Collectieve term voor planten, gewoonlijk verwijzend naar planten of plantengroei in een bepaald gebied. Gebruik 'planten (vegetatie)' voor het plantenrijk." .
+
+<https://data.rkd.nl/thesau/64858> a skos:Concept ;
+    skos:prefLabel "weed"@en-US,
+        "onkruid"@nl-NL .
+
+<https://data.rkd.nl/thesau/64873> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300379805> ;
+    skos:prefLabel "plowing"@en-US,
+        "ploegen (activiteit)"@nl-NL .
+
+<https://data.rkd.nl/thesau/64879> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "turf cutting"@en-US,
+        "turfsteken"@nl-NL .
+
+<https://data.rkd.nl/thesau/64881> a skos:Concept ;
+    skos:prefLabel "peasant woman"@en-US,
+        "boerin (volkstype)"@nl-NL .
+
+<https://data.rkd.nl/thesau/64883> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008890> ;
+    skos:prefLabel "orchard"@en-US,
+        "boomgaard"@nl-NL ;
+    skos:scopeNote "Een fruitkwekerij of boomgaard is een kunstmatig beplant stuk grond waar vruchten- of notenbomen op gekweekt worden om voedsel te produceren." .
+
+<https://data.rkd.nl/thesau/64898> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008733> ;
+    skos:prefLabel "shore (landform)"@en-US,
+        "oever"@nl-NL ;
+    skos:scopeNote "Wordt algemeen gebruikt voor stroken land die grenzen aan grote watermassa's, maar soms ook specifiek voor het gebied tussen de laagste laagwaterstand bij springtij en het hoogste punt dat golven tijdens een storm bereiken. Gebruik 'kustlijn' voor de lijn die de grens vormt tussen de zee en het vasteland." .
+
+<https://data.rkd.nl/thesau/64928> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300212906> ;
+    skos:prefLabel "wheelbarrow"@en-US,
+        "kruiwagen"@nl-NL ;
+    skos:scopeNote "Met de hand aangedreven voertuigen, meestal voorzien van een ondiepe, open bak, een wiel of wielen vooraan en twee steunen zonder wielen achteraan, die worden opgetild en voortgeduwd met behulp van twee horizontale stangen die uitsteken aan de achterkant." .
+
+<https://data.rkd.nl/thesau/64945> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300024300> ;
+    skos:prefLabel "shovel"@en-US,
+        "schop"@nl-NL ;
+    skos:scopeNote "Gereedschap met een breed blad of brede bak aan een lang handvat. Wordt gebruikt om los materiaal zoals aarde, sneeuw of kolen op te pakken, verwijderen of verplaatsen." .
+
+<https://data.rkd.nl/thesau/64982> a skos:Concept ;
+    skos:prefLabel "print (depicted)"@en-US,
+        "prent (in de voorstelling)"@nl-NL .
+
+<https://data.rkd.nl/thesau/65022> a skos:Concept ;
+    skos:prefLabel "old man"@en-US,
+        "oude man"@nl-NL .
+
+<https://data.rkd.nl/thesau/65086> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300379806> ;
+    skos:prefLabel "sun"@en-US,
+        "zon (hemellichaam)"@nl-NL ;
+    skos:scopeNote "Sterren die het centrum vormen van een zonnestelsel, waar planeten in een baan omheen bewegen." .
+
+<https://data.rkd.nl/thesau/65119> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300003228> ;
+    skos:prefLabel "stairs"@en-US,
+        "trap"@nl-NL ;
+    skos:scopeNote "Een opeenvolging van treden of meerdere reeksen treden verbonden door middel van overlopen, bedoeld om van de ene verdieping naar de andere te komen." .
+
+<https://data.rkd.nl/thesau/65126> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300002944> ;
+    skos:prefLabel "window"@en-US,
+        "venster"@nl-NL ;
+    skos:scopeNote "Een opening in de muur van een gebouw, om licht binnen te laten, meestal om te kunnen kijken, en vaak om lucht binnen te laten." .
+
+<https://data.rkd.nl/thesau/65145> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300038418> ;
+    skos:prefLabel "stool (seat)"@en-US,
+        "kruk (zitmeubel)"@nl-NL ;
+    skos:scopeNote "Het meest algemene soort zitmeubel tot de 19e eeuw. Ze verschillen van 'banken' omdat er maar één persoon op past en worden meestal onderscheiden van 'stoelen' omdat ze geen rugleuning hebben. De hoge zitmeubels bij een bar of toonbank worden echter ook krukken genoemd, hoewel ze soms een rugleuning hebben. Ze worden meestal in twee typen uitgevoerd; het ene type heeft vier rechte poten en bij het andere type kruisen de poten elkaar." .
+
+<https://data.rkd.nl/thesau/65148> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300039548> ;
+    skos:prefLabel "table"@en-US,
+        "tafel"@nl-NL ;
+    skos:scopeNote "Meubelstukken met een vlakke, plaatachtige bovenkant die op één of meer poten of dragers steunt." .
+
+<https://data.rkd.nl/thesau/65209> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300247598> ;
+    skos:prefLabel "boy"@en-US,
+        "jongen"@nl-NL ;
+    skos:scopeNote "Te gebruiken voor mannelijke personen in de periode tussen geboorte tot en met adolescentie." .
+
+<https://data.rkd.nl/thesau/65213> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300247581> ;
+    skos:prefLabel "girl"@en-US,
+        "meisje"@nl-NL ;
+    skos:scopeNote "Te gebruiken voor vrouwelijke personen in de periode tussen geboorte tot en met adolescentie." .
+
+<https://data.rkd.nl/thesau/65329> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008250> ;
+    skos:prefLabel "avenue"@en-US,
+        "laan"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor brede, rechte, meestal met bomen omzoomde wegen of opritten." .
+
+<https://data.rkd.nl/thesau/65338> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300006075> ;
+    skos:prefLabel "canal"@en-US,
+        "kanaal"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor gegraven, bevaarbare waterwegen." .
+
+<https://data.rkd.nl/thesau/65392> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300247546> ;
+    skos:prefLabel "loom (textile tool)"@en-US,
+        "weefgetouw"@nl-NL ;
+    skos:scopeNote "Raamwerken of machines die worden gebruikt om twee of meer reeksen draden of garens onder een rechte hoek door elkaar heen te weven." .
+
+<https://data.rkd.nl/thesau/65561> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300189808> ;
+    skos:prefLabel "figure"@en-US,
+        "figuurvoorstelling"@nl-NL ;
+    skos:scopeNote "Voorstellingen waarin mensen, dieren of mythische wezens het hoofdonderwerp vormen." .
+
+<https://data.rkd.nl/thesau/65625> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300210045> ;
+    skos:prefLabel "sabot"@en-US,
+        "klomp"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor schoenen die althans gedeeltelijk van hout zijn gemaakt, vooral die uit een enkel stuk hout gesneden zijn. Ze werden oorspronkelijk gedragen door boeren en andere werklieden in Nederland, Frankrijk en België." .
+
+<https://data.rkd.nl/thesau/65649> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300046121> ;
+    skos:prefLabel "hood (headgear)"@en-US,
+        "kap (hoofddeksel)"@nl-NL ;
+    skos:scopeNote "Zachte hoofddeksels voor het hoofd en de nek, soms tot de schouders reikend, die zowel apart van een kledingstuk of hieraan vastgemaakt kunnen zijn.." .
+
+<https://data.rkd.nl/thesau/65655> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300046094> ;
+    skos:prefLabel "cap (headgear)"@en-US,
+        "pet of muts"@nl-NL ;
+    skos:scopeNote "Randloze hoofddeksels; de pet is met een klep." .
+
+<https://data.rkd.nl/thesau/65750> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300194749> ;
+    skos:prefLabel "flowerpot"@en-US,
+        "bloempot"@nl-NL ;
+    skos:scopeNote "Houders voornamenlijk om planten in te kweken; zowel voor praktisch gebruik als voor decoratieve doeleinden." .
+
+<https://data.rkd.nl/thesau/65773> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300045627> ;
+    skos:prefLabel "bottle"@en-US,
+        "fles"@nl-NL ;
+    skos:scopeNote "Vaten waarvan hals en mond aanzienlijk smaller zijn dan de buik; om er vloeibare en droge stoffen in te doen." .
+
+<https://data.rkd.nl/thesau/65787> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300042973> ;
+    skos:prefLabel "dish (vessel for food)"@en-US,
+        "schaal"@nl-NL ;
+    skos:scopeNote "Open, vaak ondiepe houders, soms met een deksel. Gemaakt van aardewerk, glas, metaal, hout en dergelijke en gebruikt voor verschillende doeleinden, vooral om voedsel in te doen en uit te serveren." .
+
+<https://data.rkd.nl/thesau/65805> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300042909> ;
+    skos:prefLabel "piano"@en-US,
+        "piano"@nl-NL ;
+    skos:scopeNote "Snaar-, tevens toetseninstrumenten, waarbij snaren in trilling worden gebracht door terugstuitende hamers, bestuurd door toetsen." .
+
+<https://data.rkd.nl/thesau/65885> a skos:Concept ;
+    skos:prefLabel "carnation"@en-US,
+        "anjer"@nl-NL ;
+    skos:scopeNote "dianthus" .
+
+<https://data.rkd.nl/thesau/659> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007302>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2657896/> ;
+    skos:prefLabel "Zürich (city)"@en-US,
+        "Zürich (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/66097> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300411451> ;
+    skos:prefLabel "hay barrack"@en-US,
+        "hooiberg"@nl-NL ;
+    skos:scopeNote "Structures for storing hay, with roofs that can be raised or lowered for protection from the elements. Some are set on skids to be moved wherever they are needed." .
+
+<https://data.rkd.nl/thesau/66251> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300195678> ;
+    skos:prefLabel "flag"@en-US,
+        "vlag"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor stukken stof of ander buigzaam materiaal dat meestal langs één kant aan een paal of een koord is bevestigd, en die zijn bedoeld als symbool van een land of organisatie, of als een signaal." .
+
+<https://data.rkd.nl/thesau/66408> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300132410> ;
+    skos:prefLabel "tree"@en-US,
+        "boom"@nl-NL ;
+    skos:scopeNote "Houtige, vaste planten, gewoonlijk met één lange stam die zelfstandig overeind staat, en die tot aanzienlijke hoogte groeien." .
+
+<https://data.rkd.nl/thesau/66554> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300002098> ;
+    skos:prefLabel "roof"@en-US,
+        "dak"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor de overdekkingen van de buitenkant van gebouwen of andere constructies, inclusief het dakwerk en het geraamte daarvan." .
+
+<https://data.rkd.nl/thesau/66571> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300003933> ;
+    skos:prefLabel "chimney"@en-US,
+        "schoorsteen"@nl-NL ;
+    skos:scopeNote "Te gebruiken voor verticale, onbrandbare constructies met schoorsteenpijpen om verbrandingsproducten naar de buitenlucht te voeren vanuit, bijvoorbeeld, kachels, open haarden en ovens." .
+
+<https://data.rkd.nl/thesau/66611> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300195349> ;
+    skos:prefLabel "kettle"@en-US,
+        "ketel"@nl-NL ;
+    skos:scopeNote "Metalen vaten om vloeistoffen in te koken, inhoud tussen 1 en 50 liter, wijde opening, beugelhandvat, soms een deksel, soms op pootjes." .
+
+<https://data.rkd.nl/thesau/66699> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300379263> ;
+    skos:prefLabel "beard"@en-US,
+        "baard"@nl-NL ;
+    skos:scopeNote "Haargroei op het menselijk gezicht, met name op de kin en wangen." .
+
+<https://data.rkd.nl/thesau/66700> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300379264> ;
+    skos:prefLabel "moustache"@en-US,
+        "snor"@nl-NL ;
+    skos:scopeNote "Gezichtsbeharing in verschillende vormen op de bovenlip." .
+
+<https://data.rkd.nl/thesau/66701> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300386887> ;
+    skos:prefLabel "heath (landscape)"@en-US,
+        "heide (landschap)"@nl-NL ;
+    skos:scopeNote "Een heide is een benaming voor een plantengemeenschap die vooral voorkomen op voedingsarme, verzuurde gronden, het wordt gekenmerkt door laaggroeiende houtachtige vegetatie." .
+
+<https://data.rkd.nl/thesau/66851> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300188519> ;
+    skos:prefLabel "laundress"@en-US,
+        "wasvrouw"@nl-NL ;
+    skos:scopeNote "Vrouwen die beroepshalve kleren en linnengoed wassen en strijken." .
+
+<https://data.rkd.nl/thesau/67165> a skos:Concept ;
+    skos:prefLabel "figure from behind"@en-US,
+        "rugfiguur"@nl-NL .
+
+<https://data.rkd.nl/thesau/67291> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300024353> ;
+    skos:prefLabel "pitchfork"@en-US,
+        "hooivork"@nl-NL ;
+    skos:scopeNote "Handvorken met een lange steel en twee of drie enigszins gebogen scherpe tanden, gebruikt om hooi, stro en schoven op te steken en om grond los te maken." .
+
+<https://data.rkd.nl/thesau/67442> a skos:Concept ;
+    skos:prefLabel "head to the right"@en-US,
+        "hoofd naar rechts"@nl-NL ;
+    skos:scopeNote "voor de kijker naar rechts; het gaat erom waar de neus heenwijst" .
+
+<https://data.rkd.nl/thesau/67444> a skos:Concept ;
+    skos:prefLabel "head to the left"@en-US,
+        "hoofd naar links"@nl-NL ;
+    skos:scopeNote "voor de kijker; het gaat erom waar de neus heenwijst" .
+
+<https://data.rkd.nl/thesau/67487> a skos:Concept ;
+    skos:prefLabel "hair put up"@en-US,
+        "opgestoken haar"@nl-NL .
+
+<https://data.rkd.nl/thesau/6756> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7003614>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2756631/> ;
+    skos:prefLabel "Drenthe (prov.)"@en-US,
+        "Drenthe (prov.)"@nl-NL .
+
+<https://data.rkd.nl/thesau/67565> a skos:Concept ;
+    skos:prefLabel "stooping"@en-US,
+        "bukkend"@nl-NL .
+
+<https://data.rkd.nl/thesau/67578> a skos:Concept ;
+    skos:prefLabel "hands on lap"@en-US,
+        "handen op schoot"@nl-NL .
+
+<https://data.rkd.nl/thesau/67961> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300343809> ;
+    skos:prefLabel "apple tree"@en-US,
+        "appelboom"@nl-NL ;
+    skos:scopeNote "Genus van 30 tot 50 soorten kleine bladverliezende bomen of struiken, waarvan vele soorten (vlezige) pitvruchten voortbrengen waarin het gerijpte vruchtbeginsel en het omringende weefsel zowel vlezig als eetbaar worden. Appelbomen zijn inheems in de regio's rond de Kaspische Zee en de Zwarte Zee. Ze werden door de eerste kolonisten naar Amerika gebracht. Appelbomen worden voornamelijk commercieel gekweekt voor hun vruchten, maar ook het hout wordt gebruikt." .
+
+<https://data.rkd.nl/thesau/67962> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300311369> ;
+    skos:prefLabel "olive tree"@en-US,
+        "olijfboom"@nl-NL .
+
+<https://data.rkd.nl/thesau/68233> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300209443> ;
+    skos:prefLabel "street lighting unit"@en-US,
+        "lantaarnpaal"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor straatverlichtingseenheden, bestaande uit paal of mast, arm en lamp, die meestal in serie langs wegen zijn geplaatst." .
+
+<https://data.rkd.nl/thesau/68280> a skos:Concept ;
+    skos:prefLabel "in a garden"@en-US,
+        "in een tuin"@nl-NL .
+
+<https://data.rkd.nl/thesau/68283> a skos:Concept ;
+    skos:prefLabel "landscape as background"@en-US,
+        "landschap als achtergrond"@nl-NL ;
+    skos:scopeNote "het landschap vormt hierbij over de hele breedte van de voorstelling de achtergrond, en niet slechts eenzijdig (in dat geval wordt de term 'doorkijk' gebruikt)" .
+
+<https://data.rkd.nl/thesau/684> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004425>,
+        <https://sws.geonames.org/2825297/> ;
+    skos:prefLabel "Stuttgart (city)"@en-US,
+        "Stuttgart (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/68702> a skos:Concept ;
+    skos:prefLabel "facing front"@en-US,
+        "aanziend"@nl-NL .
+
+<https://data.rkd.nl/thesau/68703> a skos:Concept ;
+    skos:prefLabel "looking away"@en-US,
+        "wegziend"@nl-NL .
+
+<https://data.rkd.nl/thesau/69371> a skos:Concept ;
+    skos:prefLabel "mail carrier"@en-US,
+        "postbezorger"@nl-NL ;
+    skos:scopeNote "heliconius melpomene" .
+
+<https://data.rkd.nl/thesau/698> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7005289>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2911298/> ;
+    skos:prefLabel "Hamburg (city)"@en-US,
+        "Hamburg (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/714> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008772>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2996944/> ;
+    skos:prefLabel "Lyon"@en-US,
+        "Lyon"@nl-NL .
+
+<https://data.rkd.nl/thesau/73990> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300037564> ;
+    skos:prefLabel "curtain"@en-US,
+        "gordijn"@nl-NL ;
+    skos:scopeNote "Behangsels van stof voor ramen, deuropeningen of andere openingen, meestal met zomen, omslagen voor de gordijnroede, plooien of franjes en aan de bovenzijnde van de openingen opgehangen; ter bescherming tegen licht, tocht of inkijk, of ter decoratie." .
+
+<https://data.rkd.nl/thesau/74047> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300011872> ;
+    skos:prefLabel "grass (material)"@en-US,
+        "gras (materiaal)"@nl-NL ;
+    skos:scopeNote "Plant van het genus Gramineae, met stengels met knopen, schedevormige bladeren en een aartje met zaadachtige korrels." .
+
+<https://data.rkd.nl/thesau/74058> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053702> ;
+    skos:prefLabel "digging"@en-US,
+        "graven (activiteit)"@nl-NL ;
+    skos:scopeNote "Generally, the action or process of digging out a hollow or hollows in the earth. Specifically, refers to the systematic digging and documentation of an archaeological site." .
+
+<https://data.rkd.nl/thesau/74315> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300041273> ;
+    skos:prefLabel "print"@en-US,
+        "prent"@nl-NL ;
+    skos:scopeNote "Afbeeldingen gemaakt door de overdracht van beelden door middel van een drukvorm, zoals een plaat, een blok of een zeef, volgens verschillende druktechnieken. Gebruik 'afdrukken' wanneer specifiek de individuele afbeelding die het resultaat is van het afdrukken bedoeld wordt. Gebruik 'reproductieprenten' voor de prenten gemaakt naar geschilderde of getekende voorstellingen. Gebruik voor de afdrukken van foto's 'fotografische afdrukken'; zie voor termen voor afdrukken van technische tekeningen en documenten de termen onder de zoekleidingsterm 'reprografische kopieën'." .
+
+<https://data.rkd.nl/thesau/74319> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033973> ;
+    skos:prefLabel "drawing (visual work)"@en-US,
+        "tekening"@nl-NL ;
+    skos:scopeNote "Visuele werken die gemaakt zijn door te tekenen, wat wil zeggen de toepassing van lijnen op een oppervlak (vaak papier) met een potlood, pen, krijt, of een ander tekeninstrument. Hierin wordt geconcentreerd op de afbakening van de vorm en minder op de kleurgeving." .
+
+<https://data.rkd.nl/thesau/74324> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033618> ;
+    skos:prefLabel "painting"@en-US,
+        "schilderij"@nl-NL ;
+    skos:scopeNote "Beeldende werken waarin de voorstelling hoofdzakelijk wordt gevormd door het direct aanbrengen van pigment, in de vorm van kleurmassa's, op een over het algemeen tweedimensionaal vlak." .
+
+<https://data.rkd.nl/thesau/74367> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300078925> ;
+    skos:prefLabel "watercolor (painting)"@en-US,
+        "aquarel (schildering)"@nl-NL ;
+    skos:scopeNote "Verwijst naar tweedimensionale kunstwerken die bestaan uit in water gesuspendeerd pigment (waterverf) dat met een penseel is aangebracht op een gewoonlijk papieren drager om een beeld of ontwerp te scheppen." .
+
+<https://data.rkd.nl/thesau/74464> a skos:Concept ;
+    skos:prefLabel "bending over"@en-US,
+        "voorover gebogen"@nl-NL .
+
+<https://data.rkd.nl/thesau/77089> a skos:Concept ;
+    skos:prefLabel "[S.l.]"@en-US,
+        "[S.l.]"@nl-NL .
+
+<https://data.rkd.nl/thesau/77236> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/1849053/> ;
+    skos:prefLabel "Utsunomiya"@en-US,
+        "Utsunomiya"@nl-NL .
+
+<https://data.rkd.nl/thesau/77715> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown> ;
+    skos:prefLabel "Etten (Noord-Brabant)"@en-US,
+        "Etten (Noord-Brabant)"@nl-NL .
+
+<https://data.rkd.nl/thesau/79827> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300256273> ;
+    skos:prefLabel "topography (image-making)"@en-US,
+        "topografie (beeldvervaardiging)"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor het nauwkeurig, grafisch in kaart brengen van natuurlijke en door de mens gemaakte landschapselementen van een specifiek verstedelijkt gebied, stuk land of andere plaats, met name om hun ligging ten opzichte van elkaar en hun hoogte te laten zien. Gebruik 'topografie (kenmerk)' voor de reliëfelementen of de oppervlaktekenmerken van een plaats of object, waaronder natuurlijke en door de mens gecreëerde elementen." .
+
+<https://data.rkd.nl/thesau/805> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008461>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2998324/> ;
+    skos:prefLabel "Lille (France)"@en-US,
+        "Lille (Frankrijk)"@nl-NL .
+
+<https://data.rkd.nl/thesau/80987> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053228> ;
+    skos:prefLabel "drypoint (printing process)"@en-US,
+        "droge naald (drukprocedé)"@nl-NL ;
+    skos:scopeNote "Intagliodrukprocédé waarbij met een scherpe naald krassen worden gemaakt in de plaat zodat er een braam ontstaat, wat een kenmerkende, zachte en fluweelachtige lijn geeft in de uiteindelijke afdruk." .
+
+<https://data.rkd.nl/thesau/82356> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300028749> ;
+    skos:prefLabel "watermark"@en-US,
+        "watermerk"@nl-NL ;
+    skos:scopeNote "Merken die in papier worden verwerkt wanneer dit wordt gemaakt, en die worden weergegeven als doorschijnende of schaduwgebieden die alleen zichtbaar zijn als er licht doorheen valt. In een watermerk worden vaak de naam van de fabrikant en de productiedatum van het papier verwerkt. Symbolen, zegels en initialen komen ook vaak voor. Watermerken worden ook gebruikt om vervalsingen en namaak op te sporen en te voorkomen. Ze werden voor het eerst gebruikt in 1282 in Bologna." .
+
+<https://data.rkd.nl/thesau/82773> a skos:Concept ;
+    skos:prefLabel "man's portrait"@en-US,
+        "mansportret"@nl-NL .
+
+<https://data.rkd.nl/thesau/8300> a skos:Concept ;
+    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2799114/> ;
+    skos:prefLabel "Drogenbos"@en-US,
+        "Drogenbos"@nl-NL .
+
+<https://data.rkd.nl/thesau/83247> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300389823> ;
+    skos:prefLabel "soup"@en-US,
+        "soep"@nl-NL .
+
+<https://data.rkd.nl/thesau/83578> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300027267> ;
+    skos:prefLabel "report"@en-US,
+        "verslag"@nl-NL ;
+    skos:scopeNote "Official or formal records of a special investigation, in the form of documents containing presentations of facts, proceedings, investigations, or events." .
+
+<https://data.rkd.nl/thesau/83696> a skos:Concept ;
+    skos:prefLabel "weaving"@en-US,
+        "weefkunst"@nl-NL .
+
+<https://data.rkd.nl/thesau/84554> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300133138> ;
+    skos:prefLabel "detail"@en-US,
+        "detail"@nl-NL ;
+    skos:scopeNote "Wordt gebruikt voor minuscule delen van een grotere structuur, object of beeld. Voor architectonische ontwerptekeningen of bouwdetails wordt 'detailtekeningen' gebruikt. Gebruik voor voorbereidende studies van beeld- of ontwerpdetails de term 'detailstudies'." .
+
+<https://data.rkd.nl/thesau/877> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7010413>,
+        <https://sws.geonames.org/3117735/> ;
+    skos:prefLabel "Madrid (city, Spain)"@en-US,
+        "Madrid (stad, Spanje)"@nl-NL .
+
+<https://data.rkd.nl/thesau/90> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007068>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/2756071/> ;
+    skos:prefLabel "Enschede (city)"@en-US,
+        "Enschede (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/90804> a skos:Concept ;
+    skos:prefLabel "light microscopy"@en-US,
+        "lichtmicroscopie"@nl-NL .
+
+<https://data.rkd.nl/thesau/90822> a skos:Concept ;
+    skos:prefLabel "SEM-EDX"@en-US,
+        "SEM-EDX"@nl-NL ;
+    skos:scopeNote "SEM-EDX (Scanning Electronen Microscoop met Energie Dispersieve Röntgen Detector)" .
+
+<https://data.rkd.nl/thesau/90834> a skos:Concept ;
+    skos:prefLabel "X-radiograph (born digital)"@en-US,
+        "röntgenopname (born digital)"@nl-NL .
+
+<https://data.rkd.nl/thesau/90844> a skos:Concept ;
+    skos:prefLabel "examination report"@en-US,
+        "onderzoeksverslag"@nl-NL .
+
+<https://data.rkd.nl/thesau/90906> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300379538> ;
+    skos:prefLabel "infrared reflectography"@en-US,
+        "infraroodreflectografie"@nl-NL .
+
+<https://data.rkd.nl/thesau/90907> a skos:Concept ;
+    skos:prefLabel "sample analysis"@en-US,
+        "monsteronderzoek"@nl-NL .
+
+<https://data.rkd.nl/thesau/90909> a skos:Concept ;
+    skos:prefLabel "support analyses: canvas"@en-US,
+        "onderzoek drager: doek"@nl-NL .
+
+<https://data.rkd.nl/thesau/90912> a skos:Concept ;
+    skos:prefLabel "normal light studies"@en-US,
+        "onderzoek normale belichting"@nl-NL .
+
+<https://data.rkd.nl/thesau/90913> a skos:Concept ;
+    skos:prefLabel "x-radiography"@en-US,
+        "röntgenonderzoek"@nl-NL .
+
+<https://data.rkd.nl/thesau/90914> a skos:Concept ;
+    skos:prefLabel "stereomicroscopy"@en-US,
+        "stereomicroscopie"@nl-NL .
+
+<https://data.rkd.nl/thesau/90915> a skos:Concept ;
+    skos:prefLabel "raking light studies"@en-US,
+        "strijklicht onderzoek"@nl-NL .
+
+<https://data.rkd.nl/thesau/90916> a skos:Concept ;
+    skos:prefLabel "ultraviolet light studies"@en-US,
+        "ultraviolet licht onderzoek"@nl-NL .
+
+<https://data.rkd.nl/thesau/90917> a skos:Concept ;
+    skos:prefLabel "ultraviolet fluorescence"@en-US,
+        "ultraviolette fluorescentie"@nl-NL .
+
+<https://data.rkd.nl/thesau/90922> a skos:Concept ;
+    skos:prefLabel "paint sample"@en-US,
+        "verfmonster"@nl-NL .
+
+<https://data.rkd.nl/thesau/90944> a skos:Concept ;
+    skos:prefLabel "X-radiograph film (print)"@en-US,
+        "röntgenfilm (afdruk)"@nl-NL .
+
+<https://data.rkd.nl/thesau/90961> a skos:Concept ;
+    skos:prefLabel "not specified"@en-US,
+        "niet gespecificeerd"@nl-NL .
+
+<https://data.rkd.nl/thesau/91024> a skos:Concept ;
+    skos:prefLabel "condition check"@en-US,
+        "conditie onderzoek"@nl-NL .
+
+<https://data.rkd.nl/thesau/91026> a skos:Concept ;
+    skos:prefLabel "ultraviolet reflection studies"@en-US,
+        "ultraviolet reflectie onderzoek"@nl-NL .
+
+<https://data.rkd.nl/thesau/91063> a skos:Concept ;
+    skos:prefLabel "study"@en-US,
+        "studie"@nl-NL .
+
+<https://data.rkd.nl/thesau/91064> a skos:Concept ;
+    skos:prefLabel "research project"@en-US,
+        "onderzoeksproject"@nl-NL .
+
+<https://data.rkd.nl/thesau/91096> a skos:Concept ;
+    skos:prefLabel "capture (born digital)"@en-US,
+        "opname (born digital)"@nl-NL .
+
+<https://data.rkd.nl/thesau/91114> a skos:Concept ;
+    skos:prefLabel "transmitted light"@en-US,
+        "doorvallend licht"@nl-NL .
+
+<https://data.rkd.nl/thesau/91327> a skos:Concept ;
+    skos:prefLabel "town (in the background)"@en-US,
+        "stad (in de achtergrond)"@nl-NL .
+
+<https://data.rkd.nl/thesau/93011> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300025607> ;
+    skos:prefLabel "farmer"@en-US,
+        "boer (agrariër)"@nl-NL ;
+    skos:scopeNote "Zij die land bewerken of bebouwen of vee houden, voornamelijk als hun belangrijkste bezigheid." .
+
+<https://data.rkd.nl/thesau/93073> a skos:Concept ;
+    skos:prefLabel "brown ink"@en-US,
+        "bruine inkt"@nl-NL .
+
+<https://data.rkd.nl/thesau/95570> a skos:Concept ;
+    skos:prefLabel "infrared examination"@en-US,
+        "infraroodonderzoek"@nl-NL .
+
+<https://data.rkd.nl/thesau/957> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004499>,
+        <https://data.rkd.nl/IRIunknown>,
+        <https://sws.geonames.org/1856520/> ;
+    skos:prefLabel "Hiroshima (city)"@en-US,
+        "Hiroshima (stad)"@nl-NL .
+
+<https://data.rkd.nl/thesau/97034> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300262844> ;
+    skos:prefLabel "stamp (mark)"@en-US,
+        "stempelafdruk"@nl-NL ;
+    skos:scopeNote "Ingedrukte, opgedrukte, geperforeerde of in reliëf gemaakte merktekens, aangebracht met een hard voorwerp, in het bijzonder een stans, blok of ander gereedschap, op een zachter materiaal zoals papier of was." .
+

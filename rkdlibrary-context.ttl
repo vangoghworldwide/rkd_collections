@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix la: <https://linked.art/ns/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+
+
+<https://data.rkd.nl/library/bibform/9988>
+    a crm:E55_Type ;
+    rdfs:label "Boek [BV]" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417443> .
+
+<https://data.rkd.nl/library/bibform/10019>
+    a crm:E55_Type ;
+    rdfs:label "Oeuvre-catalogus [BV]" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300026061> .
+
+<https://data.rkd.nl/library/bibform/9650>
+    a crm:E55_Type ;
+    rdfs:label "Tentoonstellingscatalogus [BV]" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300026096> .
+
+<https://data.rkd.nl/library/bibform/9651>
+    a crm:E55_Type ;
+    rdfs:label "Artikel [BV]" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300048715> .
+
+<https://data.rkd.nl/library/bibform/9982>
+    a crm:E55_Type ;
+    rdfs:label "Periodiek [BV]" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300215390> .
+
