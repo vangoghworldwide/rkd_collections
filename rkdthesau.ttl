@@ -1,405 +1,405 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://data.rkd.nl/thesau/1014> a skos:Concept ;
-    skos:exactMatch <https://sws.geonames.org/3164419/> ;
+    skos:exactMatch <https://sws.geonames.org/3164419> ;
     skos:prefLabel "Vicenza (city)"@en-US,
         "Vicenza (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1079> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3038261/> ;
+    skos:exactMatch <https://sws.geonames.org/3038261>,
+        <https://www.wikidata.org/entity/Q132801> ;
     skos:prefLabel "Albi"@en-US,
         "Albi"@nl-NL .
 
 <https://data.rkd.nl/thesau/10854> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2986140/> ;
+    skos:exactMatch <https://sws.geonames.org/2986140>,
+        <https://www.wikidata.org/entity/Q201352> ;
     skos:prefLabel "Pontoise"@en-US,
         "Pontoise"@nl-NL .
 
 <https://data.rkd.nl/thesau/10855> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/1026382>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2799947/> ;
+        <https://sws.geonames.org/2799947>,
+        <https://www.wikidata.org/entity/Q2269644> ;
     skos:prefLabel "Cuesmes"@en-US,
         "Cuesmes"@nl-NL .
 
 <https://data.rkd.nl/thesau/1127> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7003262>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3164527/> ;
+        <https://sws.geonames.org/3164527>,
+        <https://www.wikidata.org/entity/Q2028> ;
     skos:prefLabel "Verona (city)"@en-US,
         "Verona (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/11842> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013503>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4684888/> ;
+        <https://sws.geonames.org/4684888>,
+        <https://www.wikidata.org/entity/Q16557> ;
     skos:prefLabel "Dallas (Texas)"@en-US,
         "Dallas (Texas)"@nl-NL .
 
 <https://data.rkd.nl/thesau/129> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008038>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2988507/> ;
+        <https://sws.geonames.org/2988507>,
+        <https://www.wikidata.org/entity/Q90> ;
     skos:prefLabel "Paris"@en-US,
         "Parijs"@nl-NL .
 
 <https://data.rkd.nl/thesau/1293> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013527>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4931972/> ;
+        <https://sws.geonames.org/4931972>,
+        <https://www.wikidata.org/entity/Q49111> ;
     skos:prefLabel "Cambridge (Massachusetts)"@en-US,
         "Cambridge (Massachusetts)"@nl-NL .
 
 <https://data.rkd.nl/thesau/13026> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006900>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2749203/> ;
+        <https://sws.geonames.org/2749203>,
+        <https://www.wikidata.org/entity/Q1507955> ;
     skos:prefLabel "Otterlo"@en-US,
         "Otterlo"@nl-NL .
 
 <https://data.rkd.nl/thesau/13413> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013331>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4180439/> ;
+        <https://sws.geonames.org/4180439>,
+        <https://www.wikidata.org/entity/Q23556> ;
     skos:prefLabel "Atlanta (Georgia)"@en-US,
         "Atlanta (Georgia)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1349> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7005293>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2925533/> ;
+        <https://sws.geonames.org/2925533>,
+        <https://www.wikidata.org/entity/Q1794> ;
     skos:prefLabel "Frankfurt am Main (city)"@en-US,
         "Frankfurt am Main (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1498> a skos:Concept ;
-    skos:exactMatch <https://sws.geonames.org/3171728/> ;
+    skos:exactMatch <https://sws.geonames.org/3171728> ;
     skos:prefLabel "Padua"@en-US,
         "Padua"@nl-NL .
 
 <https://data.rkd.nl/thesau/1582> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013547>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4990729/> ;
+        <https://sws.geonames.org/4990729>,
+        <https://www.wikidata.org/entity/Q12439> ;
     skos:prefLabel "Detroit (Michigan)"@en-US,
         "Detroit (Michigan)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1587> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2658145/> ;
+    skos:exactMatch <https://sws.geonames.org/2658145>,
+        <https://www.wikidata.org/entity/Q22418860> ;
     skos:prefLabel "Vevey (Switzerland)"@en-US,
         "Vevey (Zwitserland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1591> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004736>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/1856057/> ;
+        <https://sws.geonames.org/1856057>,
+        <https://www.wikidata.org/entity/Q11751> ;
     skos:prefLabel "Nagoya"@en-US,
         "Nagoya"@nl-NL .
 
 <https://data.rkd.nl/thesau/1595> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008799>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3035681/> ;
+        <https://sws.geonames.org/3035681>,
+        <https://www.wikidata.org/entity/Q6397> ;
     skos:prefLabel "Avignon"@en-US,
         "Avignon"@nl-NL .
 
 <https://data.rkd.nl/thesau/1615> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013545>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/5419384/> ;
+        <https://sws.geonames.org/5419384>,
+        <https://www.wikidata.org/entity/Q16554> ;
     skos:prefLabel "Denver (Colorado)"@en-US,
         "Denver (Colorado)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1648> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008742>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2653822/> ;
+        <https://sws.geonames.org/2653822>,
+        <https://www.wikidata.org/entity/Q10690> ;
     skos:prefLabel "Cardiff (Wales)"@en-US,
         "Cardiff (Wales)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1763> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7010597>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2644210/> ;
+        <https://sws.geonames.org/2644210>,
+        <https://www.wikidata.org/entity/Q24826> ;
     skos:prefLabel "Liverpool (England)"@en-US,
         "Liverpool (Engeland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/193> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7000874>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3169070/> ;
+        <https://sws.geonames.org/3169070>,
+        <https://www.wikidata.org/entity/Q220> ;
     skos:prefLabel "Rome"@en-US,
         "Rome"@nl-NL .
 
 <https://data.rkd.nl/thesau/195> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007868>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2800866/> ;
+        <https://sws.geonames.org/2800866>,
+        <https://www.wikidata.org/entity/Q239> ;
     skos:prefLabel "Brussels"@en-US,
         "Brussel"@nl-NL .
 
 <https://data.rkd.nl/thesau/1993> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7005286>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2944388/> ;
+        <https://sws.geonames.org/2944388>,
+        <https://www.wikidata.org/entity/Q24879> ;
     skos:prefLabel "Bremen (city)"@en-US,
         "Bremen (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1996> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008775>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3036938/> ;
+        <https://sws.geonames.org/3036938>,
+        <https://www.wikidata.org/entity/Q48292> ;
     skos:prefLabel "Arles (France)"@en-US,
         "Arles (Frankrijk)"@nl-NL .
 
 <https://data.rkd.nl/thesau/20244> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007314>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2661646/> ;
+        <https://sws.geonames.org/2661646>,
+        <https://www.wikidata.org/entity/Q22472048> ;
     skos:prefLabel "Baden (Aargau)"@en-US,
         "Baden (Aargau)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2032> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7001306>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2964574/> ;
+        <https://sws.geonames.org/2964574>,
+        <https://www.wikidata.org/entity/Q1761> ;
     skos:prefLabel "Dublin (city)"@en-US,
         "Dublin (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2056> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006823>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2743619/> ;
+        <https://sws.geonames.org/2743619>,
+        <https://www.wikidata.org/entity/Q2638759> ;
     skos:prefLabel "Zundert (place)"@en-US,
         "Zundert (plaats)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2102> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7014406>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4560349/> ;
+        <https://sws.geonames.org/4560349>,
+        <https://www.wikidata.org/entity/Q1345> ;
     skos:prefLabel "Philadelphia (Pennsylvania)"@en-US,
         "Philadelphia (Pennsylvania)"@nl-NL .
 
 <https://data.rkd.nl/thesau/21047> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004560>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/1859171/> ;
+        <https://sws.geonames.org/1859171>,
+        <https://www.wikidata.org/entity/Q48320> ;
     skos:prefLabel "Kobe (Japan)"@en-US,
         "Kobe (Japan)"@nl-NL .
 
 <https://data.rkd.nl/thesau/221> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7000457>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3176959/> ;
+        <https://sws.geonames.org/3176959>,
+        <https://www.wikidata.org/entity/Q2044> ;
     skos:prefLabel "Florence"@en-US,
         "Florence"@nl-NL .
 
 <https://data.rkd.nl/thesau/223> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007856>,
-        <https://sws.geonames.org/2803138/> ;
+        <https://sws.geonames.org/2803138> ;
     skos:prefLabel "Antwerp (city)"@en-US,
         "Antwerpen (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/225> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006922>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2759821/> ;
+        <https://sws.geonames.org/2759821>,
+        <https://www.wikidata.org/entity/Q33421377> ;
     skos:prefLabel "Amersfoort (place)"@en-US,
         "Amersfoort (plaats)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2277> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006973>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2759633/> ;
+        <https://sws.geonames.org/2759633>,
+        <https://www.wikidata.org/entity/Q49280472> ;
     skos:prefLabel "Assen (place)"@en-US,
         "Assen (plaats)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2281> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013608>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/5150529/> ;
+        <https://sws.geonames.org/5150529>,
+        <https://www.wikidata.org/entity/Q37320> ;
     skos:prefLabel "Cleveland (Ohio)"@en-US,
         "Cleveland (Ohio)"@nl-NL .
 
 <https://data.rkd.nl/thesau/236> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7011781>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2643743/> ;
+        <https://sws.geonames.org/2643743>,
+        <https://www.wikidata.org/entity/Q84> ;
     skos:prefLabel "London (England)"@en-US,
         "Londen (Engeland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2431> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013445>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4930956/> ;
+        <https://sws.geonames.org/4930956>,
+        <https://www.wikidata.org/entity/Q100> ;
     skos:prefLabel "Boston (Massachusetts)"@en-US,
         "Boston (Massachusetts)"@nl-NL .
 
 <https://data.rkd.nl/thesau/245> a skos:Concept ;
-    skos:exactMatch <https://sws.geonames.org/3173435/> ;
+    skos:exactMatch <https://sws.geonames.org/3173435> ;
     skos:prefLabel "Milan"@en-US,
         "Milaan"@nl-NL .
 
 <https://data.rkd.nl/thesau/25271> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2634723/> ;
+    skos:exactMatch <https://sws.geonames.org/2634723>,
+        <https://www.wikidata.org/entity/Q23140> ;
     skos:prefLabel "Warwickshire (county)"@en-US,
         "Warwickshire (graafschap)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2606> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004424>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2892794/> ;
+        <https://sws.geonames.org/2892794>,
+        <https://www.wikidata.org/entity/Q1040> ;
     skos:prefLabel "Karlsruhe (city)"@en-US,
         "Karlsruhe (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2608> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007961>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2790869/> ;
+        <https://sws.geonames.org/2790869>,
+        <https://www.wikidata.org/entity/Q34328915> ;
     skos:prefLabel "Mons (Belgium)"@en-US,
         "Mons (België)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2620> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006835>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2749780/> ;
+        <https://sws.geonames.org/2749780>,
+        <https://www.wikidata.org/entity/Q153516> ;
     skos:prefLabel "Nuenen"@en-US,
         "Nuenen"@nl-NL .
 
 <https://data.rkd.nl/thesau/2623> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006839>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2757009/> ;
+        <https://sws.geonames.org/2757009>,
+        <https://www.wikidata.org/entity/Q2583037> ;
     skos:prefLabel "Deurne (place, Noord-Brabant)"@en-US,
         "Deurne (plaats, Noord-Brabant)"@nl-NL .
 
 <https://data.rkd.nl/thesau/2637> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7010955>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2655603/> ;
+        <https://sws.geonames.org/2655603>,
+        <https://www.wikidata.org/entity/Q2256> ;
     skos:prefLabel "Birmingham (Great Britain)"@en-US,
         "Birmingham (Groot-Brittannië)"@nl-NL .
 
 <https://data.rkd.nl/thesau/28594> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3181554/> ;
+    skos:exactMatch <https://sws.geonames.org/3181554>,
+        <https://www.wikidata.org/entity/Q49280505> ;
     skos:prefLabel "Brescia (city)"@en-US,
         "Brescia (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/286> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004472>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/1850147/> ;
+        <https://sws.geonames.org/1850147>,
+        <https://www.wikidata.org/entity/Q1490> ;
     skos:prefLabel "Tokyo (city)"@en-US,
         "Tokyo (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/29> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006952>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2759794/> ;
+        <https://sws.geonames.org/2759794>,
+        <https://www.wikidata.org/entity/Q727> ;
     skos:prefLabel "Amsterdam (city)"@en-US,
         "Amsterdam (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/3> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006810>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2747373/> ;
+        <https://sws.geonames.org/2747373>,
+        <https://www.wikidata.org/entity/Q41795540> ;
     skos:prefLabel "The Hague (city)"@en-US,
         "Den Haag (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/30> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006792>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2747891/> ;
+        <https://sws.geonames.org/2747891>,
+        <https://www.wikidata.org/entity/Q34370> ;
     skos:prefLabel "Rotterdam (city)"@en-US,
         "Rotterdam (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/3018> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7012005>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2641181/> ;
+        <https://sws.geonames.org/2641181>,
+        <https://www.wikidata.org/entity/Q130191> ;
     skos:prefLabel "Norwich (Norfolk)"@en-US,
         "Norwich (Norfolk)"@nl-NL .
 
 <https://data.rkd.nl/thesau/304> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7003321>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2761369/> ;
+        <https://sws.geonames.org/2761369>,
+        <https://www.wikidata.org/entity/Q1741> ;
     skos:prefLabel "Vienna (city)"@en-US,
         "Wenen (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/30411> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013962>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4140963/> ;
+        <https://sws.geonames.org/4140963>,
+        <https://www.wikidata.org/entity/Q61> ;
     skos:prefLabel "Washington (D.C.)"@en-US,
         "Washington (D.C.)"@nl-NL .
 
 <https://data.rkd.nl/thesau/31588> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4955786/> ;
+    skos:exactMatch <https://sws.geonames.org/4955786>,
+        <https://www.wikidata.org/entity/Q983837> ;
     skos:prefLabel "Williamstown (Massachusetts)"@en-US,
         "Williamstown (Massachusetts)"@nl-NL .
 
 <https://data.rkd.nl/thesau/3170> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3165201/> ;
+    skos:exactMatch <https://sws.geonames.org/3165201>,
+        <https://www.wikidata.org/entity/Q49280808> ;
     skos:prefLabel "Treviso (place)"@en-US,
         "Treviso (plaats)"@nl-NL .
 
 <https://data.rkd.nl/thesau/31746> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004478>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/1863967/> ;
+        <https://sws.geonames.org/1863967>,
+        <https://www.wikidata.org/entity/Q26600> ;
     skos:prefLabel "Fukuoka (city)"@en-US,
         "Fukuoka (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/3254> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004905>,
-        <https://sws.geonames.org/2928810/> ;
+        <https://sws.geonames.org/2928810> ;
     skos:prefLabel "Essen (North Rhine-Westphalia)"@en-US,
         "Essen (Noordrijn-Westfalen)"@nl-NL .
 
 <https://data.rkd.nl/thesau/343> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013596>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/4887398/> ;
+        <https://sws.geonames.org/4887398>,
+        <https://www.wikidata.org/entity/Q1297> ;
     skos:prefLabel "Chicago (Illinois)"@en-US,
         "Chicago (Illinois)"@nl-NL .
 
 <https://data.rkd.nl/thesau/344> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7009546>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2650225/> ;
+        <https://sws.geonames.org/2650225>,
+        <https://www.wikidata.org/entity/Q23436> ;
     skos:prefLabel "Edinburgh"@en-US,
         "Edinburgh"@nl-NL .
 
 <https://data.rkd.nl/thesau/34462> a skos:Concept ;
-    skos:exactMatch <https://sws.geonames.org/2112922/> ;
+    skos:exactMatch <https://sws.geonames.org/2112922> ;
     skos:prefLabel "Fukushima (prefecture)"@en-US,
         "Fukushima (prefectuur)"@nl-NL .
 
 <https://data.rkd.nl/thesau/35> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006984>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2755251/> ;
+        <https://sws.geonames.org/2755251>,
+        <https://www.wikidata.org/entity/Q749> ;
     skos:prefLabel "Groningen (city)"@en-US,
         "Groningen (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/354> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007301>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2657970/> ;
+        <https://sws.geonames.org/2657970>,
+        <https://www.wikidata.org/entity/Q9125> ;
     skos:prefLabel "Winterthur (Switzerland)"@en-US,
         "Winterthur (Zwitserland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/355> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007557>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2661552/> ;
+        <https://sws.geonames.org/2661552>,
+        <https://www.wikidata.org/entity/Q70> ;
     skos:prefLabel "Bern (city)"@en-US,
         "Bern (stad)"@nl-NL .
 
@@ -416,49 +416,49 @@
     skos:scopeNote "Een verfstof waarin drogende olie als drager voor het pigment fungeert." .
 
 <https://data.rkd.nl/thesau/385> a skos:Concept ;
-    skos:exactMatch <https://sws.geonames.org/2750405/> ;
+    skos:exactMatch <https://sws.geonames.org/2750405> ;
     skos:prefLabel "Netherlands"@en-US,
         "Nederland"@nl-NL .
 
 <https://data.rkd.nl/thesau/387> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006464>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3067696/> ;
+        <https://sws.geonames.org/3067696>,
+        <https://www.wikidata.org/entity/Q1085> ;
     skos:prefLabel "Prague"@en-US,
         "Praag"@nl-NL .
 
 <https://data.rkd.nl/thesau/392> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007567>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/5128581/> ;
+        <https://sws.geonames.org/5128581>,
+        <https://www.wikidata.org/entity/Q60> ;
     skos:prefLabel "New York City"@en-US,
         "New York City"@nl-NL .
 
 <https://data.rkd.nl/thesau/40114> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7016579>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/1865694/> ;
+        <https://sws.geonames.org/1865694>,
+        <https://www.wikidata.org/entity/Q80434> ;
     skos:prefLabel "Aichi (prefecture)"@en-US,
         "Aichi (prefectuur)"@nl-NL .
 
 <https://data.rkd.nl/thesau/40240> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7016675>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/1862047/> ;
+        <https://sws.geonames.org/1862047>,
+        <https://www.wikidata.org/entity/Q130290> ;
     skos:prefLabel "Hyogo (prefecture)"@en-US,
         "Hyogo (prefectuur)"@nl-NL .
 
 <https://data.rkd.nl/thesau/411> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7010273>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/498817/> ;
+        <https://sws.geonames.org/498817>,
+        <https://www.wikidata.org/entity/Q656> ;
     skos:prefLabel "Sint-Petersburg (city)"@en-US,
         "Sint-Petersburg (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/41540> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7003474>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2618425/> ;
+        <https://sws.geonames.org/2618425>,
+        <https://www.wikidata.org/entity/Q1748> ;
     skos:prefLabel "Copenhagen"@en-US,
         "Kopenhagen"@nl-NL .
 
@@ -468,21 +468,21 @@
 
 <https://data.rkd.nl/thesau/4377> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004432>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2809346/> ;
+        <https://sws.geonames.org/2809346>,
+        <https://www.wikidata.org/entity/Q1721> ;
     skos:prefLabel "Wiesbaden (city)"@en-US,
         "Wiesbaden (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/43916> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7009654>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2977214/> ;
+        <https://sws.geonames.org/2977214>,
+        <https://www.wikidata.org/entity/Q221507> ;
     skos:prefLabel "Saint-Rémy-de-Provence"@en-US,
         "Saint-Rémy-de-Provence"@nl-NL .
 
 <https://data.rkd.nl/thesau/4401> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2946447/> ;
+    skos:exactMatch <https://sws.geonames.org/2946447>,
+        <https://www.wikidata.org/entity/Q31917795> ;
     skos:prefLabel "Bonn"@en-US,
         "Bonn"@nl-NL .
 
@@ -504,52 +504,52 @@
 
 <https://data.rkd.nl/thesau/485> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007269>,
-        <https://sws.geonames.org/2661604/> ;
+        <https://sws.geonames.org/2661604> ;
     skos:prefLabel "Basel (Switzerland)"@en-US,
         "Basel (Zwitserland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/490> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7003712>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2950159/> ;
+        <https://sws.geonames.org/2950159>,
+        <https://www.wikidata.org/entity/Q64> ;
     skos:prefLabel "Berlin (city)"@en-US,
         "Berlijn (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/4902> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008030>,
-        <https://sws.geonames.org/3035864/> ;
+        <https://sws.geonames.org/3035864> ;
     skos:prefLabel "Auvers-sur-Oise"@en-US,
         "Auvers-sur-Oise"@nl-NL .
 
 <https://data.rkd.nl/thesau/494> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2867543/> ;
+    skos:exactMatch <https://sws.geonames.org/2867543>,
+        <https://www.wikidata.org/entity/Q33158887> ;
     skos:prefLabel "Münster (city, Germany)"@en-US,
         "Münster (stad, Duitsland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/5080> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7001933>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2158177/> ;
+        <https://sws.geonames.org/2158177>,
+        <https://www.wikidata.org/entity/Q3141> ;
     skos:prefLabel "Melbourne"@en-US,
         "Melbourne"@nl-NL .
 
 <https://data.rkd.nl/thesau/52> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004446>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2886242/> ;
+        <https://sws.geonames.org/2886242>,
+        <https://www.wikidata.org/entity/Q365> ;
     skos:prefLabel "Keulen (city)"@en-US,
         "Keulen (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/520> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7006280>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/3054643/> ;
+        <https://sws.geonames.org/3054643>,
+        <https://www.wikidata.org/entity/Q1781> ;
     skos:prefLabel "Budapest (city)"@en-US,
         "Boedapest (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/53769> a skos:Concept ;
-    skos:exactMatch <https://sws.geonames.org/1859307/> ;
+    skos:exactMatch <https://sws.geonames.org/1859307> ;
     skos:prefLabel "Kitakyushu"@en-US,
         "Kitakyushu"@nl-NL .
 
@@ -565,21 +565,21 @@
 
 <https://data.rkd.nl/thesau/541> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7017283>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2648579/> ;
+        <https://sws.geonames.org/2648579>,
+        <https://www.wikidata.org/entity/Q4093> ;
     skos:prefLabel "Glasgow (Scotland)"@en-US,
         "Glasgow (Schotland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/5671> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7009880>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/658225/> ;
+        <https://sws.geonames.org/658225>,
+        <https://www.wikidata.org/entity/Q1757> ;
     skos:prefLabel "Helsinki"@en-US,
         "Helsinki"@nl-NL .
 
 <https://data.rkd.nl/thesau/57299> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/8711450>,
-        <https://sws.geonames.org/7286444/> ;
+        <https://sws.geonames.org/7286444> ;
     skos:prefLabel "Martigny (Wallis)"@en-US,
         "Martigny (Wallis)"@nl-NL .
 
@@ -602,7 +602,7 @@
     skos:scopeNote "Slanke, samengeperste cilinders van materiaal dat vaak gemaakt is van gips, dus calciumsulfaat in dihydraatvorm. Wordt meestal gebruikt om op een schoolbord te schrijven, maar ook voor veel andere markeerdoeleinden." .
 
 <https://data.rkd.nl/thesau/60549> a skos:Concept ;
-    skos:exactMatch <https://sws.geonames.org/1853574/> ;
+    skos:exactMatch <https://sws.geonames.org/1853574> ;
     skos:prefLabel "Otsu (Shiga)"@en-US,
         "Otsu (Shiga)"@nl-NL .
 
@@ -711,8 +711,8 @@
 
 <https://data.rkd.nl/thesau/62825> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300015636> ;
-    skos:prefLabel "landscape (genre)"@en-US,
-        "landschap (genre)"@nl-NL ;
+    skos:prefLabel "landscape (visual work)"@en-US,
+        "landschap (beeldend werk)"@nl-NL ;
     skos:scopeNote "Voorstelling waarvan het hoofdonderwerp de omgeving is. Gebruik stadsgezicht voor stadsgezichten." .
 
 <https://data.rkd.nl/thesau/62831> a skos:Concept ;
@@ -728,16 +728,16 @@
     skos:scopeNote "Stillevens met voornamelijk bloemen." .
 
 <https://data.rkd.nl/thesau/62837> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown> ;
+    skos:exactMatch <https://www.wikidata.org/entity/Q2047589> ;
     skos:prefLabel "blossom"@en-US,
         "bloesem"@nl-NL ;
-    skos:scopeNote "bloem als datgene waar zich later een vrucht uit ontwikkelt; al de bloemen van een plant, m.n. van vruchtbomen" .
+    skos:scopeNote "Bloem van Prunus-soorten, gekenmerkt door overvloed in de lente." .
 
 <https://data.rkd.nl/thesau/62842> a skos:Concept ;
-    skos:exactMatch <http://vocab.getty.edu/aat/300264247> ;
-    skos:prefLabel "flower (plant material)"@en-US,
+    skos:exactMatch <http://vocab.getty.edu/aat/300132399> ;
+    skos:prefLabel "flower (plant component)"@en-US,
         "bloem (onderdeel van plant)"@nl-NL ;
-    skos:scopeNote "Het voor voortplanting bestemde deel van een plant uit de divisio Magnoliophyta (Angiospermae), algemene benaming voor bloeiende planten of angiospermae. In de volksmond wordt de term 'bloem' specifiek gebruikt wanneer de voortplantingsstructuur zich qua kleur en vorm geheel of gedeeltelijk duidelijk aftekent." .
+    skos:scopeNote "Aanduiding voor zowel reproducerende spruiten van zaaddragende planten als complete bloemdragende planten. Dat na het uitbotten, veelal onderscheidt door schoonheid van vorm en kleur der (gespecialiseerde) bladen of door een kenmerkende (vaak aangename) geur." .
 
 <https://data.rkd.nl/thesau/62843> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300015638> ;
@@ -747,7 +747,7 @@
 
 <https://data.rkd.nl/thesau/62868> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300025928>,
-        <https://data.rkd.nl/IRIunknown> ;
+        <http://www.iconclass.org/31A71> ;
     skos:prefLabel "man"@en-US,
         "man"@nl-NL ;
     skos:scopeNote "Verwijst naar mannelijke personen vanaf jonge volwassenheid tot gevorderde leeftijd." .
@@ -777,8 +777,8 @@
     skos:scopeNote "Voorstellingen van menselijke figuren die slechts tot hun middel zijn afgebeeld." .
 
 <https://data.rkd.nl/thesau/62941> a skos:Concept ;
-    skos:prefLabel "hilly landscape"@en-US,
-        "heuvellandschap"@nl-NL .
+    skos:prefLabel "hilly landscape (visual work)"@en-US,
+        "heuvellandschap (beeldend werk)"@nl-NL .
 
 <https://data.rkd.nl/thesau/62948> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300224206> ;
@@ -789,7 +789,7 @@
 <https://data.rkd.nl/thesau/62985> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300124520> ;
     skos:prefLabel "interior view"@en-US,
-        "interieur"@nl-NL ;
+        "interieur (voorstelling)"@nl-NL ;
     skos:scopeNote "Voorstellingen van een gebouw, huis of vertrek van binnen. Gebruik \"kerkinterieur\" voor kerkinterieurs." .
 
 <https://data.rkd.nl/thesau/62997> a skos:Concept ;
@@ -806,7 +806,7 @@
 
 <https://data.rkd.nl/thesau/63006> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300438830> ;
-    skos:prefLabel "artist's portrait"@en-US,
+    skos:prefLabel "artists' portrait"@en-US,
         "kunstenaarsportret"@nl-NL ;
     skos:scopeNote "Werken waarin een kunstenaar afgebeeld wordt door een andere kunstenaar. Voor kunstwerken waarin de kunstenaar zichzelf afbeeldt, gebruik 'zelfportretten'." .
 
@@ -817,9 +817,9 @@
     skos:scopeNote "Waterlichamen die in een directe loop stromen, of in een serie divergente of convergente beddingen." .
 
 <https://data.rkd.nl/thesau/63095> a skos:Concept ;
-    skos:prefLabel "river view (predominantly water)"@en-US,
-        "riviergezicht (genre)"@nl-NL ;
-    skos:scopeNote "Voorstelling van schepen op het water, met een minimale aanduiding van het omringend land, ter onderscheiding van \"rivierlandschap\", waarin het omringende land een aanzienlijk onderdeel van de voorstelling vormt. Voor voorstellingen van riviermondingen kan een combinatie van \"riviergezicht (overwegend water)\" met \"zeegezicht\" worden gebruiikt. (G.Krebber, augustus 2003)" .
+    skos:prefLabel "river view"@en-US,
+        "riviergezicht"@nl-NL ;
+    skos:scopeNote "Voorstelling van schepen op het water, met een minimale aanduiding van het omringend land, ter onderscheiding van \"rivierlandschap\", waarin het omringende land een aanzienlijk onderdeel van de voorstelling vormt. Voor voorstellingen van riviermondingen kan een combinatie van \"riviergezicht\" met \"zeegezicht\" worden gebruikt." .
 
 <https://data.rkd.nl/thesau/63118> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300022452> ;
@@ -859,7 +859,7 @@
 
 <https://data.rkd.nl/thesau/63173> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300025943>,
-        <https://data.rkd.nl/IRIunknown> ;
+        <http://www.iconclass.org/31A72> ;
     skos:prefLabel "woman"@en-US,
         "vrouw"@nl-NL ;
     skos:scopeNote "Verwijst naar vrouwelijke personen vanaf jonge volwassenheid tot gevorderde leeftijd." .
@@ -872,7 +872,7 @@
 
 <https://data.rkd.nl/thesau/63196> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300139140> ;
-    skos:prefLabel "genre"@en-US,
+    skos:prefLabel "genre picture"@en-US,
         "genrevoorstelling"@nl-NL ;
     skos:scopeNote "Voorstellingen van situaties of gebeurtenissen uit het (veronderstelde) dagelijks leven." .
 
@@ -883,8 +883,8 @@
 
 <https://data.rkd.nl/thesau/63215> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300015537> ;
-    skos:prefLabel "panorama"@en-US,
-        "panoramalandschap"@nl-NL ;
+    skos:prefLabel "panorama (visual work)"@en-US,
+        "panorama (beeldend werk)"@nl-NL ;
     skos:scopeNote "Verwijst doorgaans naar geschilderde voorstellingen met een zeer breed horizontaal gezichtsveld. De term is ook specifiek van toepassing op foto's waarop een breed beeld te zien is, gemaakt met een panoramacamera of ontstaan door foto's samen te voegen." .
 
 <https://data.rkd.nl/thesau/63225> a skos:Concept ;
@@ -897,8 +897,8 @@
     skos:scopeNote "Voorstelling waarin de uitbeelding van de landelijke omgeving een ondergeschikt bestanddeel van de compositie is en de setting vormt van de hoofdvoorstelling - een genrevoorstelling, historiestuk of portret (R. van Leeuwen, 2007)" .
 
 <https://data.rkd.nl/thesau/63312> a skos:Concept ;
-    skos:prefLabel "farmhouse interior"@en-US,
-        "boerderijinterieur"@nl-NL .
+    skos:prefLabel "farmhouse interior (visual work)"@en-US,
+        "boerderijinterieur (beeldend werk)"@nl-NL .
 
 <https://data.rkd.nl/thesau/63352> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300005283> ;
@@ -912,7 +912,7 @@
         "staand (houding)"@nl-NL .
 
 <https://data.rkd.nl/thesau/63375> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown> ;
+    skos:exactMatch <http://www.iconclass.org/31A2711> ;
     skos:prefLabel "walking"@en-US,
         "lopen"@nl-NL .
 
@@ -924,7 +924,7 @@
 
 <https://data.rkd.nl/thesau/63379> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300263970>,
-        <https://data.rkd.nl/IRIunknown> ;
+        <http://www.iconclass.org/31A235> ;
     skos:prefLabel "sitting"@en-US,
         "zitten"@nl-NL ;
     skos:scopeNote "De handeling waarbij men zich op een object of op de grond plaatst met het lichaamsgewicht op het zitvlak. In verbogen vorm verwijst de term naar een personage in een zittende houding." .
@@ -955,7 +955,8 @@
 
 <https://data.rkd.nl/thesau/63573> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300266506>,
-        <https://data.rkd.nl/IRIunknown> ;
+        <http://www.iconclass.org/25F3>,
+        <https://www.wikidata.org/entity/Q5113> ;
     skos:prefLabel "birds (guide term)"@en-US,
         "vogels (guideterm)"@nl-NL ;
     skos:scopeNote "aves" .
@@ -1062,8 +1063,8 @@
 
 <https://data.rkd.nl/thesau/63976> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300015566> ;
-    skos:prefLabel "topography"@en-US,
-        "topografie"@nl-NL ;
+    skos:prefLabel "topography (representation)"@en-US,
+        "topografie (voorstelling)"@nl-NL ;
     skos:scopeNote "Tweedimensionale beeldende werken, die een bestaande locatie waarheidsgetrouw afbeelden, en die meer documentair dan kunstzinnig van aard zijn. Gebruik voor dergelijk voorstellingen die vooral een kunstzinnig karakter hebben 'landschappen (voorstellingen)', 'zeegezichten', 'marines (beeldmateriaal)', 'stadsgezichten' of 'dorpsgezichten'. Gebruik 'opmetingstekeningen', 'archieftekeningen' of revisietekeningen' voor getrouwe tekeningen van één enkel gebouw." .
 
 <https://data.rkd.nl/thesau/64011> a skos:Concept ;
@@ -1074,14 +1075,14 @@
 
 <https://data.rkd.nl/thesau/64024> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300343635>,
-        <https://data.rkd.nl/IRIunknown> ;
+        <http://www.iconclass.org/24A2> ;
     skos:prefLabel "sunset"@en-US,
         "zonsondergang"@nl-NL ;
     skos:scopeNote "Het schijnbare zakken van de zon achter de horizon, wat het einde van de dag aangeeft." .
 
 <https://data.rkd.nl/thesau/64071> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300053241>,
-        <https://data.rkd.nl/IRIunknown> ;
+        <https://www.wikidata.org/entity/Q186986> ;
     skos:prefLabel "etching (printing process)"@en-US,
         "etsen (drukprocedé)"@nl-NL ;
     skos:scopeNote "Wordt gebruikt voor de diepdruktechniek waarbij een ontwerp wordt gemaakt met een zuurbestendige stof die de metalen drukplaat beschermt. De plaat wordt blootgesteld aan zuur, dat in de plaat inbijt, zodat de delen van de metalen plaat die aan het zuur blootstaan, worden geëtst.. Gebruik 'bijten' voor het inwerken zelf (van zuren op een drukplaat ten gevolge van blootstelling)." .
@@ -1111,6 +1112,7 @@
     skos:scopeNote "Grote en flexibele houders van vlas, jute, een andere stof of plastic, gewoonlijk rechthoekig, open aan één kant en bedoeld voor het bewaren en vervoeren van bijvoorbeeld maïs, meel, fruit, aardappels, hout, kolen of andere producten. Gebruik 'tassen (algemene houders)' voor houders van leer, stof, papier waarvan de opening kan worden afgesloten." .
 
 <https://data.rkd.nl/thesau/64226> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300435305> ;
     skos:prefLabel "potato"@en-US,
         "aardappel"@nl-NL .
 
@@ -1166,7 +1168,7 @@
 
 <https://data.rkd.nl/thesau/64817> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300055474>,
-        <https://data.rkd.nl/IRIunknown> ;
+        <http://www.iconclass.org/42G> ;
     skos:prefLabel "family"@en-US,
         "familie"@nl-NL ;
     skos:scopeNote "Groepen van personen die zijn verbonden door bloed, huwelijk, adoptie of samenwoning." .
@@ -1187,7 +1189,7 @@
         "ploegen (activiteit)"@nl-NL .
 
 <https://data.rkd.nl/thesau/64879> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown> ;
+    skos:exactMatch <https://www.wikidata.org/entity/Q589019> ;
     skos:prefLabel "turf cutting"@en-US,
         "turfsteken"@nl-NL .
 
@@ -1342,8 +1344,8 @@
 
 <https://data.rkd.nl/thesau/659> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007302>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2657896/> ;
+        <https://sws.geonames.org/2657896>,
+        <https://www.wikidata.org/entity/Q72> ;
     skos:prefLabel "Zürich (city)"@en-US,
         "Zürich (stad)"@nl-NL .
 
@@ -1433,8 +1435,8 @@
 
 <https://data.rkd.nl/thesau/6756> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7003614>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2756631/> ;
+        <https://sws.geonames.org/2756631>,
+        <https://www.wikidata.org/entity/Q772> ;
     skos:prefLabel "Drenthe (prov.)"@en-US,
         "Drenthe (prov.)"@nl-NL .
 
@@ -1474,7 +1476,7 @@
 
 <https://data.rkd.nl/thesau/684> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004425>,
-        <https://sws.geonames.org/2825297/> ;
+        <https://sws.geonames.org/2825297> ;
     skos:prefLabel "Stuttgart (city)"@en-US,
         "Stuttgart (stad)"@nl-NL .
 
@@ -1493,15 +1495,15 @@
 
 <https://data.rkd.nl/thesau/698> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7005289>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2911298/> ;
+        <https://sws.geonames.org/2911298>,
+        <https://www.wikidata.org/entity/Q1055> ;
     skos:prefLabel "Hamburg (city)"@en-US,
         "Hamburg (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/714> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008772>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2996944/> ;
+        <https://sws.geonames.org/2996944>,
+        <https://www.wikidata.org/entity/Q456> ;
     skos:prefLabel "Lyon"@en-US,
         "Lyon"@nl-NL .
 
@@ -1556,13 +1558,13 @@
         "[S.l.]"@nl-NL .
 
 <https://data.rkd.nl/thesau/77236> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/1849053/> ;
+    skos:exactMatch <https://sws.geonames.org/1849053>,
+        <https://www.wikidata.org/entity/Q49295349> ;
     skos:prefLabel "Utsunomiya"@en-US,
         "Utsunomiya"@nl-NL .
 
 <https://data.rkd.nl/thesau/77715> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown> ;
+    skos:exactMatch <https://www.wikidata.org/entity/Q2685430> ;
     skos:prefLabel "Etten (Noord-Brabant)"@en-US,
         "Etten (Noord-Brabant)"@nl-NL .
 
@@ -1574,8 +1576,8 @@
 
 <https://data.rkd.nl/thesau/805> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008461>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2998324/> ;
+        <https://sws.geonames.org/2998324>,
+        <https://www.wikidata.org/entity/Q648> ;
     skos:prefLabel "Lille (France)"@en-US,
         "Lille (Frankrijk)"@nl-NL .
 
@@ -1596,8 +1598,8 @@
         "mansportret"@nl-NL .
 
 <https://data.rkd.nl/thesau/8300> a skos:Concept ;
-    skos:exactMatch <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2799114/> ;
+    skos:exactMatch <https://sws.geonames.org/2799114>,
+        <https://www.wikidata.org/entity/Q31571519> ;
     skos:prefLabel "Drogenbos"@en-US,
         "Drogenbos"@nl-NL .
 
@@ -1624,14 +1626,14 @@
 
 <https://data.rkd.nl/thesau/877> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7010413>,
-        <https://sws.geonames.org/3117735/> ;
+        <https://sws.geonames.org/3117735> ;
     skos:prefLabel "Madrid (city, Spain)"@en-US,
         "Madrid (stad, Spanje)"@nl-NL .
 
 <https://data.rkd.nl/thesau/90> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007068>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/2756071/> ;
+        <https://sws.geonames.org/2756071>,
+        <https://www.wikidata.org/entity/Q33435365> ;
     skos:prefLabel "Enschede (city)"@en-US,
         "Enschede (stad)"@nl-NL .
 
@@ -1745,8 +1747,8 @@
 
 <https://data.rkd.nl/thesau/957> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7004499>,
-        <https://data.rkd.nl/IRIunknown>,
-        <https://sws.geonames.org/1856520/> ;
+        <https://sws.geonames.org/1856520>,
+        <https://www.wikidata.org/entity/Q11426430> ;
     skos:prefLabel "Hiroshima (city)"@en-US,
         "Hiroshima (stad)"@nl-NL .
 
