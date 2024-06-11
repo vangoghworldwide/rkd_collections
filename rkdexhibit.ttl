@@ -2279,7 +2279,7 @@
     rdfs:label "Denver (Colorado)Denver (Colorado)" .
 
 <https://data.rkd.nl/thesau/1648> a crm:E53_Place ;
-    rdfs:label "Cardiff (Wales)Cardiff (Wales)" .
+    rdfs:label "Cardiff (city, Wales)Cardiff (plaats, Wales)" .
 
 <https://data.rkd.nl/thesau/1763> a crm:E53_Place ;
     rdfs:label "Liverpool (England)Liverpool (Engeland)" .
@@ -2366,7 +2366,7 @@
     rdfs:label "MelbourneMelbourne" .
 
 <https://data.rkd.nl/thesau/52> a crm:E53_Place ;
-    rdfs:label "Keulen (city)Keulen (stad)" .
+    rdfs:label "Cologne (city)Keulen (stad)" .
 
 <https://data.rkd.nl/thesau/53769> a crm:E53_Place ;
     rdfs:label "KitakyushuKitakyushu" .
@@ -2813,7 +2813,7 @@
     rdfs:label "BonnBonn" .
 
 <https://data.rkd.nl/thesau/541> a crm:E53_Place ;
-    rdfs:label "Glasgow (Scotland)Glasgow (Schotland)" .
+    rdfs:label "Glasgow (city, Scotland)Glasgow (stad, Schotland)" .
 
 <https://data.rkd.nl/thesau/698> a crm:E53_Place ;
     rdfs:label "Hamburg (city)Hamburg (stad)" .
@@ -2915,7 +2915,7 @@
     rdfs:label "Vienna (city)Wenen (stad)" .
 
 <https://data.rkd.nl/thesau/344> a crm:E53_Place ;
-    rdfs:label "EdinburghEdinburgh" .
+    rdfs:label "Edinburgh (city, Scotland)Edinburgh (stad, Schotland)" .
 
 <https://data.rkd.nl/thesau/485> a crm:E53_Place ;
     rdfs:label "Basel (Switzerland)Basel (Zwitserland)" .
@@ -2945,7 +2945,7 @@
     rdfs:label "Amsterdam (city)Amsterdam (stad)" .
 
 <https://data.rkd.nl/thesau/129> a crm:E53_Place ;
-    rdfs:label "ParisParijs" .
+    rdfs:label "Paris (city)Parijs (stad)" .
 
 <https://data.rkd.nl/thesau/236> a crm:E53_Place ;
     rdfs:label "London (England)Londen (Engeland)" .

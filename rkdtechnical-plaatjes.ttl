@@ -1,300 +1,184 @@
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 
-<https://data.rkd.nl/technical/258> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/9e8df49f-50e4-3825-d874-89a57093fe58.jpg> .
+<https://data.rkd.nl/technical/258> crm:P138i_has_representation <https://media.rkd.nl/iiif/0001114133>,
+        <https://media.rkd.nl/iiif/1001645412> .
 
-<https://data.rkd.nl/technical/5018290> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/7737bf75-e63d-0ce4-edb7-69e58e51635a.jpg> .
+<https://data.rkd.nl/technical/5001263> crm:P138i_has_representation <https://media.rkd.nl/iiif/0001114133>,
+        <https://media.rkd.nl/iiif/1001645412> .
 
-<https://data.rkd.nl/technical/5018291> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/0b7c6e47-64e2-be99-7ad7-ceae5eed8e19.jpg> .
+<https://data.rkd.nl/technical/5005863> crm:P138i_has_representation <https://media.rkd.nl/iiif/0001114133>,
+        <https://media.rkd.nl/iiif/1001645412> .
 
-<https://data.rkd.nl/technical/5018307> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/42281586-d881-61ed-e132-b61892fc157d.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/490f1935-bf3f-648a-4044-c74c3642f193.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/923ed9ec-53ca-b1c3-976d-f37aaf7c5eca.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/d0f7b91c-63ab-d4dd-8be8-bf24346f8f15.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/d7206155-71d2-95e2-cd7a-5f9ce53a2dea.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/d76b1fe1-ca4d-c822-b7f2-2e1cf973109b.jpg> .
+<https://data.rkd.nl/technical/5018290> crm:P138i_has_representation <https://media.rkd.nl/iiif/0000370461>,
+        <https://media.rkd.nl/iiif/0001114126>,
+        <https://media.rkd.nl/iiif/1001640142> .
 
-<https://data.rkd.nl/technical/5018309> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/f125f32a-7afe-f8c9-9895-70e5cf6b2c04.jpg> .
+<https://data.rkd.nl/technical/5018291> crm:P138i_has_representation <https://media.rkd.nl/iiif/0000370461>,
+        <https://media.rkd.nl/iiif/0001114126>,
+        <https://media.rkd.nl/iiif/1001640142> .
 
-<https://data.rkd.nl/technical/5018310> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/548822e5-bfac-0b2c-6c76-2c1e13f78a32.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/ef6d47da-381c-a56a-a9a3-8d7ba52ccee3.jpg> .
+<https://data.rkd.nl/technical/5018307> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644106> .
 
-<https://data.rkd.nl/technical/5018314> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/27f50a0f-6005-1e0e-abfa-31aceb4f6fc0.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/87b08b87-facd-66b1-9dc5-e7998bbee025.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/9166b4f5-3604-2b9d-3705-0a7670efeda9.jpg> .
+<https://data.rkd.nl/technical/5018309> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644415> .
 
-<https://data.rkd.nl/technical/5018315> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/5f47b84e-677e-a49a-72fd-5f29c142a416.jpg> .
+<https://data.rkd.nl/technical/5018310> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644415> .
 
-<https://data.rkd.nl/technical/5018479> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/45d9daf7-8d17-480d-7074-e450759aabb9.jpg> .
+<https://data.rkd.nl/technical/5018314> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644415> .
 
-<https://data.rkd.nl/technical/5018505> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/2a2efa60-145c-4292-180c-86222083efcf.jpg> .
+<https://data.rkd.nl/technical/5018315> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644415> .
 
-<https://data.rkd.nl/technical/5018529> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/367b2e21-49c4-4517-6ebd-27dc66b09195.jpg> .
+<https://data.rkd.nl/technical/5018479> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
 
-<https://data.rkd.nl/technical/5018530> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/eeda664e-faf6-d5d4-a48f-fcf6e6227975.jpg> .
+<https://data.rkd.nl/technical/5018505> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001691565> .
 
-<https://data.rkd.nl/technical/5018531> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/b19a322a-4091-ed03-944d-e878292c7f03.jpg> .
+<https://data.rkd.nl/technical/5018529> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694797> .
 
-<https://data.rkd.nl/technical/5018532> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/ed62eb31-e69c-fe60-cd63-65df765ec84a.jpg> .
+<https://data.rkd.nl/technical/5018530> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694797> .
 
-<https://data.rkd.nl/technical/5018533> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/00b89f5c-a8e7-476d-f8df-17a9db7ec17c.jpg> .
+<https://data.rkd.nl/technical/5018531> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694530> .
 
-<https://data.rkd.nl/technical/5018534> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/43beb720-7e1e-495e-d08a-d1f880a528da.jpg> .
+<https://data.rkd.nl/technical/5018532> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694367> .
 
-<https://data.rkd.nl/technical/5018535> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/6cfa944b-dc15-55ba-63ff-31d41b02217f.jpg> .
+<https://data.rkd.nl/technical/5018533> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694366> .
 
-<https://data.rkd.nl/technical/5018536> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/18581565-eb8d-09ea-3f08-414fdf18c43c.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/fcfdd7be-b15a-f300-fd07-6efbaab72ea1.jpg> .
+<https://data.rkd.nl/technical/5018534> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694364> .
 
-<https://data.rkd.nl/technical/5018537> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/f1d20cdd-4d4e-98e6-b2e3-b1515b43de6f.jpg> .
+<https://data.rkd.nl/technical/5018535> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694365> .
 
-<https://data.rkd.nl/technical/5018538> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/0b1387e5-4c99-b4ff-2d17-444990ced10f.jpg> .
+<https://data.rkd.nl/technical/5018536> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
 
-<https://data.rkd.nl/technical/5018539> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/b90a28e1-980d-a26b-de16-c9732cc24805.jpg> .
+<https://data.rkd.nl/technical/5018537> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
 
-<https://data.rkd.nl/technical/5018540> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/74cb75fb-2241-ef5f-9dc4-43982c4477c9.jpg> .
+<https://data.rkd.nl/technical/5018538> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
 
-<https://data.rkd.nl/technical/5018541> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/435242da-6ad1-f11a-315c-a8fcb573a72b.jpg> .
+<https://data.rkd.nl/technical/5018539> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
 
-<https://data.rkd.nl/technical/5018542> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/16d73bdd-e7de-735e-8c61-09c2ef751965.jpg> .
+<https://data.rkd.nl/technical/5018540> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
 
-<https://data.rkd.nl/technical/5018543> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/68ce42ec-9e75-952d-0355-2f7115c8c898.jpg> .
+<https://data.rkd.nl/technical/5018541> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694554> .
 
-<https://data.rkd.nl/technical/5018544> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/74b7fdbd-bb63-17bf-5cc5-b309858f3a32.jpg> .
+<https://data.rkd.nl/technical/5018542> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694555> .
 
-<https://data.rkd.nl/technical/5018547> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/34492b14-6bc1-90ee-a7d8-b4cd6e0d0310.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/77f75579-96d8-f8c5-c350-fbcc6daa5e41.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/8fec1100-21ad-75bb-7545-c516cce7592f.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/d6554111-d070-449f-4a46-72332dda5017.jpg> .
+<https://data.rkd.nl/technical/5018543> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690756> .
 
-<https://data.rkd.nl/technical/5018549> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/7df55674-753c-7d73-c9be-ab4100821bf1.jpg> .
+<https://data.rkd.nl/technical/5018544> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694571> .
 
-<https://data.rkd.nl/technical/5018550> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/bba5299f-9735-1bf1-60c9-1e75c410d2f4.jpg> .
+<https://data.rkd.nl/technical/5018545> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694797> .
 
-<https://data.rkd.nl/technical/5018551> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/9994b886-886c-efa4-99b8-3affa6c5637c.jpg> .
+<https://data.rkd.nl/technical/5018547> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694511> .
 
-<https://data.rkd.nl/technical/5018552> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/925ec67b-b242-44fb-7aaa-b96426350f5c.jpg> .
+<https://data.rkd.nl/technical/5018548> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694511> .
 
-<https://data.rkd.nl/technical/5018553> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/e2c66885-6c2b-5fd0-3fe8-cb7bb3e1bf17.jpg> .
+<https://data.rkd.nl/technical/5018549> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694511> .
 
-<https://data.rkd.nl/technical/5018554> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/95192267-1858-3aa8-8baa-7c568dbb2470.jpg> .
+<https://data.rkd.nl/technical/5018550> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694511> .
 
-<https://data.rkd.nl/technical/5018555> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/65d12c6f-e4fb-41f1-ea0d-59acf2fff6c8.jpg> .
+<https://data.rkd.nl/technical/5018551> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694510> .
 
-<https://data.rkd.nl/technical/5018556> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/b9aa5c17-bd75-0ac6-5b8c-996cf421f343.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/d78b0ad7-6672-e289-b3ad-1bb43640b75b.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/e34315d7-ab8c-6c1a-e1a1-c7d76acd2031.jpg>,
-        <https://images.rkd.nl/rkd/thumb/1920x1080/fb5bb8bc-65fd-322a-6b19-36bae09e7072.jpg> .
+<https://data.rkd.nl/technical/5018552> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694510> .
 
-<https://data.rkd.nl/technical/5018558> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/562b8e23-a3ef-f50d-fb2b-efbd574401ad.jpg> .
+<https://data.rkd.nl/technical/5018553> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694510> .
 
-<https://data.rkd.nl/technical/5018560> crm:P138i_has_representation <https://images.rkd.nl/rkd/thumb/1920x1080/a5453b1f-35eb-3825-795c-994bc9c9251a.jpg> .
+<https://data.rkd.nl/technical/5018554> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/00b89f5c-a8e7-476d-f8df-17a9db7ec17c.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://data.rkd.nl/technical/5018555> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
+
+<https://data.rkd.nl/technical/5018556> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
+
+<https://data.rkd.nl/technical/5018557> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
+
+<https://data.rkd.nl/technical/5018558> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
+
+<https://data.rkd.nl/technical/5018559> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
+
+<https://data.rkd.nl/technical/5018560> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694797> .
+
+<https://media.rkd.nl/iiif/1001644106> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/0b1387e5-4c99-b4ff-2d17-444990ced10f.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001690756> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/0b7c6e47-64e2-be99-7ad7-ceae5eed8e19.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001691565> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/16d73bdd-e7de-735e-8c61-09c2ef751965.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694364> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/18581565-eb8d-09ea-3f08-414fdf18c43c.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694365> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/27f50a0f-6005-1e0e-abfa-31aceb4f6fc0.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694366> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/2a2efa60-145c-4292-180c-86222083efcf.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694367> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/34492b14-6bc1-90ee-a7d8-b4cd6e0d0310.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694530> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/367b2e21-49c4-4517-6ebd-27dc66b09195.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694554> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/42281586-d881-61ed-e132-b61892fc157d.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694555> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/435242da-6ad1-f11a-315c-a8fcb573a72b.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694571> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/43beb720-7e1e-495e-d08a-d1f880a528da.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/0000370461> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/45d9daf7-8d17-480d-7074-e450759aabb9.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/0001114126> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/490f1935-bf3f-648a-4044-c74c3642f193.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001640142> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/548822e5-bfac-0b2c-6c76-2c1e13f78a32.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/0001114133> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/562b8e23-a3ef-f50d-fb2b-efbd574401ad.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001645412> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/5f47b84e-677e-a49a-72fd-5f29c142a416.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694510> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/65d12c6f-e4fb-41f1-ea0d-59acf2fff6c8.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001644415> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/68ce42ec-9e75-952d-0355-2f7115c8c898.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694511> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/6cfa944b-dc15-55ba-63ff-31d41b02217f.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694797> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/74b7fdbd-bb63-17bf-5cc5-b309858f3a32.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001690668> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://images.rkd.nl/rkd/thumb/1920x1080/74cb75fb-2241-ef5f-9dc4-43982c4477c9.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/7737bf75-e63d-0ce4-edb7-69e58e51635a.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/77f75579-96d8-f8c5-c350-fbcc6daa5e41.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/7df55674-753c-7d73-c9be-ab4100821bf1.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/87b08b87-facd-66b1-9dc5-e7998bbee025.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/8fec1100-21ad-75bb-7545-c516cce7592f.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/9166b4f5-3604-2b9d-3705-0a7670efeda9.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/923ed9ec-53ca-b1c3-976d-f37aaf7c5eca.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/925ec67b-b242-44fb-7aaa-b96426350f5c.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/95192267-1858-3aa8-8baa-7c568dbb2470.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/9994b886-886c-efa4-99b8-3affa6c5637c.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/9e8df49f-50e4-3825-d874-89a57093fe58.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/a5453b1f-35eb-3825-795c-994bc9c9251a.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/b19a322a-4091-ed03-944d-e878292c7f03.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/b90a28e1-980d-a26b-de16-c9732cc24805.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/b9aa5c17-bd75-0ac6-5b8c-996cf421f343.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/bba5299f-9735-1bf1-60c9-1e75c410d2f4.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/d0f7b91c-63ab-d4dd-8be8-bf24346f8f15.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/d6554111-d070-449f-4a46-72332dda5017.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/d7206155-71d2-95e2-cd7a-5f9ce53a2dea.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/d76b1fe1-ca4d-c822-b7f2-2e1cf973109b.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/d78b0ad7-6672-e289-b3ad-1bb43640b75b.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/e2c66885-6c2b-5fd0-3fe8-cb7bb3e1bf17.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/e34315d7-ab8c-6c1a-e1a1-c7d76acd2031.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/ed62eb31-e69c-fe60-cd63-65df765ec84a.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/eeda664e-faf6-d5d4-a48f-fcf6e6227975.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/ef6d47da-381c-a56a-a9a3-8d7ba52ccee3.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/f125f32a-7afe-f8c9-9895-70e5cf6b2c04.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/f1d20cdd-4d4e-98e6-b2e3-b1515b43de6f.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/fb5bb8bc-65fd-322a-6b19-36bae09e7072.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
-    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
-
-<https://images.rkd.nl/rkd/thumb/1920x1080/fcfdd7be-b15a-f300-fd07-6efbaab72ea1.jpg> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+<https://media.rkd.nl/iiif/1001694512> a crm:E36_Visual_Item ;
+    dc:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 

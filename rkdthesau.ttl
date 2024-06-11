@@ -42,8 +42,8 @@
     skos:exactMatch <http://vocab.getty.edu/tgn/7008038>,
         <https://sws.geonames.org/2988507>,
         <https://www.wikidata.org/entity/Q90> ;
-    skos:prefLabel "Paris"@en-US,
-        "Parijs"@nl-NL .
+    skos:prefLabel "Paris (city)"@en-US,
+        "Parijs (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1293> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7013527>,
@@ -116,8 +116,8 @@
     skos:exactMatch <http://vocab.getty.edu/tgn/7008742>,
         <https://sws.geonames.org/2653822>,
         <https://www.wikidata.org/entity/Q10690> ;
-    skos:prefLabel "Cardiff (Wales)"@en-US,
-        "Cardiff (Wales)"@nl-NL .
+    skos:prefLabel "Cardiff (city, Wales)"@en-US,
+        "Cardiff (plaats, Wales)"@nl-NL .
 
 <https://data.rkd.nl/thesau/1763> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7010597>,
@@ -374,8 +374,8 @@
     skos:exactMatch <http://vocab.getty.edu/tgn/7009546>,
         <https://sws.geonames.org/2650225>,
         <https://www.wikidata.org/entity/Q23436> ;
-    skos:prefLabel "Edinburgh"@en-US,
-        "Edinburgh"@nl-NL .
+    skos:prefLabel "Edinburgh (city, Scotland)"@en-US,
+        "Edinburgh (stad, Schotland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/34462> a skos:Concept ;
     skos:exactMatch <https://sws.geonames.org/2112922> ;
@@ -499,8 +499,8 @@
     skos:scopeNote "Zwart krijt dat is gemaakt van verkoolde takjes, meestal van een wilg of een wijnstok, of van samengeperst houtskool." .
 
 <https://data.rkd.nl/thesau/47666> a skos:Concept ;
-    skos:prefLabel "aquarel paint (watercolor)"@en-US,
-        "aquarelverf (waterverf)"@nl-NL .
+    skos:prefLabel "aquarelle paint"@en-US,
+        "aquarelverf"@nl-NL .
 
 <https://data.rkd.nl/thesau/485> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7007269>,
@@ -538,7 +538,7 @@
     skos:exactMatch <http://vocab.getty.edu/tgn/7004446>,
         <https://sws.geonames.org/2886242>,
         <https://www.wikidata.org/entity/Q365> ;
-    skos:prefLabel "Keulen (city)"@en-US,
+    skos:prefLabel "Cologne (city)"@en-US,
         "Keulen (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/520> a skos:Concept ;
@@ -567,8 +567,8 @@
     skos:exactMatch <http://vocab.getty.edu/tgn/7017283>,
         <https://sws.geonames.org/2648579>,
         <https://www.wikidata.org/entity/Q4093> ;
-    skos:prefLabel "Glasgow (Scotland)"@en-US,
-        "Glasgow (Schotland)"@nl-NL .
+    skos:prefLabel "Glasgow (city, Scotland)"@en-US,
+        "Glasgow (stad, Schotland)"@nl-NL .
 
 <https://data.rkd.nl/thesau/5671> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7009880>,
@@ -752,6 +752,12 @@
         "man"@nl-NL ;
     skos:scopeNote "Verwijst naar mannelijke personen vanaf jonge volwassenheid tot gevorderde leeftijd." .
 
+<https://data.rkd.nl/thesau/62872> a skos:Concept ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300025607> ;
+    skos:prefLabel "farmer"@en-US,
+        "boer"@nl-NL ;
+    skos:scopeNote "Zij die land bewerken of bebouwen of vee houden, voornamelijk als hun belangrijkste bezigheid." .
+
 <https://data.rkd.nl/thesau/62879> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300007858> ;
     skos:prefLabel "drawbridge"@en-US,
@@ -883,13 +889,13 @@
 
 <https://data.rkd.nl/thesau/63215> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300015537> ;
-    skos:prefLabel "panorama (visual work)"@en-US,
-        "panorama (beeldend werk)"@nl-NL ;
+    skos:prefLabel "panorama landscape (visual work)"@en-US,
+        "panoramalandschap (beeldend werk)"@nl-NL ;
     skos:scopeNote "Verwijst doorgaans naar geschilderde voorstellingen met een zeer breed horizontaal gezichtsveld. De term is ook specifiek van toepassing op foto's waarop een breed beeld te zien is, gemaakt met een panoramacamera of ontstaan door foto's samen te voegen." .
 
 <https://data.rkd.nl/thesau/63225> a skos:Concept ;
-    skos:prefLabel "village (in the background)"@en-US,
-        "dorp (in de achtergrond)"@nl-NL .
+    skos:prefLabel "village in the background"@en-US,
+        "dorp in de achtergrond"@nl-NL .
 
 <https://data.rkd.nl/thesau/63226> a skos:Concept ;
     skos:prefLabel "in a landscape"@en-US,
@@ -911,11 +917,6 @@
     skos:prefLabel "standing (position)"@en-US,
         "staand (houding)"@nl-NL .
 
-<https://data.rkd.nl/thesau/63375> a skos:Concept ;
-    skos:exactMatch <http://www.iconclass.org/31A2711> ;
-    skos:prefLabel "walking"@en-US,
-        "lopen"@nl-NL .
-
 <https://data.rkd.nl/thesau/63378> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300037772> ;
     skos:prefLabel "chair"@en-US,
@@ -926,7 +927,7 @@
     skos:exactMatch <http://vocab.getty.edu/aat/300263970>,
         <http://www.iconclass.org/31A235> ;
     skos:prefLabel "sitting"@en-US,
-        "zitten"@nl-NL ;
+        "zittend"@nl-NL ;
     skos:scopeNote "De handeling waarbij men zich op een object of op de grond plaatst met het lichaamsgewicht op het zitvlak. In verbogen vorm verwijst de term naar een personage in een zittende houding." .
 
 <https://data.rkd.nl/thesau/63394> a skos:Concept ;
@@ -986,8 +987,10 @@
     skos:scopeNote "Voorgevormde hoofddeksels met een rand en een bol, of één van beide." .
 
 <https://data.rkd.nl/thesau/63730> a skos:Concept ;
-    skos:prefLabel "walker"@en-US,
-        "wandelaar"@nl-NL .
+    skos:exactMatch <https://www.wikidata.org/entity/Q13105405> ;
+    skos:prefLabel "hiker"@en-US,
+        "wandelaar"@nl-NL ;
+    skos:scopeNote "Persoon die wandelt." .
 
 <https://data.rkd.nl/thesau/63751> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300210063> ;
@@ -1149,7 +1152,8 @@
     skos:scopeNote "Wordt gebruikt voor het procédé waarbij iets wordt veranderd, beschadigd of verteerd door vuur of hitte. Gebruik 'branden' als iets geheel of gedeeltelijk wordt verteerd door vuur, hetzij opzettelijk, hetzij per ongeluk." .
 
 <https://data.rkd.nl/thesau/64502> a skos:Concept ;
-    skos:exactMatch <http://vocab.getty.edu/aat/300248181> ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300248181>,
+        <http://www.iconclass.org/31A2711> ;
     skos:prefLabel "walking"@en-US,
         "wandelen"@nl-NL ;
     skos:scopeNote "Het reizen te voet in gematigd tempo, zich met stappen voortbewegend, waarbij de voeten om beurten worden verplaatst zodat er zich altijd één voet op de grond bevindt bij tweevoetige voortbeweging en twee of meerdere voeten bij viervoetige voortbeweging." .
@@ -1195,7 +1199,7 @@
 
 <https://data.rkd.nl/thesau/64881> a skos:Concept ;
     skos:prefLabel "peasant woman"@en-US,
-        "boerin (volkstype)"@nl-NL .
+        "boerin"@nl-NL .
 
 <https://data.rkd.nl/thesau/64883> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/aat/300008890> ;
@@ -1437,8 +1441,8 @@
     skos:exactMatch <http://vocab.getty.edu/tgn/7003614>,
         <https://sws.geonames.org/2756631>,
         <https://www.wikidata.org/entity/Q772> ;
-    skos:prefLabel "Drenthe (prov.)"@en-US,
-        "Drenthe (prov.)"@nl-NL .
+    skos:prefLabel "Drenthe (province)"@en-US,
+        "Drenthe (provincie)"@nl-NL .
 
 <https://data.rkd.nl/thesau/67565> a skos:Concept ;
     skos:prefLabel "stooping"@en-US,
@@ -1554,6 +1558,7 @@
         "voorover gebogen"@nl-NL .
 
 <https://data.rkd.nl/thesau/77089> a skos:Concept ;
+    skos:exactMatch <https://sws.geonames.org/> ;
     skos:prefLabel "[S.l.]"@en-US,
         "[S.l.]"@nl-NL .
 
@@ -1567,12 +1572,6 @@
     skos:exactMatch <https://www.wikidata.org/entity/Q2685430> ;
     skos:prefLabel "Etten (Noord-Brabant)"@en-US,
         "Etten (Noord-Brabant)"@nl-NL .
-
-<https://data.rkd.nl/thesau/79827> a skos:Concept ;
-    skos:exactMatch <http://vocab.getty.edu/aat/300256273> ;
-    skos:prefLabel "topography (image-making)"@en-US,
-        "topografie (beeldvervaardiging)"@nl-NL ;
-    skos:scopeNote "Wordt gebruikt voor het nauwkeurig, grafisch in kaart brengen van natuurlijke en door de mens gemaakte landschapselementen van een specifiek verstedelijkt gebied, stuk land of andere plaats, met name om hun ligging ten opzichte van elkaar en hun hoogte te laten zien. Gebruik 'topografie (kenmerk)' voor de reliëfelementen of de oppervlaktekenmerken van een plaats of object, waaronder natuurlijke en door de mens gecreëerde elementen." .
 
 <https://data.rkd.nl/thesau/805> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008461>,
@@ -1728,14 +1727,8 @@
         "doorvallend licht"@nl-NL .
 
 <https://data.rkd.nl/thesau/91327> a skos:Concept ;
-    skos:prefLabel "town (in the background)"@en-US,
-        "stad (in de achtergrond)"@nl-NL .
-
-<https://data.rkd.nl/thesau/93011> a skos:Concept ;
-    skos:exactMatch <http://vocab.getty.edu/aat/300025607> ;
-    skos:prefLabel "farmer"@en-US,
-        "boer (agrariër)"@nl-NL ;
-    skos:scopeNote "Zij die land bewerken of bebouwen of vee houden, voornamelijk als hun belangrijkste bezigheid." .
+    skos:prefLabel "town in the background"@en-US,
+        "stad in de achtergrond"@nl-NL .
 
 <https://data.rkd.nl/thesau/93073> a skos:Concept ;
     skos:prefLabel "brown ink"@en-US,
