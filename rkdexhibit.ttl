@@ -2885,7 +2885,7 @@
     rdfs:label "Essen (North Rhine-Westphalia)Essen (Noordrijn-Westfalen)" .
 
 <https://data.rkd.nl/thesau/490> a crm:E53_Place ;
-    rdfs:label "Berlin (city, Germany)Berlijn (stad, Duitsland)" .
+    rdfs:label "Berlin (city)Berlijn (stad)" .
 
 <https://data.rkd.nl/thesau/659> a crm:E53_Place ;
     rdfs:label "Zürich (city)Zürich (stad)" .

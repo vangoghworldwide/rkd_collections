@@ -26,10 +26,6 @@
     crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018307/production> ;
     crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
 
-<https://data.rkd.nl/technical/5018308> a crm:E22_Human-Made_Object ;
-    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018308/production> ;
-    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
-
 <https://data.rkd.nl/technical/5018309> a crm:E22_Human-Made_Object ;
     crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018309/production> ;
     crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
@@ -122,10 +118,6 @@
     crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018545/production> ;
     crm:P2_has_type <https://data.rkd.nl/thesau/90844> .
 
-<https://data.rkd.nl/technical/5018546> a crm:E22_Human-Made_Object ;
-    crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018546/production> ;
-    crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
-
 <https://data.rkd.nl/technical/5018547> a crm:E22_Human-Made_Object ;
     crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018547/production> ;
     crm:P2_has_type <https://data.rkd.nl/thesau/90944> .
@@ -181,6 +173,9 @@
     crm:P108i_was_produced_by <https://data.rkd.nl/technical/5018560/production> ;
     crm:P2_has_type <https://data.rkd.nl/thesau/91096> .
 
+<https://data.rkd.nl/artists/357446> a crm:E39_Actor ;
+    rdfs:label "Smit, Ingeborg" .
+
 <https://data.rkd.nl/artists/440500> a crm:E39_Actor ;
     rdfs:label "Gerritsen, René" .
 
@@ -199,6 +194,8 @@
 <https://data.rkd.nl/artists/502262> a crm:E39_Actor ;
     rdfs:label "Bosc, Marion" .
 
+<https://data.rkd.nl/images/298357> a crm:E22_Human-Made_Object .
+
 <https://data.rkd.nl/images/301650> a crm:E22_Human-Made_Object .
 
 <https://data.rkd.nl/images/301764> a crm:E22_Human-Made_Object .
@@ -210,8 +207,6 @@
 <https://data.rkd.nl/images/301767> a crm:E22_Human-Made_Object .
 
 <https://data.rkd.nl/images/302398> a crm:E22_Human-Made_Object .
-
-<https://data.rkd.nl/images/302708> a crm:E22_Human-Made_Object .
 
 <https://data.rkd.nl/images/302813> a crm:E22_Human-Made_Object .
 
@@ -261,17 +256,6 @@
     crm:P14_carried_out_by <https://data.rkd.nl/artists/357446> ;
     crm:P16_used_specific_object <https://data.rkd.nl/images/298357> ;
     crm:P32_used_general_technique <https://data.rkd.nl/thesau/90915> ;
-    crm:P4_has_time-span [ a crm:E52_Time-Span ;
-            crm:P82a_begin_of_the_begin "2019-03-04T00:00:00"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "2019-03-04T23:59:59"^^xsd:dateTime ] ;
-    crm:P9i_forms_part_of [ a crm:E7_Activity ;
-            rdfs:label "" ;
-            crm:P2_has_type <https://data.rkd.nl/thesau/91024> ] .
-
-<https://data.rkd.nl/technical/5018308/production> a crm:E12_Production ;
-    crm:P14_carried_out_by <https://data.rkd.nl/artists/357446> ;
-    crm:P16_used_specific_object <https://data.rkd.nl/images/298357> ;
-    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90916> ;
     crm:P4_has_time-span [ a crm:E52_Time-Span ;
             crm:P82a_begin_of_the_begin "2019-03-04T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "2019-03-04T23:59:59"^^xsd:dateTime ] ;
@@ -442,10 +426,6 @@
             rdfs:label "" ;
             crm:P2_has_type <https://data.rkd.nl/thesau/91064> ] .
 
-<https://data.rkd.nl/technical/5018546/production> a crm:E12_Production ;
-    crm:P16_used_specific_object <https://data.rkd.nl/images/302708> ;
-    crm:P32_used_general_technique <https://data.rkd.nl/thesau/90912> .
-
 <https://data.rkd.nl/technical/5018547/production> a crm:E12_Production ;
     crm:P14_carried_out_by <https://data.rkd.nl/artists/110248> ;
     crm:P16_used_specific_object <https://data.rkd.nl/images/304688> ;
@@ -548,6 +528,9 @@
 <https://data.rkd.nl/thesau/90961> a crm:E55_Type ;
     rdfs:label "not specified" .
 
+<https://data.rkd.nl/thesau/91024> a crm:E55_Type ;
+    rdfs:label "condition check" .
+
 <https://data.rkd.nl/thesau/91026> a crm:E55_Type ;
     rdfs:label "ultraviolet reflection studies" .
 
@@ -566,13 +549,8 @@
 <https://data.rkd.nl/artists/294658> a crm:E39_Actor ;
     rdfs:label "Johnson, Don H." .
 
-<https://data.rkd.nl/artists/357446> a crm:E39_Actor ;
-    rdfs:label "Smit, Ingeborg" .
-
 <https://data.rkd.nl/artists/438557> a crm:E39_Actor ;
     rdfs:label "Asperen de Boer, J.R.J. van" .
-
-<https://data.rkd.nl/images/298357> a crm:E22_Human-Made_Object .
 
 <https://data.rkd.nl/images/52947> a crm:E22_Human-Made_Object .
 
@@ -584,9 +562,6 @@
 
 <https://data.rkd.nl/thesau/90944> a crm:E55_Type ;
     rdfs:label "X-radiograph film (print)" .
-
-<https://data.rkd.nl/thesau/91024> a crm:E55_Type ;
-    rdfs:label "condition check" .
 
 <https://data.rkd.nl/artists/460252> a crm:E39_Actor ;
     rdfs:label "Bosc, Marion" .
@@ -617,16 +592,16 @@
 <https://data.rkd.nl/artists/501469> a crm:E39_Actor ;
     rdfs:label "Liedtke, Kristina" .
 
+<https://data.rkd.nl/thesau/90916> a crm:E55_Type ;
+    rdfs:label "normal light studies",
+        "ultraviolet light studies" .
+
 <https://data.rkd.nl/artists/488677> a crm:E39_Actor ;
     rdfs:label "Staatliche Kunsthalle Karlsruhe" .
 
 <https://data.rkd.nl/images/302371> a crm:E22_Human-Made_Object .
 
 <https://data.rkd.nl/images/304689> a crm:E22_Human-Made_Object .
-
-<https://data.rkd.nl/thesau/90916> a crm:E55_Type ;
-    rdfs:label "normal light studies",
-        "ultraviolet light studies" .
 
 <https://data.rkd.nl/thesau/90913> a crm:E55_Type ;
     rdfs:label "normal light studies",

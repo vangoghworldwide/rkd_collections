@@ -512,8 +512,8 @@
     skos:exactMatch <http://vocab.getty.edu/tgn/7003712>,
         <https://sws.geonames.org/2950159>,
         <https://www.wikidata.org/entity/Q64> ;
-    skos:prefLabel "Berlin (city, Germany)"@en-US,
-        "Berlijn (stad, Duitsland)"@nl-NL .
+    skos:prefLabel "Berlin (city)"@en-US,
+        "Berlijn (stad)"@nl-NL .
 
 <https://data.rkd.nl/thesau/4902> a skos:Concept ;
     skos:exactMatch <http://vocab.getty.edu/tgn/7008030>,
