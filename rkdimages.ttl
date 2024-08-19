@@ -7240,7 +7240,7 @@
             crm:P67i_is_referred_to_by [ a crm:E33_Linguistic_Object ;
                     crm:P190_has_symbolic_content "F909" ;
                     crm:P2_has_type <http://vocab.getty.edu/aat/300435440> ] ] ;
-    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/20220511> .
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F909> .
 
 <https://data.rkd.nl/images/305257> a crm:E22_Human-Made_Object ;
     crm:P108i_was_produced_by <https://data.rkd.nl/images/production/305257> ;
