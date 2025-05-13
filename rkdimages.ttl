@@ -2912,7 +2912,8 @@
             crm:P106i_forms_part_of <https://data.rkd.nl/library/104442> ;
             crm:P67i_is_referred_to_by [ a crm:E33_Linguistic_Object ;
                     crm:P190_has_symbolic_content "F1664-10" ;
-                    crm:P2_has_type <http://vocab.getty.edu/aat/300435440> ] ] .
+                    crm:P2_has_type <http://vocab.getty.edu/aat/300435440> ] ] ;
+	rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1664-10> .
 
 <https://data.rkd.nl/images/305107> a crm:E22_Human-Made_Object ;
     crm:P108i_was_produced_by <https://data.rkd.nl/images/production/305107> ;
@@ -6289,7 +6290,8 @@
             crm:P106i_forms_part_of <https://data.rkd.nl/library/104442> ;
             crm:P67i_is_referred_to_by [ a crm:E33_Linguistic_Object ;
                     crm:P190_has_symbolic_content "F1472" ;
-                    crm:P2_has_type <http://vocab.getty.edu/aat/300435440> ] ] .
+                    crm:P2_has_type <http://vocab.getty.edu/aat/300435440> ] ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1472> .
 
 <https://data.rkd.nl/images/304425> a crm:E22_Human-Made_Object ;
     crm:P108i_was_produced_by <https://data.rkd.nl/images/production/304425> ;
@@ -6336,7 +6338,8 @@
                     crm:P2_has_type <http://vocab.getty.edu/aat/300435440> ] ],
         [ a crm:E33_Linguistic_Object ;
             crm:P190_has_symbolic_content "Graphit und Rohrfeder in Braun" ;
-            crm:P2_has_type <http://vocab.getty.edu/aat/300435429> ] .
+            crm:P2_has_type <http://vocab.getty.edu/aat/300435429> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1473> .
 
 <https://data.rkd.nl/images/304427> a crm:E22_Human-Made_Object ;
     crm:P108i_was_produced_by <https://data.rkd.nl/images/production/304427> ;
@@ -6379,7 +6382,8 @@
                     crm:P2_has_type <http://vocab.getty.edu/aat/300435440> ] ],
         [ a crm:E33_Linguistic_Object ;
             crm:P190_has_symbolic_content "Schwarze Kreide und Rohrfeder in Braun, auf leicht rötlichem Papier" ;
-            crm:P2_has_type <http://vocab.getty.edu/aat/300435429> ] .
+            crm:P2_has_type <http://vocab.getty.edu/aat/300435429> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1552> .
 
 <https://data.rkd.nl/images/304789> a crm:E22_Human-Made_Object ;
     crm:P108i_was_produced_by <https://data.rkd.nl/images/production/304789> ;
