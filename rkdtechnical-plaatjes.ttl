@@ -1,5 +1,5 @@
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
-@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 
 <https://data.rkd.nl/technical/258> crm:P138i_has_representation <https://media.rkd.nl/iiif/10789422> .
 
@@ -95,217 +95,218 @@
 <https://data.rkd.nl/technical/5018560> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716010> .
 
 <https://media.rkd.nl/iiif/10603193> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10704299> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10704303> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10707893> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10707923> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708224> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708225> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708231> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708232> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708233> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708426> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708427> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708428> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708978> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708979> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10708982> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10714082> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10714083> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10714084> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10714085> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10714315> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10714834> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10714976> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716008> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716010> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716032> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716196> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716199> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716290> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716292> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716293> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716294> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716296> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716297> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716302> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716384> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716386> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716387> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716388> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716389> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716390> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716391> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716392> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716393> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716394> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716395> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716398> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716399> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716400> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716401> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716402> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716403> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10716404> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
 <https://media.rkd.nl/iiif/10789422> a crm:E36_Visual_Item ;
-    dc:format "image/jpeg" ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
