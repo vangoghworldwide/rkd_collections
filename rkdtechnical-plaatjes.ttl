@@ -1,184 +1,311 @@
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
 
-<https://data.rkd.nl/technical/258> crm:P138i_has_representation <https://media.rkd.nl/iiif/0001114133>,
-        <https://media.rkd.nl/iiif/1001645412> .
+<https://data.rkd.nl/technical/258> crm:P138i_has_representation <https://media.rkd.nl/iiif/10789422> .
 
-<https://data.rkd.nl/technical/5001263> crm:P138i_has_representation <https://media.rkd.nl/iiif/0001114133>,
-        <https://media.rkd.nl/iiif/1001645412> .
+<https://data.rkd.nl/technical/5018290> crm:P138i_has_representation <https://media.rkd.nl/iiif/10704303> .
 
-<https://data.rkd.nl/technical/5005863> crm:P138i_has_representation <https://media.rkd.nl/iiif/0001114133>,
-        <https://media.rkd.nl/iiif/1001645412> .
+<https://data.rkd.nl/technical/5018291> crm:P138i_has_representation <https://media.rkd.nl/iiif/10704299> .
 
-<https://data.rkd.nl/technical/5018290> crm:P138i_has_representation <https://media.rkd.nl/iiif/0000370461>,
-        <https://media.rkd.nl/iiif/0001114126>,
-        <https://media.rkd.nl/iiif/1001640142> .
+<https://data.rkd.nl/technical/5018307> crm:P138i_has_representation <https://media.rkd.nl/iiif/10707893>,
+        <https://media.rkd.nl/iiif/10708224>,
+        <https://media.rkd.nl/iiif/10708225>,
+        <https://media.rkd.nl/iiif/10708231>,
+        <https://media.rkd.nl/iiif/10708232>,
+        <https://media.rkd.nl/iiif/10708233> .
 
-<https://data.rkd.nl/technical/5018291> crm:P138i_has_representation <https://media.rkd.nl/iiif/0000370461>,
-        <https://media.rkd.nl/iiif/0001114126>,
-        <https://media.rkd.nl/iiif/1001640142> .
+<https://data.rkd.nl/technical/5018309> crm:P138i_has_representation <https://media.rkd.nl/iiif/10708426> .
 
-<https://data.rkd.nl/technical/5018307> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644106> .
+<https://data.rkd.nl/technical/5018310> crm:P138i_has_representation <https://media.rkd.nl/iiif/10708427>,
+        <https://media.rkd.nl/iiif/10708428> .
 
-<https://data.rkd.nl/technical/5018309> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644415> .
+<https://data.rkd.nl/technical/5018314> crm:P138i_has_representation <https://media.rkd.nl/iiif/10707923>,
+        <https://media.rkd.nl/iiif/10708978>,
+        <https://media.rkd.nl/iiif/10708979> .
 
-<https://data.rkd.nl/technical/5018310> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644415> .
+<https://data.rkd.nl/technical/5018315> crm:P138i_has_representation <https://media.rkd.nl/iiif/10708982> .
 
-<https://data.rkd.nl/technical/5018314> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644415> .
+<https://data.rkd.nl/technical/5018479> crm:P138i_has_representation <https://media.rkd.nl/iiif/10714315> .
 
-<https://data.rkd.nl/technical/5018315> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001644415> .
+<https://data.rkd.nl/technical/5018505> crm:P138i_has_representation <https://media.rkd.nl/iiif/10714976> .
 
-<https://data.rkd.nl/technical/5018479> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
+<https://data.rkd.nl/technical/5018529> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716196> .
 
-<https://data.rkd.nl/technical/5018505> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001691565> .
+<https://data.rkd.nl/technical/5018530> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716199> .
 
-<https://data.rkd.nl/technical/5018529> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694797> .
+<https://data.rkd.nl/technical/5018531> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716008> .
 
-<https://data.rkd.nl/technical/5018530> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694797> .
+<https://data.rkd.nl/technical/5018532> crm:P138i_has_representation <https://media.rkd.nl/iiif/10714082> .
 
-<https://data.rkd.nl/technical/5018531> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694530> .
+<https://data.rkd.nl/technical/5018533> crm:P138i_has_representation <https://media.rkd.nl/iiif/10714083> .
 
-<https://data.rkd.nl/technical/5018532> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694367> .
+<https://data.rkd.nl/technical/5018534> crm:P138i_has_representation <https://media.rkd.nl/iiif/10714085> .
 
-<https://data.rkd.nl/technical/5018533> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694366> .
+<https://data.rkd.nl/technical/5018535> crm:P138i_has_representation <https://media.rkd.nl/iiif/10714084> .
 
-<https://data.rkd.nl/technical/5018534> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694364> .
+<https://data.rkd.nl/technical/5018536> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716290>,
+        <https://media.rkd.nl/iiif/10716293> .
 
-<https://data.rkd.nl/technical/5018535> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694365> .
+<https://data.rkd.nl/technical/5018537> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716292> .
 
-<https://data.rkd.nl/technical/5018536> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
+<https://data.rkd.nl/technical/5018538> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716294> .
 
-<https://data.rkd.nl/technical/5018537> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
+<https://data.rkd.nl/technical/5018539> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716296> .
 
-<https://data.rkd.nl/technical/5018538> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
+<https://data.rkd.nl/technical/5018540> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716297> .
 
-<https://data.rkd.nl/technical/5018539> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
+<https://data.rkd.nl/technical/5018541> crm:P138i_has_representation <https://media.rkd.nl/iiif/10714834> .
 
-<https://data.rkd.nl/technical/5018540> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690668> .
+<https://data.rkd.nl/technical/5018542> crm:P138i_has_representation <https://media.rkd.nl/iiif/10603193> .
 
-<https://data.rkd.nl/technical/5018541> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694554> .
+<https://data.rkd.nl/technical/5018543> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716302> .
 
-<https://data.rkd.nl/technical/5018542> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694555> .
+<https://data.rkd.nl/technical/5018544> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716032> .
 
-<https://data.rkd.nl/technical/5018543> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001690756> .
+<https://data.rkd.nl/technical/5018547> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716391>,
+        <https://media.rkd.nl/iiif/10716392>,
+        <https://media.rkd.nl/iiif/10716393>,
+        <https://media.rkd.nl/iiif/10716394> .
 
-<https://data.rkd.nl/technical/5018544> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694571> .
+<https://data.rkd.nl/technical/5018548> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716390> .
 
-<https://data.rkd.nl/technical/5018545> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694797> .
+<https://data.rkd.nl/technical/5018549> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716389> .
 
-<https://data.rkd.nl/technical/5018547> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694511> .
+<https://data.rkd.nl/technical/5018550> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716388> .
 
-<https://data.rkd.nl/technical/5018548> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694511> .
+<https://data.rkd.nl/technical/5018551> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716384> .
 
-<https://data.rkd.nl/technical/5018549> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694511> .
+<https://data.rkd.nl/technical/5018552> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716386> .
 
-<https://data.rkd.nl/technical/5018550> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694511> .
+<https://data.rkd.nl/technical/5018553> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716387> .
 
-<https://data.rkd.nl/technical/5018551> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694510> .
+<https://data.rkd.nl/technical/5018554> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716395> .
 
-<https://data.rkd.nl/technical/5018552> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694510> .
+<https://data.rkd.nl/technical/5018555> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716398> .
 
-<https://data.rkd.nl/technical/5018553> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694510> .
+<https://data.rkd.nl/technical/5018556> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716399>,
+        <https://media.rkd.nl/iiif/10716400>,
+        <https://media.rkd.nl/iiif/10716401>,
+        <https://media.rkd.nl/iiif/10716402> .
 
-<https://data.rkd.nl/technical/5018554> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
+<https://data.rkd.nl/technical/5018557> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716403> .
 
-<https://data.rkd.nl/technical/5018555> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
+<https://data.rkd.nl/technical/5018558> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716404> .
 
-<https://data.rkd.nl/technical/5018556> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
+<https://data.rkd.nl/technical/5018560> crm:P138i_has_representation <https://media.rkd.nl/iiif/10716010> .
 
-<https://data.rkd.nl/technical/5018557> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
-
-<https://data.rkd.nl/technical/5018558> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
-
-<https://data.rkd.nl/technical/5018559> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694512> .
-
-<https://data.rkd.nl/technical/5018560> crm:P138i_has_representation <https://media.rkd.nl/iiif/1001694797> .
-
-<https://media.rkd.nl/iiif/1001644106> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10603193> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001690756> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10704299> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001691565> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10704303> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694364> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10707893> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694365> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10707923> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694366> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708224> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694367> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708225> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694530> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708231> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694554> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708232> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694555> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708233> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694571> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708426> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/0000370461> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708427> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/0001114126> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708428> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001640142> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708978> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/0001114133> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708979> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001645412> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10708982> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694510> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10714082> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001644415> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10714083> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694511> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10714084> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694797> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10714085> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001690668> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10714315> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
-<https://media.rkd.nl/iiif/1001694512> a crm:E36_Visual_Item ;
-    dcterms:conformsTo <http://iiif.io/api/image> ;
+<https://media.rkd.nl/iiif/10714834> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
 
+<https://media.rkd.nl/iiif/10714976> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716008> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716010> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716032> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716196> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716199> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716290> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716292> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716293> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716294> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716296> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716297> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716302> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716384> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716386> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716387> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716388> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716389> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716390> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716391> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716392> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716393> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716394> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716395> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716398> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716399> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716400> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716401> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716402> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716403> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10716404> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10789422> a crm:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300215302> .
